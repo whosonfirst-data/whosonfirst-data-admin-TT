@@ -1,0 +1,70 @@
+{
+  "id": 1277113073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.03053,10.70149,-61.03053,10.70149",
+    "geom:latitude":10.70149,
+    "geom:longitude":-61.03053,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Salybia",
+    "gn:country_code":"TT",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573750,
+    "gn:latitude":10.70149,
+    "gn:longitude":-61.03053,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Salybia",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salibia Village",
+        "Salibea",
+        "Salybia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573750
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"572cc42e79f6bdd02a03fa19b19e2f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1277113073,
+            "region_id":85679047
+        }
+    ],
+    "wof:id":1277113073,
+    "wof:lastmodified":1537708411,
+    "wof:name":"Salybia",
+    "wof:parent_id":85679047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.03053000000001,
+    10.70149,
+    -61.03053000000001,
+    10.70149
+],
+  "geometry": {"coordinates":[-61.03053000000001,10.70149],"type":"Point"}
+}

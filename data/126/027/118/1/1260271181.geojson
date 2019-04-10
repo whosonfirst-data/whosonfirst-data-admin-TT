@@ -1,0 +1,65 @@
+{
+  "id": 1260271181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.64398,11.30034,-60.64398,11.30034",
+    "geom:latitude":11.30034,
+    "geom:longitude":-60.64398,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Parlatuvier",
+    "gn:country_code":"TT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573978,
+    "gn:latitude":11.30034,
+    "gn:longitude":-60.64398,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Parlatuvier",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573978
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"4855277e9e2ff819281389a5075b4dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1260271181,
+            "region_id":85679025
+        }
+    ],
+    "wof:id":1260271181,
+    "wof:lastmodified":1536728833,
+    "wof:name":"Parlatuvier",
+    "wof:parent_id":85679025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.64398000000001,
+    11.30034,
+    -60.64398000000001,
+    11.30034
+],
+  "geometry": {"coordinates":[-60.64398000000001,11.30034],"type":"Point"}
+}

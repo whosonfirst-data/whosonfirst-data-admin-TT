@@ -1,0 +1,69 @@
+{
+  "id": 1326965929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.35638,10.40322,-61.35638,10.40322",
+    "geom:latitude":10.40322,
+    "geom:longitude":-61.35638,
+    "gn:admin1_code":"CTT",
+    "gn:asciiname":"Pepper Village",
+    "gn:country_code":"TT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573964,
+    "gn:latitude":10.40322,
+    "gn:longitude":-61.35638,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Pepper Village",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pepper",
+        "Pepper Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573964
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"63a3438fa0e13cd528af6d8089331d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1326965929,
+            "region_id":85679065
+        }
+    ],
+    "wof:id":1326965929,
+    "wof:lastmodified":1537708412,
+    "wof:name":"Pepper Village",
+    "wof:parent_id":85679065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.35638,
+    10.40322,
+    -61.35638,
+    10.40322
+],
+  "geometry": {"coordinates":[-61.35638,10.40322],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1360115675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.06667,10.5,-61.06667,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":-61.06667,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Plum",
+    "gn:country_code":"TT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573906,
+    "gn:latitude":10.5,
+    "gn:longitude":-61.06667,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Plum",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573906
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"b8834da5ee1b090d2ef593d5652ba9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1360115675,
+            "region_id":85679047
+        }
+    ],
+    "wof:id":1360115675,
+    "wof:lastmodified":1536901666,
+    "wof:name":"Plum",
+    "wof:parent_id":85679047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06667,
+    10.5,
+    -61.06667,
+    10.5
+],
+  "geometry": {"coordinates":[-61.06667,10.5],"type":"Point"}
+}

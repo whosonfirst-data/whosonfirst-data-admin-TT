@@ -1,0 +1,69 @@
+{
+  "id": 1242708413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1966,10.56255,-61.1966,10.56255",
+    "geom:latitude":10.56255,
+    "geom:longitude":-61.1966,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Hasnalli",
+    "gn:country_code":"TT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574420,
+    "gn:latitude":10.56255,
+    "gn:longitude":-61.1966,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Hasnalli",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasnally",
+        "Hasnalli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574420
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"7414e1a80ea6647fc684c69395660832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1242708413,
+            "region_id":85679047
+        }
+    ],
+    "wof:id":1242708413,
+    "wof:lastmodified":1537708414,
+    "wof:name":"Hasnalli",
+    "wof:parent_id":85679047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1966,
+    10.56255,
+    -61.1966,
+    10.56255
+],
+  "geometry": {"coordinates":[-61.1966,10.56255],"type":"Point"}
+}

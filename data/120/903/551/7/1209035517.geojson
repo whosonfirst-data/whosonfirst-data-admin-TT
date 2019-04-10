@@ -1,0 +1,61 @@
+{
+  "id": 1209035517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.05,10.51667,-61.05,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":-61.05,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Lower Manzanilla",
+    "gn:country_code":"TT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574252,
+    "gn:latitude":10.51667,
+    "gn:longitude":-61.05,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Lower Manzanilla",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574252
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"3a8cec9e3522f18e1b15da96f731d834",
+    "wof:hierarchy":[
+        {
+            "country_id":85632271,
+            "locality_id":1209035517
+        }
+    ],
+    "wof:id":1209035517,
+    "wof:lastmodified":1536299714,
+    "wof:name":"Lower Manzanilla",
+    "wof:parent_id":85632271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.05,
+    10.51667,
+    -61.05,
+    10.51667
+],
+  "geometry": {"coordinates":[-61.05,10.51667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243542953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.73772,11.19019,-60.73772,11.19019",
+    "geom:latitude":11.19019,
+    "geom:longitude":-60.73772,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rockly Vale",
+    "gn:country_code":"TT",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573830,
+    "gn:latitude":11.19019,
+    "gn:longitude":-60.73772,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Rockly Vale",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573830
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"90f3e3f23680e1ed375799d1c33bc67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1243542953,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":1243542953,
+    "wof:lastmodified":1536666493,
+    "wof:name":"Rockly Vale",
+    "wof:parent_id":85679029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.73772,
+    11.19019,
+    -60.73772,
+    11.19019
+],
+  "geometry": {"coordinates":[-60.73772,11.19019],"type":"Point"}
+}

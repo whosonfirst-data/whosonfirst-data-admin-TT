@@ -1,0 +1,276 @@
+{
+  "id": 85679035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.011175,
+    "geom:area_square_m":135771354.04547,
+    "geom:bbox":"-61.7654923166,10.6670644159,-61.4879984198,10.7549502626",
+    "geom:latitude":10.711462,
+    "geom:longitude":-61.576573,
+    "gn:population":105720,
+    "iso:country":"TT",
+    "label:eng_x_preferred_longname":[
+        "Diego Martin Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":10.708041,
+    "lbl:longitude":-61.557742,
+    "mps:latitude":10.708041,
+    "mps:longitude":-61.557742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0643\u0629 \u062f\u064a\u064a\u062c\u0648 \u0645\u0627\u0631\u062a\u0646 \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09bf\u09af\u09bc\u09c7\u0997\u09c1 \u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:dan_x_preferred":[
+        "Diego Martin Regional Corporation"
+    ],
+    "name:dut_x_preferred":[
+        "Diego Martin"
+    ],
+    "name:eng_x_preferred":[
+        "Diego Martin"
+    ],
+    "name:fin_x_preferred":[
+        "Diego Martin hallintoalue"
+    ],
+    "name:fra_x_preferred":[
+        "Diego Martin"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00e9gion de Diego Martin"
+    ],
+    "name:ger_x_preferred":[
+        "Diego Martin"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03b9\u03ad\u03b3\u03ba\u03bf \u039c\u03b1\u03c1\u03c4\u03af\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0abf\u0a8f\u0a97\u0acb \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u093f\u090f\u0917\u094b \u092e\u093e\u0930\u094d\u091f\u093f\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0940\u092f \u0928\u093f\u0917\u092e"
+    ],
+    "name:ind_x_preferred":[
+        "Korporasi Wilayah Diego Martin"
+    ],
+    "name:ita_x_preferred":[
+        "regione di Diego Martin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30a8\u30b4\u30fb\u30de\u30fc\u30c6\u30a3\u30f3\u5730\u57df\u81ea\u6cbb\u4f53"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0cbf\u0caf\u0cbe\u0c97\u0ccb \u0cae\u0cbe\u0cb0\u0ccd\u0c9f\u0cbf\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0ca6\u0cc7\u0cb6\u0cbf\u0c95 \u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0cca\u0cb0\u0cc7\u0cb7\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub514\uc5d0\uace0\ub9c8\ud2f4 \uc9c0\uc5ed"
+    ],
+    "name:lav_x_preferred":[
+        "Diegom\u0101rtinas re\u0123ion\u0101l\u0101 pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Diego Martino regionin\u0117 korporacija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0921\u093f\u090f\u0917\u094b \u092e\u093e\u0930\u094d\u091f\u093f\u0928 \u092a\u094d\u0930\u093e\u0926\u0947\u0936\u093f\u0915 \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Diego Martin Regional Corporation"
+    ],
+    "name:nob_x_preferred":[
+        "Diego Martin"
+    ],
+    "name:pol_x_preferred":[
+        "Region Diego Martin"
+    ],
+    "name:por_x_preferred":[
+        "Diego Martin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0435\u0433\u043e-\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd2\u0dba\u0dcf\u0d9c\u0ddd \u0db8\u0dcf\u0dbb\u0dca\u0da7\u0dd2\u0db1\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dd2\u0dba \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Diego Martin"
+    ],
+    "name:swe_x_preferred":[
+        "Diego Martin"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0baf\u0bbe\u0b95\u0bcb  \u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd  \u0bb1\u0bc6\u0b9c\u0bbf\u0baf\u0bcb\u0ba9\u0bb2\u0bcd \u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c3f\u0c2f\u0c3e\u0c17\u0c4b \u0c2e\u0c3e\u0c30\u0c4d\u0c1f\u0c3f\u0c28\u0c4d \u0c30\u0c40\u0c1c\u0c3f\u0c28\u0c32\u0c4d \u0c15\u0c3e\u0c30\u0c4d\u0c2a\u0c4a\u0c30\u0c47\u0c37\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e14\u0e42\u0e01 \u0e21\u0e32\u0e15\u0e34\u0e19 \u0e23\u0e35\u0e08\u0e34\u0e42\u0e2d\u0e19\u0e2d\u0e25 \u0e04\u0e2d\u0e23\u0e4c\u0e1b\u0e2d\u0e40\u0e23\u0e0a\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Diego Martin B\u00f6lgesel Ortakl\u0131\u011f\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u0414\u0456\u0435\u0433\u043e-\u041c\u0430\u0440\u0442\u0456\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u06af\u0648 \u0645\u0627\u0631\u0679\u0646 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u06a9\u0627\u0631\u067e\u0648\u0631\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Khu li\u00ean k\u1ebft chung Diego Martin"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TTO",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TTO-51",
+    "ne:adm1_code":"TTO-51",
+    "ne:admin":"Trinidad and Tobago",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"TT.DM",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"51",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TD00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Trinidad and Tobago",
+    "ne:gn_a1_code":"TT.DMN",
+    "ne:gn_id":"7521939",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Diego Martin",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TD15",
+    "ne:gns_id":"-1359867",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Diego Martin, Region of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TTO",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TT-",
+    "ne:iso_a2":"TT",
+    "ne:labelrank":"9",
+    "ne:latitude":"10.71280000000",
+    "ne:longitude":"-61.57780000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Diego Martin",
+    "ne:name_alt":"Petit Valley",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"DM",
+    "ne:provnum_ne":"11",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"TTO",
+    "ne:sub_code":"",
+    "ne:type":"Region",
+    "ne:type_en":"Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":56189828,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Trinidad and Tobago",
+    "qs:a0_lc":"TT",
+    "qs:a1":"Diego Martin",
+    "qs:a1_lc":"TTO-51",
+    "qs:adm0":"Trinidad and Tobago",
+    "qs:adm0_a3":"TTO",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-01-09",
+    "statoids:area_km":"128",
+    "statoids:area_mi":"49",
+    "statoids:as_of_date":"2011-01-09",
+    "statoids:capital":"Petit Valley",
+    "statoids:country":"TT",
+    "statoids:gec":"TD15",
+    "statoids:hasc":"TT.DM",
+    "statoids:iso":"DMN",
+    "statoids:name":"Diego Martin",
+    "statoids:population":"102957",
+    "statoids:timezone":"-4",
+    "statoids:type":"region",
+    "unlc:subdivision":"TT-DMN",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TD15",
+        "gn:id":7521939,
+        "gp:id":56189828,
+        "hasc:id":"TT.DM",
+        "iso:id":"TT-DMN",
+        "qs:id":224050,
+        "unlc:id":"TT-DMN",
+        "wd:id":"Q2679107",
+        "wk:page":"Diego Martin Regional Corporation"
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"c444130e23797eba2f3d2cce94fcaad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "region_id":85679035
+        }
+    ],
+    "wof:id":85679035,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814828,
+    "wof:name":"Diego Martin",
+    "wof:parent_id":85632271,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":102957,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:shortcode":"DM",
+    "wof:subdivision":"TT-DMN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7654923166171,
+    10.66706441589014,
+    -61.48799841979121,
+    10.75495026264457
+],
+  "geometry": {"coordinates":[[[[-61.74775143108366,10.6928978544525],[-61.73981686105924,10.6835391306264],[-61.74193274549975,10.68024323134011],[-61.74860592372437,10.68427155199061],[-61.75121008967386,10.68475983349958],[-61.75426184820572,10.68362051027839],[-61.75670325395197,10.68065013229784],[-61.75523841122367,10.67727285425889],[-61.74929765526252,10.67336660398564],[-61.75149492115366,10.67023346670118],[-61.75967363193251,10.67047760655635],[-61.76528886568855,10.66954173426365],[-61.7654923166171,10.67365143456612],[-61.76333574055195,10.6862246771272],[-61.7619929682009,10.68976471626871],[-61.75719153546095,10.69395579622307],[-61.74775143108366,10.6928978544525]]],[[[-61.6900121741225,10.67837148585545],[-61.69241289004282,10.67682526257585],[-61.70205644354996,10.67853424695795],[-61.70453854092091,10.6805280619206],[-61.6970108709549,10.69761790664114],[-61.68927975185903,10.70071035409961],[-61.68207760319876,10.70058828282305],[-61.68032792899066,10.69668203344912],[-61.68158932168978,10.69196198126048],[-61.68138587076129,10.68532949466049],[-61.68879146945073,10.68158600548981],[-61.6900121741225,10.67837148585545]]],[[[-61.48970374213394,10.75050690397052],[-61.48799841979121,10.72962962470746],[-61.49368282670105,10.70647858322008],[-61.51140784369699,10.6758344587933],[-61.52610978873571,10.67800486912944],[-61.53437801803108,10.67738475240446],[-61.54504920075999,10.6688581406907],[-61.54907226936967,10.66706441589014],[-61.57762610586008,10.67991771003432],[-61.59902910091222,10.68439362236785],[-61.65001380089615,10.68781159113206],[-61.65636145691565,10.68976471626871],[-61.66128496003284,10.69513580927025],[-61.66759192622635,10.70677317953863],[-61.61563066322447,10.74217357005426],[-61.60212154927007,10.7477481139843],[-61.56114661392508,10.74433014522009],[-61.51512610598496,10.75495026264457],[-61.49010169213932,10.75462474223809],[-61.49008977882022,10.75462463072216],[-61.48970374213394,10.75050690397052]]]],"type":"MultiPolygon"}
+}

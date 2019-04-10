@@ -1,0 +1,76 @@
+{
+  "id": 1125869275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.44605,10.283,-61.44605,10.283",
+    "geom:latitude":10.283,
+    "geom:longitude":-61.44605,
+    "gn:gn_country":"TT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":56380,
+    "gn:population":56380,
+    "iso:country":"TT",
+    "lbl:latitude":10.283,
+    "lbl:longitude":-61.44605,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TT",
+    "qs_pg:gn_country":"TT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3574116,
+    "qs_pg:gn_pop":56380,
+    "qs_pg:name":"Mon Repos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":148999,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574116,
+        "qs_pg:id":148999
+    },
+    "wof:country":"TT",
+    "wof:created":1497294208,
+    "wof:geomhash":"17d7324abef8bce5b1ab23cafe697cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1125869275,
+            "region_id":85679083
+        }
+    ],
+    "wof:id":1125869275,
+    "wof:lastmodified":1509397188,
+    "wof:name":"Mon Repos",
+    "wof:parent_id":85679083,
+    "wof:placetype":"locality",
+    "wof:population":56380,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.44605,
+    10.283,
+    -61.44605,
+    10.283
+],
+  "geometry": {"coordinates":[-61.44605,10.283],"type":"Point"}
+}

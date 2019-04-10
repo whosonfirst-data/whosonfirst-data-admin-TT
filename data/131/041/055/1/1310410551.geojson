@@ -1,0 +1,65 @@
+{
+  "id": 1310410551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.50574,10.66817,-61.50574,10.66817",
+    "geom:latitude":10.66817,
+    "geom:longitude":-61.50574,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Belmont",
+    "gn:country_code":"TT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574995,
+    "gn:latitude":10.66817,
+    "gn:longitude":-61.50574,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Belmont",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574995
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"8ed116d92c9ab6802909cf3f786a78d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1310410551,
+            "region_id":85679093
+        }
+    ],
+    "wof:id":1310410551,
+    "wof:lastmodified":1537051761,
+    "wof:name":"Belmont",
+    "wof:parent_id":85679093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.50574,
+    10.66817,
+    -61.50574,
+    10.66817
+],
+  "geometry": {"coordinates":[-61.50574,10.66817],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 890434909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.53333,10.66667,-61.53333,10.66667",
+    "geom:latitude":10.66667,
+    "geom:longitude":-61.53333,
+    "gn:country":"TT",
+    "gn:fcode":"PPL",
+    "gn:pop":4342,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mucurapo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574069,
+        "gp:id":380213,
+        "qs:id":148998
+    },
+    "wof:country":"TT",
+    "wof:created":1469052045,
+    "wof:geomhash":"20df7c0811d76d362bf8d0ad3d259cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":890434909,
+            "region_id":85679093
+        }
+    ],
+    "wof:id":890434909,
+    "wof:lastmodified":1505343544,
+    "wof:name":"Mucurapo",
+    "wof:parent_id":85679093,
+    "wof:placetype":"locality",
+    "wof:population":4342,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.53333,
+    10.66667,
+    -61.53333,
+    10.66667
+],
+  "geometry": {"coordinates":[-61.53333,10.66667],"type":"Point"}
+}

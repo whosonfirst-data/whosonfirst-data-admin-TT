@@ -1,0 +1,65 @@
+{
+  "id": 1309794267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.72263,11.17539,-60.72263,11.17539",
+    "geom:latitude":11.17539,
+    "geom:longitude":-60.72263,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bacolet",
+    "gn:country_code":"TT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575030,
+    "gn:latitude":11.17539,
+    "gn:longitude":-60.72263,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bacolet",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575030,
+        "wk:page":"Bacolet"
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"b989881a1ed2eb669effcf66c83c3387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1309794267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309794267,
+    "wof:lastmodified":1537574716,
+    "wof:name":"Bacolet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.72263,
+    11.17539,
+    -60.72263,
+    11.17539
+],
+  "geometry": {"coordinates":[-60.72263,11.17539],"type":"Point"}
+}

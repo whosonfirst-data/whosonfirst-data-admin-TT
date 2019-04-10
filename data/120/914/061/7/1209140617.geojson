@@ -1,0 +1,64 @@
+{
+  "id": 1209140617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.36298,10.65298,-61.36298,10.65298",
+    "geom:latitude":10.65298,
+    "geom:longitude":-61.36298,
+    "gn:admin1_code":"TUP",
+    "gn:asciiname":"Paradise",
+    "gn:country_code":"TT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573989,
+    "gn:latitude":10.65298,
+    "gn:longitude":-61.36298,
+    "gn:modification_date":"2013-06-23",
+    "gn:name":"Paradise",
+    "gn:population":15067,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573989
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"d1e2c11d90a4b86ed74d770d133e8ce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632271,
+            "locality_id":1209140617
+        }
+    ],
+    "wof:id":1209140617,
+    "wof:lastmodified":1536296517,
+    "wof:name":"Paradise",
+    "wof:parent_id":85632271,
+    "wof:placetype":"locality",
+    "wof:population":15067,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.36298000000001,
+    10.65298,
+    -61.36298000000001,
+    10.65298
+],
+  "geometry": {"coordinates":[-61.36298000000001,10.65298],"type":"Point"}
+}

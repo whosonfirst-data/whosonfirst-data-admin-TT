@@ -1,0 +1,89 @@
+{
+  "id": 421187359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.41789,10.64061,-61.41789,10.64061",
+    "geom:latitude":10.64061,
+    "geom:longitude":-61.41789,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Valsayn"
+    ],
+    "name:dut_x_preferred":[
+        "Valsayn"
+    ],
+    "name:eng_x_preferred":[
+        "Valsayn"
+    ],
+    "name:ger_x_preferred":[
+        "Valsayn"
+    ],
+    "qs:gn_country":"TT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3573557,
+    "qs:gn_pop":0,
+    "qs:name":"Valsayn",
+    "qs:name_adm0":"Trinidad and Tobago",
+    "qs:name_adm1":"Tanapuna-Piarco",
+    "qs:photos":560,
+    "qs:photos_1k":113,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":560,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082756,
+    "qs:woe_adm0":23424958,
+    "qs:woe_id":380295,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":407,
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573557,
+        "gp:id":380295,
+        "qs:id":1082756,
+        "wd:id":"Q7912614",
+        "wk:page":"Valsayn"
+    },
+    "wof:country":"TT",
+    "wof:created":1459009510,
+    "wof:geomhash":"6b3914b8802e94ac67cf0af8c8734aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":421187359,
+            "region_id":85679079
+        }
+    ],
+    "wof:id":421187359,
+    "wof:lastmodified":1527716248,
+    "wof:name":"Valsayn",
+    "wof:parent_id":85679079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.41789,
+    10.64061,
+    -61.41789,
+    10.64061
+],
+  "geometry": {"coordinates":[-61.41789,10.64061],"type":"Point"}
+}

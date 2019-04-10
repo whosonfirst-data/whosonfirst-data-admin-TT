@@ -1,0 +1,65 @@
+{
+  "id": 1243397415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.53495,10.19976,-61.53495,10.19976",
+    "geom:latitude":10.19976,
+    "geom:longitude":-61.53495,
+    "gn:admin1_code":"SIP",
+    "gn:asciiname":"Avocat",
+    "gn:country_code":"TT",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575035,
+    "gn:latitude":10.19976,
+    "gn:longitude":-61.53495,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Avocat",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575035
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"cd5062d0e68f0bcc16c3bb199b8b1f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1243397415,
+            "region_id":85679039
+        }
+    ],
+    "wof:id":1243397415,
+    "wof:lastmodified":1536875425,
+    "wof:name":"Avocat",
+    "wof:parent_id":85679039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.53495,
+    10.19976,
+    -61.53495,
+    10.19976
+],
+  "geometry": {"coordinates":[-61.53495,10.19976],"type":"Point"}
+}

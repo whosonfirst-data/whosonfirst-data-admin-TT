@@ -1,0 +1,65 @@
+{
+  "id": 1226682403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.4007,10.58212,-61.4007,10.58212",
+    "geom:latitude":10.58212,
+    "geom:longitude":-61.4007,
+    "gn:admin1_code":"TUP",
+    "gn:asciiname":"Warren",
+    "gn:country_code":"TT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573544,
+    "gn:latitude":10.58212,
+    "gn:longitude":-61.4007,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Warren",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573544
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"a309560a85f20d4b70059e698a6c6553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1226682403,
+            "region_id":85679079
+        }
+    ],
+    "wof:id":1226682403,
+    "wof:lastmodified":1536806446,
+    "wof:name":"Warren",
+    "wof:parent_id":85679079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.4007,
+    10.58212,
+    -61.4007,
+    10.58212
+],
+  "geometry": {"coordinates":[-61.4007,10.58212],"type":"Point"}
+}

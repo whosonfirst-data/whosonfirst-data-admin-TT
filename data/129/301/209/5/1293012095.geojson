@@ -1,0 +1,65 @@
+{
+  "id": 1293012095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18314,10.35634,-61.18314,10.35634",
+    "geom:latitude":10.35634,
+    "geom:longitude":-61.18314,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Navet",
+    "gn:country_code":"TT",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574051,
+    "gn:latitude":10.35634,
+    "gn:longitude":-61.18314,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Navet",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574051
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"269769534902a12d9bb86e880e456641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1293012095,
+            "region_id":85679051
+        }
+    ],
+    "wof:id":1293012095,
+    "wof:lastmodified":1536974824,
+    "wof:name":"Navet",
+    "wof:parent_id":85679051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18314,
+    10.35634,
+    -61.18314,
+    10.35634
+],
+  "geometry": {"coordinates":[-61.18314,10.35634],"type":"Point"}
+}

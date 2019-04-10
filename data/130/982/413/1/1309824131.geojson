@@ -1,0 +1,64 @@
+{
+  "id": 1309824131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.46427,10.27986,-61.46427,10.27986",
+    "geom:latitude":10.27986,
+    "geom:longitude":-61.46427,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Pique",
+    "gn:country_code":"TT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8710005,
+    "gn:latitude":10.27986,
+    "gn:longitude":-61.46427,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"La Pique",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8710005
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"4ce55e26b5ee356cb0de3dbc972f8554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1309824131,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309824131,
+    "wof:lastmodified":1536904919,
+    "wof:name":"La Pique",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.46426999999999,
+    10.27986,
+    -61.46426999999999,
+    10.27986
+],
+  "geometry": {"coordinates":[-61.46426999999999,10.27986],"type":"Point"}
+}

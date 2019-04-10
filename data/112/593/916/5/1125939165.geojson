@@ -1,0 +1,104 @@
+{
+  "id": 1125939165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.38333,10.26667,-61.38333,10.26667",
+    "geom:latitude":10.26667,
+    "geom:longitude":-61.38333,
+    "gn:gn_country":"TT",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":10000,
+    "gn:population":10000,
+    "iso:country":"TT",
+    "lbl:latitude":10.26667,
+    "lbl:longitude":-61.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Princes Town"
+    ],
+    "name:eng_x_preferred":[
+        "Princes Town"
+    ],
+    "name:fre_x_preferred":[
+        "Princes Town"
+    ],
+    "name:ger_x_preferred":[
+        "Princes Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30bf\u30a6\u30f3"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u0646\u0633\u0633 \u062a\u0627\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Princes Town"
+    ],
+    "name:unk_x_variant":[
+        "Princess Town"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0646\u0633\u0632 \u0679\u0627\u0624\u0646"
+    ],
+    "qs_pg:aaroncc":"TT",
+    "qs_pg:gn_country":"TT",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":3573882,
+    "qs_pg:gn_pop":10000,
+    "qs_pg:name":"Princes Town",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1045529,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573882,
+        "qs_pg:id":1045529,
+        "wd:id":"Q1011576"
+    },
+    "wof:country":"TT",
+    "wof:created":1497297062,
+    "wof:geomhash":"8d4e9af9f0e40456f5765e32926c2e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1125939165,
+            "region_id":85679061
+        }
+    ],
+    "wof:id":1125939165,
+    "wof:lastmodified":1514507629,
+    "wof:name":"Princes Town",
+    "wof:parent_id":85679061,
+    "wof:placetype":"locality",
+    "wof:population":10000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.38333,
+    10.26667,
+    -61.38333,
+    10.26667
+],
+  "geometry": {"coordinates":[-61.38333,10.26667],"type":"Point"}
+}

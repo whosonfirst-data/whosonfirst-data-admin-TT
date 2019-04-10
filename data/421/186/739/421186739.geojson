@@ -1,0 +1,99 @@
+{
+  "id": 421186739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48344,10.643231,-61.48344,10.643231",
+    "geom:latitude":10.643231,
+    "geom:longitude":-61.48344,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0432\u0435\u043d\u0442\u0438\u043b\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Laventille"
+    ],
+    "name:dut_x_preferred":[
+        "Laventille"
+    ],
+    "name:eng_x_preferred":[
+        "Laventille"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0648\u0646\u062a\u0648\u06cc\u0644"
+    ],
+    "name:ger_x_preferred":[
+        "Laventille"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f4\u30a7\u30f3\u30c6\u30a3\u30eb"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627\u0648\u0646\u062a\u0648\u06cc\u0644"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Laventille",
+    "qs:name_adm0":"Trinidad and Tobago",
+    "qs:name_adm1":"San Juan-Laventille",
+    "qs:photos":153,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":153,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075800,
+    "qs:woe_adm0":23424958,
+    "qs:woe_id":380113,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1021,
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":380113,
+        "qs:id":1075800,
+        "wd:id":"Q6502566"
+    },
+    "wof:country":"TT",
+    "wof:created":1459009490,
+    "wof:geomhash":"2be61be4f995e60ff272986cede58e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":421186739,
+            "region_id":85679057
+        }
+    ],
+    "wof:id":421186739,
+    "wof:lastmodified":1527716310,
+    "wof:name":"Laventille",
+    "wof:parent_id":85679057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48344,
+    10.643231,
+    -61.48344,
+    10.643231
+],
+  "geometry": {"coordinates":[-61.48344,10.643231],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421196237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45134,10.48159,-61.45134,10.48159",
+    "geom:latitude":10.48159,
+    "geom:longitude":-61.45134,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Carapichaima"
+    ],
+    "name:eng_x_preferred":[
+        "Carapichaima"
+    ],
+    "qs:gn_country":"TT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3574866,
+    "qs:gn_pop":0,
+    "qs:name":"Carapichaima",
+    "qs:name_adm0":"Trinidad and Tobago",
+    "qs:name_adm1":"Couva-Tabaquite-Talparo",
+    "qs:photos":188,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":188,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":893997,
+    "qs:woe_adm0":23424958,
+    "qs:woe_id":379964,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":459,
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574866,
+        "gp:id":379964,
+        "qs:id":893997,
+        "wd:id":"Q5037715",
+        "wk:page":"Carapichaima"
+    },
+    "wof:country":"TT",
+    "wof:created":1459009874,
+    "wof:geomhash":"389aefaff2b810a3747f40490b962f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":421196237,
+            "region_id":85679065
+        }
+    ],
+    "wof:id":421196237,
+    "wof:lastmodified":1527716368,
+    "wof:name":"Carapichaima",
+    "wof:parent_id":85679065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45134,
+    10.48159,
+    -61.45134,
+    10.48159
+],
+  "geometry": {"coordinates":[-61.45134,10.48159],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1344235299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.76654,11.21621,-60.76654,11.21621",
+    "geom:latitude":11.21621,
+    "geom:longitude":-60.76654,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Plymouth",
+    "gn:country_code":"TT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573903,
+    "gn:latitude":11.21621,
+    "gn:longitude":-60.76654,
+    "gn:modification_date":"2015-12-13",
+    "gn:name":"Plymouth",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573903
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"a01fbcaa7ef7f6cb1f81f466061367d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1344235299,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":1344235299,
+    "wof:lastmodified":1536621305,
+    "wof:name":"Plymouth",
+    "wof:parent_id":85679029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.76654,
+    11.21621,
+    -60.76654,
+    11.21621
+],
+  "geometry": {"coordinates":[-60.76654,11.21621],"type":"Point"}
+}

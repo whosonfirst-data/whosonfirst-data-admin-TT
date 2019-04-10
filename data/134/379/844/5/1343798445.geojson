@@ -1,0 +1,65 @@
+{
+  "id": 1343798445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45196,10.35797,-61.45196,10.35797",
+    "geom:latitude":10.35797,
+    "geom:longitude":-61.45196,
+    "gn:admin1_code":"CTT",
+    "gn:asciiname":"Soledad",
+    "gn:country_code":"TT",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8709991,
+    "gn:latitude":10.35797,
+    "gn:longitude":-61.45196,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8709991
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"608149c944600e4c5381f458d2ac3a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1343798445,
+            "region_id":85679065
+        }
+    ],
+    "wof:id":1343798445,
+    "wof:lastmodified":1536756184,
+    "wof:name":"Soledad",
+    "wof:parent_id":85679065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45196,
+    10.35797,
+    -61.45196,
+    10.35797
+],
+  "geometry": {"coordinates":[-61.45196,10.35797],"type":"Point"}
+}

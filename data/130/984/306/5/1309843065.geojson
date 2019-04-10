@@ -1,0 +1,64 @@
+{
+  "id": 1309843065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61828,10.68268,-61.61828,10.68268",
+    "geom:latitude":10.68268,
+    "geom:longitude":-61.61828,
+    "gn:admin1_code":"DMN",
+    "gn:asciiname":"Petit Bourg",
+    "gn:country_code":"TT",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573956,
+    "gn:latitude":10.68268,
+    "gn:longitude":-61.61828,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Petit Bourg",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573956
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"3288e763758c04346d29accd03146f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1309843065,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309843065,
+    "wof:lastmodified":1536876394,
+    "wof:name":"Petit Bourg",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61828000000001,
+    10.68268,
+    -61.61828000000001,
+    10.68268
+],
+  "geometry": {"coordinates":[-61.61828000000001,10.68268],"type":"Point"}
+}

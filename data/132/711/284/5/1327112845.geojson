@@ -1,0 +1,64 @@
+{
+  "id": 1327112845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.79642,11.14145,-60.79642,11.14145",
+    "geom:latitude":11.14145,
+    "geom:longitude":-60.79642,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cove",
+    "gn:country_code":"TT",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3574719,
+    "gn:latitude":11.14145,
+    "gn:longitude":-60.79642,
+    "gn:modification_date":"2015-08-11",
+    "gn:name":"Cove",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574719
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"d430290ce0ba02c6240d44c3a48fa85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1327112845,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327112845,
+    "wof:lastmodified":1536643763,
+    "wof:name":"Cove",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.79642,
+    11.14145,
+    -60.79642,
+    11.14145
+],
+  "geometry": {"coordinates":[-60.79642,11.14145],"type":"Point"}
+}

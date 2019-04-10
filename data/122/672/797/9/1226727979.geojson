@@ -1,0 +1,65 @@
+{
+  "id": 1226727979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.55178,11.27242,-60.55178,11.27242",
+    "geom:latitude":11.27242,
+    "geom:longitude":-60.55178,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"King's Bay",
+    "gn:country_code":"TT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574357,
+    "gn:latitude":11.27242,
+    "gn:longitude":-60.55178,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"King\u2019s Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574357
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"09cb732cde7db4e346f3b203223b540c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1226727979,
+            "region_id":85679025
+        }
+    ],
+    "wof:id":1226727979,
+    "wof:lastmodified":1536740959,
+    "wof:name":"King's Bay",
+    "wof:parent_id":85679025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.55178000000001,
+    11.27242,
+    -60.55178000000001,
+    11.27242
+],
+  "geometry": {"coordinates":[-60.55178000000001,11.27242],"type":"Point"}
+}

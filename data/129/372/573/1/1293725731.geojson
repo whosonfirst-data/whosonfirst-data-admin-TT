@@ -1,0 +1,68 @@
+{
+  "id": 1293725731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.39937,10.54882,-61.39937,10.54882",
+    "geom:latitude":10.54882,
+    "geom:longitude":-61.39937,
+    "gn:admin1_code":"CHA",
+    "gn:asciiname":"Jermingham Junction",
+    "gn:country_code":"TT",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574370,
+    "gn:latitude":10.54882,
+    "gn:longitude":-61.39937,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Jermingham Junction",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jerningham Junction"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574370
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"1edf533f351c08f2038005d150e97157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1293725731,
+            "region_id":85679085
+        }
+    ],
+    "wof:id":1293725731,
+    "wof:lastmodified":1537708414,
+    "wof:name":"Jermingham Junction",
+    "wof:parent_id":85679085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39937,
+    10.54882,
+    -61.39937,
+    10.54882
+],
+  "geometry": {"coordinates":[-61.39937,10.54882],"type":"Point"}
+}

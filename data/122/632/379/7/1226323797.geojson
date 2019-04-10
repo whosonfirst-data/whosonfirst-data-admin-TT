@@ -1,0 +1,65 @@
+{
+  "id": 1226323797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.7,11.26667,-60.7,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":-60.7,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mount Dillon River",
+    "gn:country_code":"TT",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574078,
+    "gn:latitude":11.26667,
+    "gn:longitude":-60.7,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Mount Dillon River",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574078
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"4b848dba761e0da327a0d60402031d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1226323797,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":1226323797,
+    "wof:lastmodified":1536820307,
+    "wof:name":"Mount Dillon River",
+    "wof:parent_id":85679029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.7,
+    11.26667,
+    -60.7,
+    11.26667
+],
+  "geometry": {"coordinates":[-60.7,11.26667],"type":"Point"}
+}

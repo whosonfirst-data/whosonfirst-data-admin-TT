@@ -1,0 +1,66 @@
+{
+  "id": 1343894601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.54769,10.22791,-61.54769,10.22791",
+    "geom:latitude":10.22791,
+    "geom:longitude":-61.54769,
+    "gn:admin1_code":"SIP",
+    "gn:asciiname":"South Oropouche",
+    "gn:country_code":"TT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573668,
+    "gn:latitude":10.22791,
+    "gn:longitude":-61.54769,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"South Oropouche",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573668,
+        "wk:page":"South_Oropouche"
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"1063b184312100ad281aef22cdb6ede3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1343894601,
+            "region_id":85679039
+        }
+    ],
+    "wof:id":1343894601,
+    "wof:lastmodified":1537574714,
+    "wof:name":"South Oropouche",
+    "wof:parent_id":85679039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.54769,
+    10.22791,
+    -61.54769,
+    10.22791
+],
+  "geometry": {"coordinates":[-61.54769,10.22791],"type":"Point"}
+}

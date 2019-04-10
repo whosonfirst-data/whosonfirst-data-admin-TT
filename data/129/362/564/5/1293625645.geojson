@@ -1,0 +1,65 @@
+{
+  "id": 1293625645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.43765,10.753,-61.43765,10.753",
+    "geom:latitude":10.753,
+    "geom:longitude":-61.43765,
+    "gn:admin1_code":"SJL",
+    "gn:asciiname":"Maracas Bay Village",
+    "gn:country_code":"TT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574189,
+    "gn:latitude":10.753,
+    "gn:longitude":-61.43765,
+    "gn:modification_date":"2017-10-08",
+    "gn:name":"Maracas Bay Village",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574189
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"87f22024598bf4f5d5f801d6e91b42bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1293625645,
+            "region_id":85679057
+        }
+    ],
+    "wof:id":1293625645,
+    "wof:lastmodified":1537081764,
+    "wof:name":"Maracas Bay Village",
+    "wof:parent_id":85679057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.43765,
+    10.753,
+    -61.43765,
+    10.753
+],
+  "geometry": {"coordinates":[-61.43765,10.753],"type":"Point"}
+}

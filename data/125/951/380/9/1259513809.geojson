@@ -1,0 +1,65 @@
+{
+  "id": 1259513809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.26913,10.64152,-61.26913,10.64152",
+    "geom:latitude":10.64152,
+    "geom:longitude":-61.26913,
+    "gn:admin1_code":"TUP",
+    "gn:asciiname":"Maturita",
+    "gn:country_code":"TT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574159,
+    "gn:latitude":10.64152,
+    "gn:longitude":-61.26913,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Maturita",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574159
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"701cfe51950572e7c1e70b2173624238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1259513809,
+            "region_id":85679079
+        }
+    ],
+    "wof:id":1259513809,
+    "wof:lastmodified":1536814631,
+    "wof:name":"Maturita",
+    "wof:parent_id":85679079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.26913,
+    10.64152,
+    -61.26913,
+    10.64152
+],
+  "geometry": {"coordinates":[-61.26913,10.64152],"type":"Point"}
+}

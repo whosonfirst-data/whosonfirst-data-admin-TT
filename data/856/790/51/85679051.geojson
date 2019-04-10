@@ -1,0 +1,278 @@
+{
+  "id": 85679051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.07266,
+    "geom:area_square_m":884011901.214684,
+    "geom:bbox":"-61.2435688948,10.0751797814,-60.9612930976,10.4695421412",
+    "geom:latitude":10.28655,
+    "geom:longitude":-61.108408,
+    "gn:id":"",
+    "iso:country":"TT",
+    "label:eng_x_preferred_longname":[
+        "Rio Claro-Mayaro Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":10.304778,
+    "lbl:longitude":-61.105719,
+    "mps:latitude":10.304778,
+    "mps:longitude":-61.105719,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0648 \u0643\u0644\u0627\u0631\u0648 \u0645\u0627\u064a\u0627\u0631\u0648 \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u0993 \u0995\u09cd\u09b2\u09be\u09b0\u09cb-\u09ae\u09be\u09af\u09bc\u09be\u09b0\u09cb \u0986\u099e\u09cd\u099a\u09b2\u09bf\u0995 \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u09b6\u09a8"
+    ],
+    "name:dan_x_preferred":[
+        "Rio Claro - Mayaro"
+    ],
+    "name:dut_x_preferred":[
+        "Rio Claro - Mayaro"
+    ],
+    "name:eng_x_preferred":[
+        "Rio Claro-Mayaro"
+    ],
+    "name:fin_x_preferred":[
+        "Rio Claro-Mayaron hallintoalue"
+    ],
+    "name:fra_x_preferred":[
+        "Rio Claro-Mayaro"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00e9gion de Rio Claro-Mayaro"
+    ],
+    "name:ger_x_preferred":[
+        "Mayaro-Rio Claro"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03af\u03bf \u039a\u03bb\u03ac\u03c1\u03bf-\u039c\u03b1\u03b3\u03b9\u03ac\u03c1\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abf\u0aaf\u0acb \u0a95\u0acd\u0ab2\u0ac7\u0ab0\u0acb-\u0aae\u0abe\u0aaf\u0abe\u0ab0\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u0913 \u0915\u094d\u0932\u0948\u0930\u094b-\u092e\u093e\u092f\u093e\u0930\u094b \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0940\u092f \u0928\u093f\u0917\u092e"
+    ],
+    "name:ind_x_preferred":[
+        "Korporasi Wilayah Rio Claro-Mayaro"
+    ],
+    "name:ita_x_preferred":[
+        "regione di Rio Claro-Mayaro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30af\u30e9\u30ed\u30fc\uff1d\u30de\u30e4\u30ed"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbf\u0caf\u0cca \u0c95\u0ccd\u0cb2\u0ccb\u0cb0\u0cca-\u0cae\u0cbe\u0caf\u0cbe\u0cb0\u0cca \u0caa\u0ccd\u0cb0\u0cbe\u0ca6\u0cc7\u0cb6\u0cbf\u0c95 \u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0cca\u0cb0\u0cc7\u0cb7\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\uc624\ud074\ub77c\ub85c\ub9c8\uc57c\ub85c \uc9c0\uc5ed"
+    ],
+    "name:lav_x_preferred":[
+        "Rioklaro-Majaro re\u0123ion\u0101l\u0101 pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Rio Klaro-Majaro regionin\u0117 korporacija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093f\u0913 \u0915\u094d\u0932\u0945\u0930\u094b-\u092e\u093e\u092f\u0930\u094b \u092a\u094d\u0930\u093e\u0926\u0947\u0936\u093f\u0915 \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Rio Claro-Mayaro Regional Corporation"
+    ],
+    "name:nob_x_preferred":[
+        "Rio Claro-Mayaro"
+    ],
+    "name:pol_x_preferred":[
+        "Korporacja Rio Claro-Mayaro"
+    ],
+    "name:por_x_preferred":[
+        "Regi\u00e3o de Rio Claro Mayaro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e \u041a\u043b\u0430\u0440\u043e-\u041c\u0430\u0439\u044f\u0440\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dd2\u0dba\u0ddd \u0d9a\u0dca\u0dbd\u0dcf\u0dbb\u0ddd-\u0db8\u0dd9\u0dba\u0dcf\u0dbb\u0ddd \u0d9a\u0dbd\u0dcf\u0db4\u0dd3\u0dba \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Claro-Mayaro"
+    ],
+    "name:swe_x_preferred":[
+        "Rio Claro-Mayaro"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbf\u0baf\u0bcb  \u0b95\u0bbf\u0bb3\u0bb0\u0bcb-\u0bae\u0bbe\u0baf\u0bb0\u0bcb \u0bb0\u0bbf\u0b9c\u0bbf\u0baf\u0bcb\u0ba9\u0bb2\u0bcd \u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3f\u0c2f\u0c4b \u0c15\u0c4d\u0c32\u0c3e\u0c30\u0c4b-\u0c2e\u0c2f\u0c3e\u0c30\u0c4b \u0c30\u0c40\u0c1c\u0c3f\u0c28\u0c32\u0c4d \u0c15\u0c3e\u0c30\u0c4d\u0c2a\u0c4a\u0c30\u0c47\u0c37\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e34\u0e42\u0e2d \u0e04\u0e32\u0e42\u0e23 \u0e21\u0e32\u0e22\u0e32\u0e42\u0e23 \u0e40\u0e23\u0e08\u0e34\u0e19\u0e2d\u0e25 \u0e04\u0e2d\u0e42\u0e1e\u0e40\u0e23\u0e0a\u0e31\u0e48\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Rio Claro-Mayaro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u0430\u0440\u043e-\u0420\u0456\u043e-\u041a\u043b\u0430\u0440\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Mayaro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u06a9\u0644\u0627\u0631\u0648-\u0645\u0627\u06cc\u0627\u0631\u0648 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u06a9\u0627\u0631\u067e\u0648\u0631\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Khu li\u00ean k\u1ebft chung Rio Claro-Mayaro"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TTO",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TTO-55",
+    "ne:adm1_code":"TTO-55",
+    "ne:admin":"Trinidad and Tobago",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"TT.MR",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"55",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TD00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Trinidad and Tobago",
+    "ne:gn_a1_code":"TT.03",
+    "ne:gn_id":"3574155",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Mayaro",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TD16",
+    "ne:gns_id":"11402777",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Mayaro/Rio Claro, Region of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TTO",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TT-",
+    "ne:iso_a2":"TT",
+    "ne:labelrank":"9",
+    "ne:latitude":"10.28140000000",
+    "ne:longitude":"-61.10240000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Rio Claro-Mayaro",
+    "ne:name_alt":"Mayaro|Rio Claro",
+    "ne:name_len":16,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MR",
+    "ne:provnum_ne":"7",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"TTO",
+    "ne:sub_code":"",
+    "ne:type":"Region",
+    "ne:type_en":"Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":56189832,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Trinidad and Tobago",
+    "qs:a0_lc":"TT",
+    "qs:a1":"Rio Claro-Mayaro",
+    "qs:a1_lc":"TTO-55",
+    "qs:adm0":"Trinidad and Tobago",
+    "qs:adm0_a3":"TTO",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-01-09",
+    "statoids:area_km":"853",
+    "statoids:area_mi":"329",
+    "statoids:as_of_date":"2011-01-09",
+    "statoids:capital":"Rio Claro",
+    "statoids:country":"TT",
+    "statoids:gec":"TD16",
+    "statoids:hasc":"TT.MR",
+    "statoids:iso":"MRC",
+    "statoids:name":"Mayaro/Rio Claro",
+    "statoids:population":"35650",
+    "statoids:timezone":"-4",
+    "statoids:type":"region",
+    "unlc:subdivision":"TT-RCM",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TD16",
+        "gn:id":3574155,
+        "gp:id":56189832,
+        "hasc:id":"TT.MR",
+        "iso:id":"TT-MRC",
+        "qs:id":909771,
+        "unlc:id":"TT-RCM",
+        "wd:id":"Q2487249"
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"afb39d9019bb60bc1958287abb6baacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "region_id":85679051
+        }
+    ],
+    "wof:id":85679051,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814828,
+    "wof:name":"Rio Claro-Mayaro",
+    "wof:parent_id":85632271,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":35650,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:shortcode":"MR",
+    "wof:subdivision":"TT-RCM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.24356889478861,
+    10.07517978142181,
+    -60.96129309759834,
+    10.46954214115692
+],
+  "geometry": {"coordinates":[[[-61.03844153554837,10.46364980739276],[-61.02814693853037,10.40851471638109],[-61.02301998628332,10.39484284132413],[-61.01634680895802,10.38214752838576],[-60.99844316322134,10.35594310149298],[-60.96129309759834,10.33002350518069],[-60.99022376171717,10.29926178630245],[-61.00279700427831,10.24754466405506],[-61.00332597561322,10.18911367465643],[-60.99600175657577,10.13825104415042],[-61.01748613217922,10.14288971668714],[-61.04157467373216,10.13564687730161],[-61.06432044203473,10.12181224204136],[-61.08202063684286,10.10687897338596],[-61.09968014182505,10.09520091419091],[-61.12238522030162,10.08681875248351],[-61.16734778557179,10.07615794523304],[-61.17764238169053,10.07518138221508],[-61.17765857758127,10.07517978142181],[-61.19196997673299,10.23012523039512],[-61.20848059780133,10.25865062132914],[-61.21780819429267,10.27001943604819],[-61.22623145231961,10.27177643523436],[-61.22992631694592,10.28025137010468],[-61.23636003268933,10.28469554356451],[-61.24356889478861,10.30712311374077],[-61.22922868495579,10.32769033554058],[-61.22114132281376,10.35497549122601],[-61.21514685664209,10.41223297776975],[-61.21052181692829,10.43207672825844],[-61.19713762060468,10.45636465130764],[-61.09530921095126,10.46954214115692],[-61.03844153554837,10.46364980739276]]],"type":"Polygon"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209649511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.04373,10.57339,-61.04373,10.57339",
+    "geom:latitude":10.57339,
+    "geom:longitude":-61.04373,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Lower Fishing Pond",
+    "gn:country_code":"TT",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574253,
+    "gn:latitude":10.57339,
+    "gn:longitude":-61.04373,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Lower Fishing Pond",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574253
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"7662488ac51e46fd47502aa321c2cc00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632271,
+            "locality_id":1209649511
+        }
+    ],
+    "wof:id":1209649511,
+    "wof:lastmodified":1536280625,
+    "wof:name":"Lower Fishing Pond",
+    "wof:parent_id":85632271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.04373,
+    10.57339,
+    -61.04373,
+    10.57339
+],
+  "geometry": {"coordinates":[-61.04373,10.57339],"type":"Point"}
+}

@@ -1,0 +1,279 @@
+{
+  "id": 85679069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.01972,
+    "geom:area_square_m":240017772.413117,
+    "geom:bbox":"-61.520779703,10.0693220077,-61.3728374898,10.2590640325",
+    "geom:latitude":10.161144,
+    "geom:longitude":-61.4349,
+    "gn:population":83609,
+    "iso:country":"TT",
+    "label:eng_x_preferred_longname":[
+        "Penal-Debe Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":10.151282,
+    "lbl:longitude":-61.426096,
+    "mps:latitude":10.151282,
+    "mps:longitude":-61.426096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0643\u0629 \u0628\u064a\u0646\u0627\u0644 \u062f\u064a\u0628 \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09a8\u09be\u09b2-\u09a1\u09c7\u09ac\u09c7 \u0986\u099e\u09cd\u099a\u09b2\u09bf\u0995 \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u09b6\u09a8"
+    ],
+    "name:chi_x_preferred":[
+        "\u76ae\u7d0d\u723e-\u5fb7\u8c9d\u90e1"
+    ],
+    "name:dan_x_preferred":[
+        "Penal-Debe Regional Corporation"
+    ],
+    "name:dut_x_preferred":[
+        "Penal - Debe"
+    ],
+    "name:eng_x_preferred":[
+        "Penal-Debe"
+    ],
+    "name:fin_x_preferred":[
+        "Penal-Deben hallintoalue"
+    ],
+    "name:fra_x_preferred":[
+        "Penal-Debe"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00e9gion de Penal-Debe"
+    ],
+    "name:ger_x_preferred":[
+        "Penal-Debe"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03bd\u03ac\u03bb-\u039d\u03c4\u03ad\u03bc\u03c0\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac7\u0aa8\u0ab2-\u0aa1\u0ac7\u0aac\u0ac7 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6\u0ab2 \u0a95\u0acb\u0ab0\u0acd\u0aaa\u0acb\u0ab0\u0ac7\u0ab6\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0940\u0928\u0932-\u0921\u0947\u092c\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0940\u092f \u0928\u093f\u0917\u092e"
+    ],
+    "name:ind_x_preferred":[
+        "Korporasi Wilayah Penal-Debe"
+    ],
+    "name:ita_x_preferred":[
+        "regione di Penal-Debe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ca\u30eb\uff1d\u30c7\u30d9\u5730\u57df\u81ea\u6cbb\u4f53"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cc6\u0ca8\u0cbe\u0cb2\u0ccd-\u0ca1\u0cc6\u0cac\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0ca6\u0cc7\u0cb6\u0cbf\u0c95 \u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0cca\u0cb0\u0cc7\u0cb7\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub0a0\ub370\ubca0 \uc9c0\uc5ed"
+    ],
+    "name:lav_x_preferred":[
+        "P\u012bnalas-Debes re\u0123ion\u0101l\u0101 pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Penal-Deb\u0117s regionin\u0117 korporacija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u0902\u0921\u093e\u0932-\u0921\u0947\u092c\u0947  \u092a\u094d\u0930\u093e\u0926\u0947\u0936\u093f\u0915 \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Penal-Debe Regional Corporation"
+    ],
+    "name:nob_x_preferred":[
+        "Penal Debe"
+    ],
+    "name:pol_x_preferred":[
+        "Region Penal-Debe"
+    ],
+    "name:por_x_preferred":[
+        "Regi\u00e3o de Penal Debe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u0430\u043b-\u0414\u0435\u0431"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd9\u0db1\u0dbd\u0dca-\u0da9\u0dd9\u0db6\u0dda \u0d9a\u0dbd\u0dcf\u0db4\u0dd2\u0dba \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Penal-Debe"
+    ],
+    "name:swe_x_preferred":[
+        "Penal Debe"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba9\u0bb2\u0bcd-\u0b9f\u0bc6\u0baa\u0bc7 \u0bb0\u0bbf\u0b9c\u0bbf\u0ba9\u0bb2\u0bcd   \u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c46\u0c28\u0c3e\u0c32\u0c4d-\u0c21\u0c46\u0c2c\u0c46 \u0c30\u0c40\u0c1c\u0c28\u0c32\u0c4d \u0c15\u0c3e\u0c30\u0c4d\u0c2a\u0c4a\u0c30\u0c47\u0c37\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e17\u0e32\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Penal-Debe B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u041f\u0435\u043d\u0430\u043b-\u0414\u0435\u0431\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u0644-\u0688\u06cc\u0628\u06d2 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u06a9\u0627\u0631\u067e\u0648\u0631\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Khu li\u00ean k\u1ebft chung Penal-Debe"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TTO",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TTO-59",
+    "ne:adm1_code":"TTO-59",
+    "ne:admin":"Trinidad and Tobago",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"TT.PD",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"59",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TD00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Trinidad and Tobago",
+    "ne:gn_a1_code":"TT.PED",
+    "ne:gn_id":"7521941",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Penal/Debe",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TD17",
+    "ne:gns_id":"11402778",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Penal/Debe, Region of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TTO",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TT-",
+    "ne:iso_a2":"TT",
+    "ne:labelrank":"9",
+    "ne:latitude":"10.14590000000",
+    "ne:longitude":"-61.42690000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Penal-Debe",
+    "ne:name_alt":"Penal",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PD",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"TTO",
+    "ne:sub_code":"",
+    "ne:type":"Region",
+    "ne:type_en":"Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":56189829,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Trinidad and Tobago",
+    "qs:a0_lc":"TT",
+    "qs:a1":"Penal-Debe",
+    "qs:a1_lc":"TTO-59",
+    "qs:adm0":"Trinidad and Tobago",
+    "qs:adm0_a3":"TTO",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-01-09",
+    "statoids:area_km":"247",
+    "statoids:area_mi":"95",
+    "statoids:as_of_date":"2011-01-09",
+    "statoids:capital":"Penal",
+    "statoids:country":"TT",
+    "statoids:gec":"TD17",
+    "statoids:hasc":"TT.PD",
+    "statoids:iso":"PED",
+    "statoids:name":"Penal/Debe",
+    "statoids:population":"89392",
+    "statoids:timezone":"-4",
+    "statoids:type":"region",
+    "unlc:subdivision":"TT-PED",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TD17",
+        "gn:id":7521941,
+        "gp:id":56189829,
+        "hasc:id":"TT.PD",
+        "iso:id":"TT-PED",
+        "qs:id":1100531,
+        "unlc:id":"TT-PED",
+        "wd:id":"Q2056273",
+        "wk:page":"Penal-Debe Regional Corporation"
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"f08006d52d8f2c738ab52bfe9ea7daf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "region_id":85679069
+        }
+    ],
+    "wof:id":85679069,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550535,
+    "wof:name":"Penal-Debe",
+    "wof:parent_id":85632271,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":89392,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:shortcode":"PD",
+    "wof:subdivision":"TT-PED",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.52077970302082,
+    10.06932200770456,
+    -61.3728374897583,
+    10.25906403247916
+],
+  "geometry": {"coordinates":[[[-61.37909347068711,10.072827762891],[-61.41746985634876,10.07615794523304],[-61.5030818347588,10.06932200770456],[-61.50413977832807,10.06952545863305],[-61.50414575971899,10.06952645148459],[-61.49918636735691,10.10667023444381],[-61.49556901709644,10.1175739611694],[-61.49047888938918,10.12604889603978],[-61.47797319220899,10.14056997302589],[-61.47329647475249,10.15023346630147],[-61.46923987492028,10.168526923179],[-61.46880062534854,10.1857351753381],[-61.47156531398804,10.19286652307164],[-61.47668128101628,10.20211660429788],[-61.48918697819647,10.20986806875641],[-61.51644629635945,10.23353587508063],[-61.52077970302082,10.24013916069379],[-61.51781165248576,10.24026113484354],[-61.50658118407432,10.24066803670058],[-61.49526933511169,10.24502187685817],[-61.48991322481544,10.24930023331916],[-61.48887691893464,10.24800527612263],[-61.44148963124144,10.25906403247916],[-61.39164771237199,10.23766998927863],[-61.38066647038124,10.22774811448397],[-61.3728374897583,10.21741282853924],[-61.37909033924774,10.0728738468506],[-61.37909347068711,10.072827762891]]],"type":"Polygon"}
+}

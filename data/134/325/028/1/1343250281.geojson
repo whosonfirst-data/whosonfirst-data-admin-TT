@@ -1,0 +1,65 @@
+{
+  "id": 1343250281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.79495,11.16383,-60.79495,11.16383",
+    "geom:latitude":11.16383,
+    "geom:longitude":-60.79495,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mount Pleasant",
+    "gn:country_code":"TT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574073,
+    "gn:latitude":11.16383,
+    "gn:longitude":-60.79495,
+    "gn:modification_date":"2015-08-11",
+    "gn:name":"Mount Pleasant",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574073
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"e20c0265e83f33dd941a0530c47f1b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1343250281,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":1343250281,
+    "wof:lastmodified":1537047623,
+    "wof:name":"Mount Pleasant",
+    "wof:parent_id":85679029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.79495,
+    11.16383,
+    -60.79495,
+    11.16383
+],
+  "geometry": {"coordinates":[-60.79495,11.16383],"type":"Point"}
+}

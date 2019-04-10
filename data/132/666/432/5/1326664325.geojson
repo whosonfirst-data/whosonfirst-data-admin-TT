@@ -1,0 +1,65 @@
+{
+  "id": 1326664325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.16217,10.47579,-61.16217,10.47579",
+    "geom:latitude":10.47579,
+    "geom:longitude":-61.16217,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Mamon",
+    "gn:country_code":"TT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574214,
+    "gn:latitude":10.47579,
+    "gn:longitude":-61.16217,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Mamon",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574214
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"035f541bbdeaebe559540b538a82d6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1326664325,
+            "region_id":85679047
+        }
+    ],
+    "wof:id":1326664325,
+    "wof:lastmodified":1536793921,
+    "wof:name":"Mamon",
+    "wof:parent_id":85679047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.16217,
+    10.47579,
+    -61.16217,
+    10.47579
+],
+  "geometry": {"coordinates":[-61.16217,10.47579],"type":"Point"}
+}

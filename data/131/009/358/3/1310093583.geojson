@@ -1,0 +1,68 @@
+{
+  "id": 1310093583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.6826,11.19498,-60.6826,11.19498",
+    "geom:latitude":11.19498,
+    "geom:longitude":-60.6826,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mount Saint George",
+    "gn:country_code":"TT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574072,
+    "gn:latitude":11.19498,
+    "gn:longitude":-60.6826,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mount Saint George",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mount Saint George Village",
+        "Mount Saint George"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574072
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"1ed638d4bea17782e112f4b587c05b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1310093583,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310093583,
+    "wof:lastmodified":1537708413,
+    "wof:name":"Mount Saint George",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.6826,
+    11.19498,
+    -60.6826,
+    11.19498
+],
+  "geometry": {"coordinates":[-60.6826,11.19498],"type":"Point"}
+}

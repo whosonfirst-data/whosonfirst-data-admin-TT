@@ -1,0 +1,65 @@
+{
+  "id": 1260214651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.55,10.73333,-61.55,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-61.55,
+    "gn:admin1_code":"DMN",
+    "gn:asciiname":"Coolie Block",
+    "gn:country_code":"TT",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574741,
+    "gn:latitude":10.73333,
+    "gn:longitude":-61.55,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Coolie Block",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574741
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"ee40869ca5a055f94e0ceb095ab155dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1260214651,
+            "region_id":85679035
+        }
+    ],
+    "wof:id":1260214651,
+    "wof:lastmodified":1536805297,
+    "wof:name":"Coolie Block",
+    "wof:parent_id":85679035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.55,
+    10.73333,
+    -61.55,
+    10.73333
+],
+  "geometry": {"coordinates":[-61.55,10.73333],"type":"Point"}
+}

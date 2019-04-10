@@ -1,0 +1,69 @@
+{
+  "id": 1360316829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.47441,10.23882,-61.47441,10.23882",
+    "geom:latitude":10.23882,
+    "geom:longitude":-61.47441,
+    "gn:admin1_code":"PED",
+    "gn:asciiname":"Rambert",
+    "gn:country_code":"TT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573861,
+    "gn:latitude":10.23882,
+    "gn:longitude":-61.47441,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Rambert",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rambert Village",
+        "Rambert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573861
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"3e1bba10398e148b0dba30f710a5bd81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1360316829,
+            "region_id":85679069
+        }
+    ],
+    "wof:id":1360316829,
+    "wof:lastmodified":1537708412,
+    "wof:name":"Rambert",
+    "wof:parent_id":85679069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.47441,
+    10.23882,
+    -61.47441,
+    10.23882
+],
+  "geometry": {"coordinates":[-61.47441,10.23882],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1360021961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.58196,10.68375,-61.58196,10.68375",
+    "geom:latitude":10.68375,
+    "geom:longitude":-61.58196,
+    "gn:admin1_code":"DMN",
+    "gn:asciiname":"Sea View Gardens",
+    "gn:country_code":"TT",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8709807,
+    "gn:latitude":10.68375,
+    "gn:longitude":-61.58196,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Sea View Gardens",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8709807
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"414554c882ba86bec1a550a855664d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1360021961,
+            "region_id":85679035
+        }
+    ],
+    "wof:id":1360021961,
+    "wof:lastmodified":1537035086,
+    "wof:name":"Sea View Gardens",
+    "wof:parent_id":85679035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.58196,
+    10.68375,
+    -61.58196,
+    10.68375
+],
+  "geometry": {"coordinates":[-61.58196,10.68375],"type":"Point"}
+}

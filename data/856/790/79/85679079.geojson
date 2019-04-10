@@ -1,0 +1,278 @@
+{
+  "id": 85679079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.042979,
+    "geom:area_square_m":522230661.509349,
+    "geom:bbox":"-61.4285446836,10.5655052758,-61.156959195,10.8043887393",
+    "geom:latitude":10.686597,
+    "geom:longitude":-61.305191,
+    "gn:id":"",
+    "iso:country":"TT",
+    "label:eng_x_preferred_longname":[
+        "Tunapuna/Piarco Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":10.666631,
+    "lbl:longitude":-61.35202,
+    "mps:latitude":10.666631,
+    "mps:longitude":-61.35202,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0643\u0629 \u062a\u0648\u0646\u0627\u0628\u0648\u0646\u0627 \u0628\u064a\u0627\u0631\u0643\u0648 \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09cb\u09a8\u09be\u09aa\u09cb\u09a8\u09be-\u09aa\u09bf\u09af\u09bc\u09be\u0995\u09c1 \u0986\u099e\u09cd\u099a\u09b2\u09bf\u0995 \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u09b6\u09a8"
+    ],
+    "name:chi_x_preferred":[
+        "\u9ea5\u9ad8\u8036"
+    ],
+    "name:dan_x_preferred":[
+        "Tunapuna - Piarco"
+    ],
+    "name:dut_x_preferred":[
+        "Tunapuna - Piarco"
+    ],
+    "name:eng_x_preferred":[
+        "Tanapuna-Piarco"
+    ],
+    "name:fin_x_preferred":[
+        "Tunapuna-Piarcon hallintoalue"
+    ],
+    "name:fra_x_preferred":[
+        "Tunapuna-Piarco"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00e9gion de Tunapuna-Piarco"
+    ],
+    "name:ger_x_preferred":[
+        "Tunapuna-Piarco"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03bd\u03b1\u03c0\u03bf\u03cd\u03bd\u03b1-\u03a0\u03b9\u03ac\u03c1\u03ba\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acd\u0aaf\u0ac1\u0aa8\u0abe\u0aaa\u0ac1\u0aa8\u0abe-\u0aaa\u0ac0\u0a86\u0ab0\u0acd\u0a95\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6\u0ab2 \u0a95\u0acb\u0ab0\u0acd\u0aaa\u0acb\u0ab0\u0ac7\u0ab6\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0942\u0928\u093e\u092a\u0942\u0928\u093e-\u092a\u093e\u092f\u0930\u0915\u094b \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0940\u092f \u0928\u093f\u0917\u092e"
+    ],
+    "name:ind_x_preferred":[
+        "Korporasi Wilayah Tunapuna-Piarco"
+    ],
+    "name:ita_x_preferred":[
+        "regione di Tunapuna-Piarco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b3\u30e4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cc1\u0ca8\u0caa\u0cc1\u0ca8\u0cbe-\u0caa\u0cbf\u0caf\u0cbe\u0cb0\u0ccd\u0c95\u0cca \u0caa\u0ccd\u0cb0\u0cbe\u0ca6\u0cc7\u0cb6\u0cbf\u0c95 \u0c95\u0cbe\u0cb0\u0ccd\u0caa\u0cca\u0cb0\u0cc7\u0cb7\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud22c\ub098\ud478\ub098\ud53c\uc544\ub974\ucf54 \uc9c0\uc5ed"
+    ],
+    "name:lav_x_preferred":[
+        "Tunapuna-Piarko re\u0123ion\u0101l\u0101 pa\u0161vald\u012bba"
+    ],
+    "name:lit_x_preferred":[
+        "Tunapuna-Pijarko regionin\u0117 korporacija"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u094b\u0928\u092a\u0941\u0928-\u092a\u093e\u092f\u0930\u0915\u094b \u092a\u094d\u0930\u093e\u0926\u0947\u0936\u093f\u0915 \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Tunapuna-Piarco Regional Corporation"
+    ],
+    "name:nob_x_preferred":[
+        "Tunapuna Piarco"
+    ],
+    "name:pol_x_preferred":[
+        "Region Tunapuna-Piarco"
+    ],
+    "name:por_x_preferred":[
+        "Tunapuna Piarco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043d\u0430\u043f\u0443\u043d\u0430-\u041f\u0438\u0430\u0440\u043a\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dd4\u0db1\u0db4\u0dd4\u0db1\u0dcf-\u0db4\u0dd2\u0dba\u0dbb\u0dca\u0d9a\u0ddd \u0d9a\u0dbd\u0dcf\u0db4\u0dd2\u0dba \u0dc3\u0d82\u0dc3\u0dca\u0dae\u0dcf\u0dc0"
+    ],
+    "name:spa_x_preferred":[
+        "Tunapuna-Piarco"
+    ],
+    "name:swe_x_preferred":[
+        "Tunapuna-Piarco Regional Corporation"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc1\u0ba3\u0bc8\u0baa\u0bc1\u0ba3 -\u0baa\u0bbf\u0baf\u0bb0\u0bcd\u0b95\u0bcb   \u0bb0\u0bbf\u0b9c\u0bbf\u0ba9\u0bb2\u0bcd   \u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c41\u0c28\u0c3e\u0c2a\u0c41\u0c28\u0c3e-\u0c2a\u0c3f\u0c2f\u0c3e\u0c30\u0c4d\u0c15\u0c4b \u0c30\u0c40\u0c1c\u0c3f\u0c28\u0c32\u0c4d \u0c15\u0c3e\u0c30\u0c4d\u0c2a\u0c4b\u0c30\u0c47\u0c37\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e39\u0e19\u0e32\u0e1b\u0e39\u0e19\u0e32 \u0e40\u0e1b\u0e35\u0e22\u0e23\u0e4c\u0e42\u0e04 \u0e40\u0e23\u0e08\u0e34\u0e19\u0e2d\u0e25 \u0e04\u0e2d\u0e23\u0e4c\u0e42\u0e1e\u0e40\u0e23\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Tunapuna-Piarco Regional Corporation"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0433\u0456\u043e\u043d \u0422\u0443\u043d\u0430\u043f\u0443\u043d\u0430-\u041f\u0456\u0430\u0440\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u0646\u0627\u067e\u0648\u0646\u0627-\u067e\u06cc\u0627\u0631\u06a9\u0648 \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u06a9\u0627\u0631\u067e\u0648\u0631\u06cc\u0634\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Khu li\u00ean k\u1ebft chung Tunapuna-Piarco"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TTO",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TTO-61",
+    "ne:adm1_code":"TTO-61",
+    "ne:admin":"Trinidad and Tobago",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"12",
+    "ne:code_hasc":"TT.TP",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"61",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"TD00",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Trinidad and Tobago",
+    "ne:gn_a1_code":"TT.TUP",
+    "ne:gn_id":"7521947",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Tunapuna/Piarco",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TD23",
+    "ne:gns_id":"11402783",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Tunapuna/Piarco, Region of",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TTO",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TT-",
+    "ne:iso_a2":"TT",
+    "ne:labelrank":"9",
+    "ne:latitude":"10.69030000000",
+    "ne:longitude":"-61.32540000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":2,
+    "ne:name":"Tunapuna/Piarco",
+    "ne:name_alt":"Tunapuna",
+    "ne:name_len":15,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"TP",
+    "ne:provnum_ne":"10",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"TTO",
+    "ne:sub_code":"",
+    "ne:type":"Region",
+    "ne:type_en":"Region",
+    "ne:wikipedia":"",
+    "ne:woe_id":56189836,
+    "ne:woe_label":"",
+    "ne:woe_name":"",
+    "qs:a0":"Trinidad and Tobago",
+    "qs:a0_lc":"TT",
+    "qs:a1":"Tunapuna/Piarco",
+    "qs:a1_lc":"TTO-61",
+    "qs:adm0":"Trinidad and Tobago",
+    "qs:adm0_a3":"TTO",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-01-09",
+    "statoids:area_km":"527",
+    "statoids:area_mi":"204",
+    "statoids:as_of_date":"2011-01-09",
+    "statoids:capital":"Tunapuna",
+    "statoids:country":"TT",
+    "statoids:gec":"TD23",
+    "statoids:hasc":"TT.TP",
+    "statoids:iso":"TUP",
+    "statoids:name":"Tunapuna/Piarco",
+    "statoids:population":"215119",
+    "statoids:timezone":"-4",
+    "statoids:type":"region",
+    "unlc:subdivision":"TT-TUP",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"TD23",
+        "gn:id":7521947,
+        "gp:id":56189836,
+        "hasc:id":"TT.TP",
+        "iso:id":"TT-TUP",
+        "qs:id":13255,
+        "unlc:id":"TT-TUP",
+        "wd:id":"Q1899163"
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"d2c9cd318ac5668f802feebac745b1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "region_id":85679079
+        }
+    ],
+    "wof:id":85679079,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550535,
+    "wof:name":"Tunapuna/Piarco",
+    "wof:parent_id":85632271,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":215119,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:shortcode":"TP",
+    "wof:subdivision":"TT-TUP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.42854468359025,
+    10.56550527584784,
+    -61.15695919501081,
+    10.80438873934889
+],
+  "geometry": {"coordinates":[[[-61.17158190887795,10.80393938139736],[-61.16760454021733,10.80083974925509],[-61.15796688536341,10.78699046493807],[-61.15695919501081,10.77810211801835],[-61.15719173900749,10.76921377199801],[-61.16310868991405,10.76373606976387],[-61.17166114004954,10.75955027872243],[-61.17819820768108,10.75505443021785],[-61.1945279606968,10.73691600207189],[-61.20021236760664,10.73273021103046],[-61.20930742010131,10.72993968306997],[-61.23762610456106,10.72714915600881],[-61.23953813337812,10.72322174738576],[-61.23530066639262,10.72136139631147],[-61.23015886094265,10.7197077499128],[-61.22388017393087,10.71929433786346],[-61.21959103100124,10.71722728121409],[-61.21429419592039,10.71267975496676],[-61.21331234398946,10.70430817288394],[-61.21369991671776,10.68663483273139],[-61.2179632230243,10.6714936390203],[-61.21470760796967,10.655008857273],[-61.21090938965659,10.64787750953946],[-61.20341630671714,10.63821401626387],[-61.20132341164611,10.63206452136063],[-61.20129757322439,10.62493317272776],[-61.20292538120134,10.6176467962627],[-61.20920406821313,10.60984365496074],[-61.21338985925456,10.60353913042655],[-61.2391505597505,10.59144684529571],[-61.26777930437135,10.58250682243198],[-61.31095496260139,10.58069814730169],[-61.32503679091514,10.57754588503462],[-61.33741329598678,10.57201650595704],[-61.34997066911103,10.57134471328794],[-61.35971167675245,10.57336009399319],[-61.36459509978397,10.57336009399319],[-61.3689617579787,10.56550527584784],[-61.40976030119691,10.56628042220376],[-61.42174923443957,10.64260651288032],[-61.42141333675602,10.66751455355387],[-61.42854468359025,10.71143952151675],[-61.42645178941848,10.72880280240747],[-61.42087073439683,10.73877635314625],[-61.41231828516067,10.74130849868834],[-61.38562740687928,10.73753611879687],[-61.37921952955759,10.73815623642122],[-61.37185563782737,10.74017161712646],[-61.36456926136231,10.7397582059765],[-61.34723181799399,10.73567576682325],[-61.34118567587819,10.73753611879687],[-61.33485531292229,10.74502920173632],[-61.33374426888287,10.75619131088035],[-61.34188330786833,10.77272776947103],[-61.34940222833012,10.79773916293209],[-61.35261024766476,10.80410387279557],[-61.35260982948,10.80410390786909],[-61.3491104810638,10.80438873934889],[-61.29613196521797,10.79804108332939],[-61.18008378833611,10.79755280271974],[-61.17158190887795,10.80393938139736]],[[-61.27452307757795,10.60736318626209],[-61.26979468417727,10.60850006782391],[-61.26677161311943,10.60974030217324],[-61.26522132040759,10.61361603395284],[-61.26547970192667,10.61966217696795],[-61.26984636102071,10.63371816685998],[-61.27126746342265,10.64064280811914],[-61.28542680520286,10.65397532849863],[-61.28656368676468,10.64503530473559],[-61.28640865713379,10.64260651288032],[-61.28555599641209,10.64100454332504],[-61.28524593804957,10.63976430897571],[-61.28581437793116,10.63857575146983],[-61.28671871639563,10.63754222269546],[-61.28751970117321,10.63604360592774],[-61.28788143637917,10.63444163727178],[-61.28798478916667,10.6325812852981],[-61.2877264058489,10.63072093332448],[-61.28757137711733,10.62891225819419],[-61.28868242025743,10.62327952722848],[-61.29028438981271,10.62110911689228],[-61.29405676880481,10.61759512031858],[-61.29521948878835,10.61578644518835],[-61.29555538557253,10.61387441727061],[-61.29498694479162,10.61211741808444],[-61.29253231541401,10.61051544852916],[-61.28333391013183,10.6075698918371],[-61.27452307757795,10.60736318626209]]],"type":"Polygon"}
+}

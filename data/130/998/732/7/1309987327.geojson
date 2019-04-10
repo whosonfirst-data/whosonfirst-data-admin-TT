@@ -1,0 +1,65 @@
+{
+  "id": 1309987327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.55932,11.26601,-60.55932,11.26601",
+    "geom:latitude":11.26601,
+    "geom:longitude":-60.55932,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Delaford",
+    "gn:country_code":"TT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574655,
+    "gn:latitude":11.26601,
+    "gn:longitude":-60.55932,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Delaford",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574655
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"c43fe66a1e1567e43bb4466885e78023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1309987327,
+            "region_id":85679025
+        }
+    ],
+    "wof:id":1309987327,
+    "wof:lastmodified":1536669513,
+    "wof:name":"Delaford",
+    "wof:parent_id":85679025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.55931999999999,
+    11.26601,
+    -60.55931999999999,
+    11.26601
+],
+  "geometry": {"coordinates":[-60.55931999999999,11.26601],"type":"Point"}
+}

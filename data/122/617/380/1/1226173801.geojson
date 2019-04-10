@@ -1,0 +1,65 @@
+{
+  "id": 1226173801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.5,10.68333,-61.5,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":-61.5,
+    "gn:admin1_code":"SJL",
+    "gn:asciiname":"Saint Elizabeth",
+    "gn:country_code":"TT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573788,
+    "gn:latitude":10.68333,
+    "gn:longitude":-61.5,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Saint Elizabeth",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573788
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"d25aace4aa43ead9d42164add98657c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1226173801,
+            "region_id":85679057
+        }
+    ],
+    "wof:id":1226173801,
+    "wof:lastmodified":1537035754,
+    "wof:name":"Saint Elizabeth",
+    "wof:parent_id":85679057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.5,
+    10.68333,
+    -61.5,
+    10.68333
+],
+  "geometry": {"coordinates":[-61.5,10.68333],"type":"Point"}
+}

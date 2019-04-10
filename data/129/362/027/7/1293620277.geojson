@@ -1,0 +1,65 @@
+{
+  "id": 1293620277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.20876,10.52817,-61.20876,10.52817",
+    "geom:latitude":10.52817,
+    "geom:longitude":-61.20876,
+    "gn:admin1_code":"CTT",
+    "gn:asciiname":"Caratal",
+    "gn:country_code":"TT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8709987,
+    "gn:latitude":10.52817,
+    "gn:longitude":-61.20876,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Caratal",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8709987
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"3b0b53e45981afbb0209531fb17dc5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1293620277,
+            "region_id":85679047
+        }
+    ],
+    "wof:id":1293620277,
+    "wof:lastmodified":1537089659,
+    "wof:name":"Caratal",
+    "wof:parent_id":85679047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.20876,
+    10.52817,
+    -61.20876,
+    10.52817
+],
+  "geometry": {"coordinates":[-61.20876,10.52817],"type":"Point"}
+}

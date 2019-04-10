@@ -1,0 +1,61 @@
+{
+  "id": 1209043477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.40976,10.50091,-61.40976,10.50091",
+    "geom:latitude":10.50091,
+    "geom:longitude":-61.40976,
+    "gn:admin1_code":"CHA",
+    "gn:asciiname":"Edinburgh",
+    "gn:country_code":"TT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8709983,
+    "gn:latitude":10.50091,
+    "gn:longitude":-61.40976,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Edinburgh",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8709983
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"8a83eb4ce132dac93fcd6ca0eaa8d8a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632271,
+            "locality_id":1209043477
+        }
+    ],
+    "wof:id":1209043477,
+    "wof:lastmodified":1536299470,
+    "wof:name":"Edinburgh",
+    "wof:parent_id":85632271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.40976,
+    10.50091,
+    -61.40976,
+    10.50091
+],
+  "geometry": {"coordinates":[-61.40976,10.50091],"type":"Point"}
+}

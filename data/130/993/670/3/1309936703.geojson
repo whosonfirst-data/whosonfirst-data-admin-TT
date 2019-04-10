@@ -1,0 +1,68 @@
+{
+  "id": 1309936703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.31995,10.58886,-61.31995,10.58886",
+    "geom:latitude":10.58886,
+    "geom:longitude":-61.31995,
+    "gn:admin1_code":"TUP",
+    "gn:asciiname":"Centeno",
+    "gn:country_code":"TT",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574818,
+    "gn:latitude":10.58886,
+    "gn:longitude":-61.31995,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Centeno",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Centento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574818
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"9f067c628d54dddd9fcbf4b96ff3bb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1309936703,
+            "region_id":85679079
+        }
+    ],
+    "wof:id":1309936703,
+    "wof:lastmodified":1537708415,
+    "wof:name":"Centeno",
+    "wof:parent_id":85679079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.31995,
+    10.58886,
+    -61.31995,
+    10.58886
+],
+  "geometry": {"coordinates":[-61.31995,10.58886],"type":"Point"}
+}

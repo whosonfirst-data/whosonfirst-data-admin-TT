@@ -1,0 +1,65 @@
+{
+  "id": 1260013413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.56622,10.67846,-61.56622,10.67846",
+    "geom:latitude":10.67846,
+    "geom:longitude":-61.56622,
+    "gn:admin1_code":"DMN",
+    "gn:asciiname":"Bayshore",
+    "gn:country_code":"TT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8709806,
+    "gn:latitude":10.67846,
+    "gn:longitude":-61.56622,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Bayshore",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8709806
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"923d4b2ba7918ba63065f7332fb17d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1260013413,
+            "region_id":85679035
+        }
+    ],
+    "wof:id":1260013413,
+    "wof:lastmodified":1537085719,
+    "wof:name":"Bayshore",
+    "wof:parent_id":85679035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.56622,
+    10.67846,
+    -61.56622,
+    10.67846
+],
+  "geometry": {"coordinates":[-61.56622,10.67846],"type":"Point"}
+}

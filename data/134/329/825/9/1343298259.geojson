@@ -1,0 +1,64 @@
+{
+  "id": 1343298259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65875,10.6799,-61.65875,10.6799",
+    "geom:latitude":10.6799,
+    "geom:longitude":-61.65875,
+    "gn:admin1_code":"DMN",
+    "gn:asciiname":"La Retraite",
+    "gn:country_code":"TT",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574322,
+    "gn:latitude":10.6799,
+    "gn:longitude":-61.65875,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"La Retraite",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574322
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"9d8323f682e3ced5e1fafcbdba2ce3de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1343298259,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343298259,
+    "wof:lastmodified":1536979629,
+    "wof:name":"La Retraite",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65875,
+    10.6799,
+    -61.65875,
+    10.6799
+],
+  "geometry": {"coordinates":[-61.65875,10.6799],"type":"Point"}
+}

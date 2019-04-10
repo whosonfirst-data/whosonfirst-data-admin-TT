@@ -1,0 +1,64 @@
+{
+  "id": 1226330377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.62951,11.21529,-60.62951,11.21529",
+    "geom:latitude":11.21529,
+    "geom:longitude":-60.62951,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Goldsborough",
+    "gn:country_code":"TT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574510,
+    "gn:latitude":11.21529,
+    "gn:longitude":-60.62951,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Goldsborough",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574510
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"f93b9977701de48bd21c0c572117397c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1226330377,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226330377,
+    "wof:lastmodified":1536811157,
+    "wof:name":"Goldsborough",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.62951,
+    11.21529,
+    -60.62951,
+    11.21529
+],
+  "geometry": {"coordinates":[-60.62951,11.21529],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327470247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.39233,10.38989,-61.39233,10.38989",
+    "geom:latitude":10.38989,
+    "geom:longitude":-61.39233,
+    "gn:admin1_code":"CTT",
+    "gn:asciiname":"Gordon Settlement",
+    "gn:country_code":"TT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8709994,
+    "gn:latitude":10.38989,
+    "gn:longitude":-61.39233,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Gordon Settlement",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8709994
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"5d799a6ae5d0c5cc4bc52c8386b7e4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1327470247,
+            "region_id":85679065
+        }
+    ],
+    "wof:id":1327470247,
+    "wof:lastmodified":1536624048,
+    "wof:name":"Gordon Settlement",
+    "wof:parent_id":85679065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.39233,
+    10.38989,
+    -61.39233,
+    10.38989
+],
+  "geometry": {"coordinates":[-61.39233,10.38989],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343795709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.50355,10.65861,-61.50355,10.65861",
+    "geom:latitude":10.65861,
+    "geom:longitude":-61.50355,
+    "gn:admin1_code":"SJL",
+    "gn:asciiname":"Gonzales",
+    "gn:country_code":"TT",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6315312,
+    "gn:latitude":10.65861,
+    "gn:longitude":-61.50355,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Gonzales",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6315312
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"38694c5627b83c6fd4668ad366a4a3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1343795709,
+            "region_id":85679093
+        }
+    ],
+    "wof:id":1343795709,
+    "wof:lastmodified":1536760356,
+    "wof:name":"Gonzales",
+    "wof:parent_id":85679093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.50355,
+    10.65861,
+    -61.50355,
+    10.65861
+],
+  "geometry": {"coordinates":[-61.50355,10.65861],"type":"Point"}
+}

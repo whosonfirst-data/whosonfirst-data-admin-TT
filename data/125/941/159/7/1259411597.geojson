@@ -1,0 +1,69 @@
+{
+  "id": 1259411597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.06877,10.82837,-61.06877,10.82837",
+    "geom:latitude":10.82837,
+    "geom:longitude":-61.06877,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Homard",
+    "gn:country_code":"TT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574403,
+    "gn:latitude":10.82837,
+    "gn:longitude":-61.06877,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Homard",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Homard Village",
+        "Homard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574403
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"b399813ba652035cde86d00f9fb9b8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1259411597,
+            "region_id":85679047
+        }
+    ],
+    "wof:id":1259411597,
+    "wof:lastmodified":1537708414,
+    "wof:name":"Homard",
+    "wof:parent_id":85679047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.06877,
+    10.82837,
+    -61.06877,
+    10.82837
+],
+  "geometry": {"coordinates":[-61.06877,10.82837],"type":"Point"}
+}

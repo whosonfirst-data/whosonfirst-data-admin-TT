@@ -1,0 +1,66 @@
+{
+  "id": 890418121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.46667,10.15,-61.46667,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-61.46667,
+    "gn:country":"TT",
+    "gn:fcode":"ADM2",
+    "gn:pop":79760,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Siparia"
+    ],
+    "qs:name":"Ward of Siparia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573680,
+        "qs:id":583474
+    },
+    "wof:country":"TT",
+    "wof:created":1469051235,
+    "wof:geomhash":"f3cae2e90dc1c3e95630526a1a8393da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "county_id":890418121,
+            "region_id":85679069
+        }
+    ],
+    "wof:id":890418121,
+    "wof:lastmodified":1505343442,
+    "wof:name":"Ward of Siparia",
+    "wof:parent_id":85679069,
+    "wof:placetype":"county",
+    "wof:population":79760,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.46667,
+    10.15,
+    -61.46667,
+    10.15
+],
+  "geometry": {"coordinates":[-61.46667,10.15],"type":"Point"}
+}

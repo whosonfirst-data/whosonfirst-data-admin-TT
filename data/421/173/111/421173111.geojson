@@ -1,0 +1,101 @@
+{
+  "id": 421173111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.3048,10.79604,-61.3048,10.79604",
+    "geom:latitude":10.79604,
+    "geom:longitude":-61.3048,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Blanchisseuse"
+    ],
+    "name:dut_x_preferred":[
+        "Blanchisseuse"
+    ],
+    "name:eng_x_preferred":[
+        "Blanchisseuse"
+    ],
+    "name:fre_x_preferred":[
+        "Blanchisseuse"
+    ],
+    "name:ger_x_preferred":[
+        "Blanchisseuse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30f3\u30c1\u30c3\u30bb\u30a6\u30bb"
+    ],
+    "name:spa_x_preferred":[
+        "Blanchisseuse"
+    ],
+    "name:unk_x_variant":[
+        "Blanchisseuse Village"
+    ],
+    "qs:gn_country":"TT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3574972,
+    "qs:gn_pop":0,
+    "qs:name":"Blanchisseuse",
+    "qs:name_adm0":"Trinidad and Tobago",
+    "qs:name_adm1":"Tanapuna-Piarco",
+    "qs:photos":585,
+    "qs:photos_1k":119,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":585,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":489651,
+    "qs:woe_adm0":23424958,
+    "qs:woe_id":380312,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574972,
+        "gp:id":380312,
+        "qs:id":489651,
+        "wd:id":"Q4924931",
+        "wk:page":"Blanchisseuse"
+    },
+    "wof:country":"TT",
+    "wof:created":1459008971,
+    "wof:geomhash":"4b22cbfe69d1ae847ea1aa85b7479b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":421173111,
+            "region_id":85679079
+        }
+    ],
+    "wof:id":421173111,
+    "wof:lastmodified":1527716257,
+    "wof:name":"Blanchisseuse",
+    "wof:parent_id":85679079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.3048,
+    10.79604,
+    -61.3048,
+    10.79604
+],
+  "geometry": {"coordinates":[-61.3048,10.79604],"type":"Point"}
+}

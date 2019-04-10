@@ -1,0 +1,61 @@
+{
+  "id": 1209549383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.00153,10.83415,-61.00153,10.83415",
+    "geom:latitude":10.83415,
+    "geom:longitude":-61.00153,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Sans Souci",
+    "gn:country_code":"TT",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573721,
+    "gn:latitude":10.83415,
+    "gn:longitude":-61.00153,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Sans Souci",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573721
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"69a7a4d022270d17f52f282f22d3a9e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632271,
+            "locality_id":1209549383
+        }
+    ],
+    "wof:id":1209549383,
+    "wof:lastmodified":1536283742,
+    "wof:name":"Sans Souci",
+    "wof:parent_id":85632271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.00153,
+    10.83415,
+    -61.00153,
+    10.83415
+],
+  "geometry": {"coordinates":[-61.00153,10.83415],"type":"Point"}
+}

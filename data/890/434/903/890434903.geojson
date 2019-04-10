@@ -1,0 +1,62 @@
+{
+  "id": 890434903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.36671,10.63471,-61.36671,10.63471",
+    "geom:latitude":10.63471,
+    "geom:longitude":-61.36671,
+    "gn:country":"TT",
+    "gn:fcode":"PPLX",
+    "gn:pop":15067,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Paradise",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":2139,
+    "wof:belongsto":[
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573643,
+        "qs:id":148995,
+        "wd:id":"Q3363340",
+        "wk:page":"Paradise"
+    },
+    "wof:country":"TT",
+    "wof:created":1469052044,
+    "wof:geomhash":"595df0b36a5c856e24cdf2362c5e8d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632271,
+            "neighbourhood_id":890434903
+        }
+    ],
+    "wof:id":890434903,
+    "wof:lastmodified":1527792946,
+    "wof:name":"Paradise",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":15067,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.36671,
+    10.63471,
+    -61.36671,
+    10.63471
+],
+  "geometry": {"coordinates":[-61.36671,10.63471],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 421181735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.47288,10.40923,-61.47288,10.40923",
+    "geom:latitude":10.40923,
+    "geom:longitude":-61.47288,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "California"
+    ],
+    "name:eng_x_preferred":[
+        "California"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30d5\u30a9\u30eb\u30cb\u30a2"
+    ],
+    "name:unk_x_variant":[
+        "California Village"
+    ],
+    "qs:gn_country":"TT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3574895,
+    "qs:gn_pop":0,
+    "qs:name":"California",
+    "qs:name_adm0":"Trinidad and Tobago",
+    "qs:name_adm1":"Couva-Tabaquite-Talparo",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501471,
+    "qs:woe_adm0":23424958,
+    "qs:woe_id":379956,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574895,
+        "gp:id":379956,
+        "qs:id":501471,
+        "wd:id":"Q5020181",
+        "wk:page":"California, Trinidad and Tobago"
+    },
+    "wof:country":"TT",
+    "wof:created":1459009305,
+    "wof:geomhash":"2ce5ebdab30fbe8ea35320b4d6cd6a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":421181735,
+            "region_id":85679065
+        }
+    ],
+    "wof:id":421181735,
+    "wof:lastmodified":1553816371,
+    "wof:name":"California",
+    "wof:parent_id":85679065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.47288,
+    10.40923,
+    -61.47288,
+    10.40923
+],
+  "geometry": {"coordinates":[-61.47288,10.40923],"type":"Point"}
+}

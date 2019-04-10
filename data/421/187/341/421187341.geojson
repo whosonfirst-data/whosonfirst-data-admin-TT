@@ -1,0 +1,95 @@
+{
+  "id": 421187341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.94054,10.83544,-60.94054,10.83544",
+    "geom:latitude":10.83544,
+    "geom:longitude":-60.94054,
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Toco"
+    ],
+    "name:eng_x_preferred":[
+        "Toco"
+    ],
+    "name:fre_x_preferred":[
+        "Toco"
+    ],
+    "name:ger_x_preferred":[
+        "Toco"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e7\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Toco"
+    ],
+    "qs:gn_country":"TT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3573604,
+    "qs:gn_pop":0,
+    "qs:name":"Toco",
+    "qs:name_adm0":"Trinidad and Tobago",
+    "qs:name_adm1":"Sangre Grande",
+    "qs:photos":272,
+    "qs:photos_1k":55,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":272,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082757,
+    "qs:woe_adm0":23424958,
+    "qs:woe_id":380334,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":842,
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573604,
+        "gp:id":380334,
+        "qs:id":1082757,
+        "wd:id":"Q16901745",
+        "wk:page":"Toco"
+    },
+    "wof:country":"TT",
+    "wof:created":1459009509,
+    "wof:geomhash":"e773d6608ae6e8507e89152421a6ef70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":421187341,
+            "region_id":85679047
+        }
+    ],
+    "wof:id":421187341,
+    "wof:lastmodified":1527716247,
+    "wof:name":"Toco",
+    "wof:parent_id":85679047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.94054,
+    10.83544,
+    -60.94054,
+    10.83544
+],
+  "geometry": {"coordinates":[-60.94054,10.83544],"type":"Point"}
+}

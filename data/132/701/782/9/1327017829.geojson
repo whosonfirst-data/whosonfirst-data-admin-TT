@@ -1,0 +1,66 @@
+{
+  "id": 1327017829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.69102,11.27983,-60.69102,11.27983",
+    "geom:latitude":11.27983,
+    "geom:longitude":-60.69102,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Castara",
+    "gn:country_code":"TT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574834,
+    "gn:latitude":11.27983,
+    "gn:longitude":-60.69102,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Castara",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574834,
+        "wk:page":"Castara"
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"f0774618d5a38fa844b677c9eb05344f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1327017829,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":1327017829,
+    "wof:lastmodified":1537574715,
+    "wof:name":"Castara",
+    "wof:parent_id":85679029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.69102,
+    11.27983,
+    -60.69102,
+    11.27983
+],
+  "geometry": {"coordinates":[-60.69102,11.27983],"type":"Point"}
+}

@@ -1,0 +1,438 @@
+{
+  "id": 1125939117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.51657,10.66617,-61.51657,10.66617",
+    "geom:latitude":10.66617,
+    "geom:longitude":-61.51657,
+    "gn:gn_country":"TT",
+    "gn:gn_fcode":"PPLC",
+    "gn:gn_pop":49031,
+    "gn:population":49031,
+    "iso:country":"TT",
+    "lbl:latitude":10.66617,
+    "lbl:longitude":-61.51657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:alb_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:amh_x_preferred":[
+        "\u1356\u122d\u1275 \u12a6\u134d \u1235\u1354\u1295"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u0623\u0648\u0641 \u0633\u0628\u064a\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u0580\u057f \u0585\u0586 \u054d\u0583\u0565\u0575\u0576"
+    ],
+    "name:ast_x_preferred":[
+        "Puerto Espa\u00f1a"
+    ],
+    "name:aze_x_preferred":[
+        "Port of Speyn"
+    ],
+    "name:baq_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u099f \u0985\u09ac \u09b8\u09cd\u09aa\u09c7\u09a8"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f54\u0f7c\u0f0b\u0f62\u0f7c\u0f0b\u0f4a\u0f72\u0f0b\u0f68\u0f7c\u0f55\u0f0b\u0f66\u0f72\u0f0b\u0f54\u0f7a\u0f0b\u0f53\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:bre_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u044a\u0444 \u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:cdo_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u897f\u73ed\u7259\u6e2f"
+    ],
+    "name:cor_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:cze_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:dan_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:dan_x_variant":[
+        "Port-of-Spain"
+    ],
+    "name:deu_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:dut_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4 \u03bf\u03c6 \u03a3\u03c0\u03ad\u03b9\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c1\u03c4-\u03bf\u03c6-\u03a3\u03c0\u03ad\u03b9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:epo_x_preferred":[
+        "Portospeno"
+    ],
+    "name:est_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:eus_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u062a \u0622\u0648 \u0627\u0633\u067e\u0627\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:fra_x_preferred":[
+        "Port-d'Espagne"
+    ],
+    "name:fre_x_preferred":[
+        "Port-d'Espagne"
+    ],
+    "name:fry_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10dd\u10d5-\u10e1\u10de\u10d4\u10d8\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:gla_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:gle_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:glg_x_preferred":[
+        "Porto Espa\u00f1a"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4-\u03bf\u03c6-\u03a3\u03c0\u03ad\u03b9\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0a93\u0aab \u0ab8\u0acd\u0aaa\u0ac7\u0aa8"
+    ],
+    "name:hak_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:hat_x_preferred":[
+        "P\u00f2 of Espay"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05d0\u05d5\u05e3 \u05e1\u05e4\u05d9\u05d9\u05df"
+    ],
+    "name:hif_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0911\u092b \u0938\u094d\u092a\u0947\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:hun_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:ice_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:ido_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:ile_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:ind_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:ita_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30aa\u30d6\u30b9\u30da\u30a4\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0c86\u0cab\u0ccd \u0cb8\u0ccd\u0caa\u0cc7\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10dd\u10d5-\u10e1\u10de\u10d4\u10d8\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041e\u0444-\u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8 \uc624\ube0c \uc2a4\ud398\uc778"
+    ],
+    "name:kor_x_variant":[
+        "\ud3ec\ud2b8\uc624\ube0c\uc2a4\ud398\uc778"
+    ],
+    "name:lat_x_preferred":[
+        "Portus Hispaniae"
+    ],
+    "name:lav_x_preferred":[
+        "Portofspeina"
+    ],
+    "name:lit_x_preferred":[
+        "Port of Speinas"
+    ],
+    "name:lmo_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:lrc_x_preferred":[
+        "\u067e\u0631\u062a \u0622\u0648 \u0627\u0633\u067e\u0627\u06cc\u0646"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u043e\u0444 \u0421\u043f\u0435\u0458\u043d"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d4b\u0d7c\u0d1f\u0d4d\u0d1f\u0d4d \u0d13\u0d2b\u0d4d \u0d38\u0d4d\u0d2a\u0d46\u0d2f\u0d3f\u0d7b"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0911\u092b \u0938\u094d\u092a\u0947\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u043e\u0444 \u0421\u043f\u0435\u0458\u043d"
+    ],
+    "name:nah_x_preferred":[
+        "Acalquixohuayan Caxtillan"
+    ],
+    "name:nan_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:nld_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:nno_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:nob_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:nor_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:nov_x_preferred":[
+        "Portu de Spania"
+    ],
+    "name:oci_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a4b\u0a30\u0a1f \u0a06\u0a2b\u0a3c \u0a38\u0a2a\u0a47\u0a28"
+    ],
+    "name:pap_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u062a \u0622\u0648 \u0627\u0633\u067e\u0627\u06cc\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:pol_x_preferred":[
+        "Port-of-Spain"
+    ],
+    "name:pol_x_variant":[
+        "Port of Spain"
+    ],
+    "name:por_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:rum_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u043e\u0444 \u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddc\u0dbb\u0dca\u0da7\u0dca \u0d94\u0dc6\u0dca \u0dc3\u0dca\u0db4\u0dda\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:slo_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:slv_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:sna_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Espa\u00f1a"
+    ],
+    "name:srd_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u043e\u0432 \u0421\u043f\u0435\u0458\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:szl_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bcd\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d\u200c \u0c06\u0c2b\u0c4d \u0c38\u0c4d\u0c2a\u0c46\u0c2f\u0c3f\u0c28\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Puwerto Espanya"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e2d\u0e23\u0e4c\u0e15-\u0e2d\u0e2d\u0e1f-\u0e2a\u0e40\u0e1b\u0e19"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f54\u0f7c\u0f0b\u0f62\u0f7c\u0f0b\u0f4a\u0f72\u0f0b\u0f68\u0f7c\u0f55\u0f0b\u0f66\u0f72\u0f0b\u0f54\u0f7a\u0f0b\u0f53\u0f0d"
+    ],
+    "name:tur_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d"
+    ],
+    "name:unk_x_variant":[
+        "City of Port-of-Spain"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0622\u0641 \u0627\u0633\u067e\u06cc\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Port-of-speyn"
+    ],
+    "name:vep_x_preferred":[
+        "Port of Spein"
+    ],
+    "name:vie_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:vol_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:war_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:wel_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:yor_x_preferred":[
+        "Port of Spain"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u73ed\u7259\u6e2f"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u73ed\u7259\u6e2f"
+    ],
+    "qs_pg:aaroncc":"TT",
+    "qs_pg:gn_country":"TT",
+    "qs_pg:gn_fcode":"PPLC",
+    "qs_pg:gn_id":3573890,
+    "qs_pg:gn_pop":49031,
+    "qs_pg:name":"Port-of-Spain",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1045525,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573890,
+        "qs_pg:id":1045525,
+        "wd:id":"Q39178"
+    },
+    "wof:country":"TT",
+    "wof:created":1497297061,
+    "wof:geomhash":"04ef6b01894f491154eb9ee69bc0f80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1125939117,
+            "region_id":85679093
+        }
+    ],
+    "wof:id":1125939117,
+    "wof:lastmodified":1552515590,
+    "wof:name":"Port-of-Spain",
+    "wof:parent_id":85679093,
+    "wof:placetype":"locality",
+    "wof:population":49031,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[
+        1141909165
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.51657,
+    10.66617,
+    -61.51657,
+    10.66617
+],
+  "geometry": {"coordinates":[-61.51657,10.66617],"type":"Point"}
+}

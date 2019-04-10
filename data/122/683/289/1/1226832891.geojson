@@ -1,0 +1,65 @@
+{
+  "id": 1226832891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.45484,10.26871,-61.45484,10.26871",
+    "geom:latitude":10.26871,
+    "geom:longitude":-61.45484,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pleasantville",
+    "gn:country_code":"TT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8710028,
+    "gn:latitude":10.26871,
+    "gn:longitude":-61.45484,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Pleasantville",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8710028
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"3b0a85e152965844cd6395de85a39448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1226832891,
+            "region_id":85679083
+        }
+    ],
+    "wof:id":1226832891,
+    "wof:lastmodified":1537083664,
+    "wof:name":"Pleasantville",
+    "wof:parent_id":85679083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.45484,
+    10.26871,
+    -61.45484,
+    10.26871
+],
+  "geometry": {"coordinates":[-61.45484,10.26871],"type":"Point"}
+}

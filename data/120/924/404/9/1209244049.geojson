@@ -1,0 +1,65 @@
+{
+  "id": 1209244049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.42844,10.421,-61.42844,10.421",
+    "geom:latitude":10.421,
+    "geom:longitude":-61.42844,
+    "gn:admin1_code":"CTT",
+    "gn:asciiname":"Balmain",
+    "gn:country_code":"TT",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3575017,
+    "gn:latitude":10.421,
+    "gn:longitude":-61.42844,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Balmain",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balmain Village",
+        "Balmain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575017
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"c21c74f9ea49cfd7dfcd3b1062de2c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632271,
+            "locality_id":1209244049
+        }
+    ],
+    "wof:id":1209244049,
+    "wof:lastmodified":1537708416,
+    "wof:name":"Balmain",
+    "wof:parent_id":85632271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.42844,
+    10.421,
+    -61.42844,
+    10.421
+],
+  "geometry": {"coordinates":[-61.42844,10.421],"type":"Point"}
+}

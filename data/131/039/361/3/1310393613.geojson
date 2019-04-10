@@ -1,0 +1,65 @@
+{
+  "id": 1310393613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.73224,11.19815,-60.73224,11.19815",
+    "geom:latitude":11.19815,
+    "geom:longitude":-60.73224,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Harmony Hall",
+    "gn:country_code":"TT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8234908,
+    "gn:latitude":11.19815,
+    "gn:longitude":-60.73224,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Harmony Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8234908
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"990a98f0a32ee9b81fbd5ca1f8eb9902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1310393613,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":1310393613,
+    "wof:lastmodified":1537075295,
+    "wof:name":"Harmony Hall",
+    "wof:parent_id":85679029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.73224,
+    11.19815,
+    -60.73224,
+    11.19815
+],
+  "geometry": {"coordinates":[-60.73224,11.19815],"type":"Point"}
+}

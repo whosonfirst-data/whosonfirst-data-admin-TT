@@ -1,0 +1,65 @@
+{
+  "id": 1193052027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66667,10.16667,-61.66667,10.16667",
+    "geom:latitude":10.16667,
+    "geom:longitude":-61.66667,
+    "gn:admin1_code":"PTF",
+    "gn:asciiname":"Point Ligoure",
+    "gn:country_code":"TT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3573898,
+    "gn:latitude":10.16667,
+    "gn:longitude":-61.66667,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Point Ligoure",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3573898
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"cc1c8d401dbf607533eb21910027711b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1193052027,
+            "region_id":85679075
+        }
+    ],
+    "wof:id":1193052027,
+    "wof:lastmodified":1536365413,
+    "wof:name":"Point Ligoure",
+    "wof:parent_id":85679075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66667,
+    10.16667,
+    -61.66667,
+    10.16667
+],
+  "geometry": {"coordinates":[-61.66667,10.16667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1310116443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.76113,11.18013,-60.76113,11.18013",
+    "geom:latitude":11.18013,
+    "geom:longitude":-60.76113,
+    "gn:asciiname":"Signal Hill",
+    "gn:country_code":"TT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11001189,
+    "gn:latitude":11.18013,
+    "gn:longitude":-60.76113,
+    "gn:modification_date":"2015-12-13",
+    "gn:name":"Signal Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11001189
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"e6b5e6a82cc26ddb041087f578648c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1310116443,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":1310116443,
+    "wof:lastmodified":1536979950,
+    "wof:name":"Signal Hill",
+    "wof:parent_id":85679029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.76113,
+    11.18013,
+    -60.76113,
+    11.18013
+],
+  "geometry": {"coordinates":[-60.76113,11.18013],"type":"Point"}
+}

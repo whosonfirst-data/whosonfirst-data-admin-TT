@@ -1,0 +1,69 @@
+{
+  "id": 1327066385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.46115,10.23549,-61.46115,10.23549",
+    "geom:latitude":10.23549,
+    "geom:longitude":-61.46115,
+    "gn:admin1_code":"PED",
+    "gn:asciiname":"Hermitage",
+    "gn:country_code":"TT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574416,
+    "gn:latitude":10.23549,
+    "gn:longitude":-61.46115,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Hermitage",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hermitage Village",
+        "Hermitage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574416
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"f3a9ea461e0bb318344609be66712b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1327066385,
+            "region_id":85679069
+        }
+    ],
+    "wof:id":1327066385,
+    "wof:lastmodified":1537708414,
+    "wof:name":"Hermitage",
+    "wof:parent_id":85679069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.46115,
+    10.23549,
+    -61.46115,
+    10.23549
+],
+  "geometry": {"coordinates":[-61.46115,10.23549],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343938899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.73651,11.24661,-60.73651,11.24661",
+    "geom:latitude":11.24661,
+    "geom:longitude":-60.73651,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Culloden",
+    "gn:country_code":"TT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574701,
+    "gn:latitude":11.24661,
+    "gn:longitude":-60.73651,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Culloden",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574701
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"9f8330b6e5eefed098069f96287b51db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1343938899,
+            "region_id":85679029
+        }
+    ],
+    "wof:id":1343938899,
+    "wof:lastmodified":1537049107,
+    "wof:name":"Culloden",
+    "wof:parent_id":85679029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.73651,
+    11.24661,
+    -60.73651,
+    11.24661
+],
+  "geometry": {"coordinates":[-60.73651,11.24661],"type":"Point"}
+}

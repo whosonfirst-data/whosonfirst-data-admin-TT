@@ -1,0 +1,65 @@
+{
+  "id": 1344093081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.13488,10.56527,-61.13488,10.56527",
+    "geom:latitude":10.56527,
+    "geom:longitude":-61.13488,
+    "gn:admin1_code":"SGE",
+    "gn:asciiname":"Ogis",
+    "gn:country_code":"TT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3574025,
+    "gn:latitude":10.56527,
+    "gn:longitude":-61.13488,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ogis",
+    "gn:population":0,
+    "gn:timezone":"America/Port_of_Spain",
+    "iso:country":"TT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632271,
+        85679047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3574025
+    },
+    "wof:country":"TT",
+    "wof:geomhash":"1375d2859c64dcb7982667a44cc3fd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632271,
+            "locality_id":1344093081,
+            "region_id":85679047
+        }
+    ],
+    "wof:id":1344093081,
+    "wof:lastmodified":1536827554,
+    "wof:name":"Ogis",
+    "wof:parent_id":85679047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.13488,
+    10.56527,
+    -61.13488,
+    10.56527
+],
+  "geometry": {"coordinates":[-61.13488,10.56527],"type":"Point"}
+}
