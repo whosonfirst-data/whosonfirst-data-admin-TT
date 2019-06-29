@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074274,
-    "geom:area_square_m":902570545.902405,
+    "geom:area_square_m":902570545.902439,
     "geom:bbox":"-61.2395381334,10.4563646513,-60.9072973298,10.8452822941",
     "geom:latitude":10.657935,
     "geom:longitude":-61.098224,
@@ -35,8 +35,11 @@
     "name:dan_x_preferred":[
         "Sangre Grande Regional Corporation"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sangre Grande"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03b3\u03ba\u03c1\u03b5 \u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sangre Grande"
@@ -47,14 +50,8 @@
     "name:fra_x_preferred":[
         "Sangre Grande"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion de Sangre Grande"
-    ],
-    "name:ger_x_preferred":[
-        "Sangre Grande"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03b3\u03ba\u03c1\u03b5 \u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0a82\u0a97\u0ab0\u0ac7 \u0a97\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1\u0ac7 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6\u0ab2 \u0a95\u0acb\u0ab0\u0acd\u0aaa\u0acb\u0ab0\u0ac7\u0ab6\u0aa8"
@@ -86,8 +83,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0902\u0917\u0930\u0947 \u0917\u094d\u0930\u093e\u0902\u0921\u0947 \u092a\u094d\u0930\u093e\u0926\u0947\u0936\u093f\u0915 \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sangre Grande Regional Corporation"
+    ],
+    "name:nld_x_preferred":[
+        "Sangre Grande"
     ],
     "name:nob_x_preferred":[
         "Sangre Grande regional"
@@ -253,7 +253,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561769701,
     "wof:name":"Sangre Grande",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

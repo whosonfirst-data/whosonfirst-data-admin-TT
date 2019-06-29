@@ -135,9 +135,6 @@
     "name:cym_x_variant":[
         "Trinidad a Tobago"
     ],
-    "name:cze_x_preferred":[
-        "Trinidad a Tobago"
-    ],
     "name:dan_x_preferred":[
         "Trinidad og Tobago"
     ],
@@ -543,9 +540,6 @@
     "name:ron_x_variant":[
         "Trinidad-Tobago"
     ],
-    "name:rum_x_preferred":[
-        "Trinidad-Tobago"
-    ],
     "name:rum_x_variant":[
         "Trinidad \u0219i Tobago"
     ],
@@ -741,8 +735,7 @@
         "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5"
     ],
     "name:zho_x_variant":[
-        "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5",
-        "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5"
+        "\u7279\u7acb\u5c3c\u8fbe\u548c\u591a\u5df4\u54e5"
     ],
     "name:zho_yue_x_preferred":[
         "\u5343\u91cc\u9054"
@@ -890,7 +883,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1552515600,
+    "wof:lastmodified":1561769701,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

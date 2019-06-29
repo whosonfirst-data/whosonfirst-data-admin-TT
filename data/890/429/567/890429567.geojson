@@ -18,9 +18,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u063a\u0648\u0627\u0646\u0627\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u0561\u0563\u0578\u0582\u0576\u0561\u057d"
-    ],
     "name:aze_x_preferred":[
         "\u00c7aquanas"
     ],
@@ -33,20 +30,23 @@
     "name:cat_x_preferred":[
         "Chaguanas"
     ],
-    "name:chi_x_preferred":[
-        "\u67e5\u74dc\u7d0d\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chaguanas"
     ],
     "name:dan_x_preferred":[
         "Chaguanas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chaguanas"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Chaguanas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u06af\u0648\u0627\u0646\u0627\u0633"
     ],
     "name:fin_x_preferred":[
         "Chaguanas"
@@ -54,23 +54,11 @@
     "name:fra_x_preferred":[
         "Chaguanas"
     ],
-    "name:fre_x_preferred":[
-        "Chaguanas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10d2\u10e3\u10d0\u10dc\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Chaguanas"
-    ],
     "name:gla_x_preferred":[
         "Chaguanas"
     ],
     "name:gle_x_preferred":[
         "Chaguanas"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03b3\u03ba\u03bf\u03c5\u03ac\u03bd\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0a97\u0ac1\u0a86\u0aa8\u0ab8"
@@ -83,6 +71,9 @@
     ],
     "name:hun_x_preferred":[
         "Chaguanas"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0563\u0578\u0582\u0576\u0561\u057d"
     ],
     "name:ile_x_preferred":[
         "Chaguanas"
@@ -99,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0c9a\u0cbe\u0c97\u0cc1\u0cb5\u0cbe\u0ca8\u0cbe\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10d2\u10e3\u10d0\u10dc\u10d0\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucc28\uacfc\ub098\uc2a4"
     ],
@@ -111,14 +105,14 @@
     "name:mar_x_preferred":[
         "\u091a\u093e\u0917\u0941\u0906\u0928\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Chaguanas"
+    ],
+    "name:nld_x_preferred":[
         "Chaguanas"
     ],
     "name:nob_x_preferred":[
         "Chaguanas"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u06af\u0648\u0627\u0646\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Chaguanas"
@@ -132,7 +126,7 @@
     "name:sin_x_preferred":[
         "\u0da0\u0d9c\u0dd4\u0d85\u0db1\u0dcf\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chaguanas"
     ],
     "name:spa_x_preferred":[
@@ -164,6 +158,9 @@
     ],
     "name:vie_x_preferred":[
         "Chaguanas"
+    ],
+    "name:zho_x_preferred":[
+        "\u67e5\u74dc\u7d0d\u65af"
     ],
     "qs:name":"Chaguanas",
     "qs:photos_9r":0,
@@ -198,7 +195,7 @@
         }
     ],
     "wof:id":890429567,
-    "wof:lastmodified":1527792786,
+    "wof:lastmodified":1561769704,
     "wof:name":"Chaguanas",
     "wof:parent_id":85679085,
     "wof:placetype":"locality",

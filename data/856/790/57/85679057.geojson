@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017721,
-    "geom:area_square_m":215327077.490205,
+    "geom:area_square_m":215327077.49019,
     "geom:bbox":"-61.5114078437,10.5381167674,-61.3337442689,10.8041038728",
     "geom:latitude":10.685596,
     "geom:longitude":-61.43774,
@@ -34,8 +34,11 @@
     "name:dan_x_preferred":[
         "San Juan-Laventille Regional Corporation"
     ],
-    "name:dut_x_preferred":[
-        "San Juan - Laventille"
+    "name:deu_x_preferred":[
+        "San Juan-Laventille"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd-\u039b\u03b1\u03b2\u03b5\u03bd\u03c4\u03af\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "San Juan-Laventille"
@@ -46,14 +49,8 @@
     "name:fra_x_preferred":[
         "San Juan-Laventille"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion de San Juan-Laventille"
-    ],
-    "name:ger_x_preferred":[
-        "San Juan-Laventille"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd-\u039b\u03b1\u03b2\u03b5\u03bd\u03c4\u03af\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0ac1\u0a86\u0aa8-\u0ab2\u0abf\u0ab5\u0ac7\u0aa8\u0acd\u0a9f\u0abf\u0ab2\u0ac7 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6\u0ab2 \u0a95\u0acb\u0ab0\u0acd\u0aaa\u0acb\u0ab0\u0ac7\u0ab6\u0aa8"
@@ -85,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u091c\u0941\u0906\u0928-\u0932\u0945\u0935\u094d\u0939\u0947\u0928\u094d\u091f\u093f\u0932\u0947 \u092a\u094d\u0930\u093e\u0926\u0947\u0936\u093f\u0915 \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Juan-Laventille Regional Corporation"
+    ],
+    "name:nld_x_preferred":[
+        "San Juan - Laventille"
     ],
     "name:nob_x_preferred":[
         "San Juan-Laventille region"
@@ -251,7 +251,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561769700,
     "wof:name":"San Juan-Laventille",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07266,
-    "geom:area_square_m":884011901.214684,
+    "geom:area_square_m":884011901.214655,
     "geom:bbox":"-61.2435688948,10.0751797814,-60.9612930976,10.4695421412",
     "geom:latitude":10.28655,
     "geom:longitude":-61.108408,
@@ -34,8 +34,11 @@
     "name:dan_x_preferred":[
         "Rio Claro - Mayaro"
     ],
-    "name:dut_x_preferred":[
-        "Rio Claro - Mayaro"
+    "name:deu_x_preferred":[
+        "Mayaro-Rio Claro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03af\u03bf \u039a\u03bb\u03ac\u03c1\u03bf-\u039c\u03b1\u03b3\u03b9\u03ac\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Rio Claro-Mayaro"
@@ -46,14 +49,8 @@
     "name:fra_x_preferred":[
         "Rio Claro-Mayaro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion de Rio Claro-Mayaro"
-    ],
-    "name:ger_x_preferred":[
-        "Mayaro-Rio Claro"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03af\u03bf \u039a\u03bb\u03ac\u03c1\u03bf-\u039c\u03b1\u03b3\u03b9\u03ac\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0aaf\u0acb \u0a95\u0acd\u0ab2\u0ac7\u0ab0\u0acb-\u0aae\u0abe\u0aaf\u0abe\u0ab0\u0acb"
@@ -85,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u0913 \u0915\u094d\u0932\u0945\u0930\u094b-\u092e\u093e\u092f\u0930\u094b \u092a\u094d\u0930\u093e\u0926\u0947\u0936\u093f\u0915 \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rio Claro-Mayaro Regional Corporation"
+    ],
+    "name:nld_x_preferred":[
+        "Rio Claro - Mayaro"
     ],
     "name:nob_x_preferred":[
         "Rio Claro-Mayaro"
@@ -253,7 +253,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561769700,
     "wof:name":"Rio Claro-Mayaro",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

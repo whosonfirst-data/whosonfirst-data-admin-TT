@@ -22,14 +22,14 @@
     "name:cat_x_preferred":[
         "Sangre Grande"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sangre Grande"
     ],
     "name:eng_x_preferred":[
         "Sangre Grande"
     ],
-    "name:ger_x_preferred":[
-        "Sangre Grande"
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u06af\u0631\u0647 \u06af\u0631\u0627\u0646\u062f\u0647"
     ],
     "name:glg_x_preferred":[
         "Sangre Grande"
@@ -43,8 +43,8 @@
     "name:lit_x_preferred":[
         "Sangre Grand\u0117"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u06af\u0631\u0647 \u06af\u0631\u0627\u0646\u062f\u0647"
+    "name:nld_x_preferred":[
+        "Sangre Grande"
     ],
     "name:pol_x_preferred":[
         "Sangre Grande"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125939133,
-    "wof:lastmodified":1514507632,
+    "wof:lastmodified":1561769705,
     "wof:name":"Sangre Grande",
     "wof:parent_id":85679047,
     "wof:placetype":"locality",

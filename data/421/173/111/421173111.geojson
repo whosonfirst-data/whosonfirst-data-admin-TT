@@ -16,20 +16,17 @@
     "name:deu_x_preferred":[
         "Blanchisseuse"
     ],
-    "name:dut_x_preferred":[
-        "Blanchisseuse"
-    ],
     "name:eng_x_preferred":[
         "Blanchisseuse"
     ],
-    "name:fre_x_preferred":[
-        "Blanchisseuse"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Blanchisseuse"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30f3\u30c1\u30c3\u30bb\u30a6\u30bb"
+    ],
+    "name:nld_x_preferred":[
+        "Blanchisseuse"
     ],
     "name:spa_x_preferred":[
         "Blanchisseuse"
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421173111,
-    "wof:lastmodified":1527716257,
+    "wof:lastmodified":1561769704,
     "wof:name":"Blanchisseuse",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

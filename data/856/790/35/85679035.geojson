@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011175,
-    "geom:area_square_m":135771354.04547,
+    "geom:area_square_m":135771354.045468,
     "geom:bbox":"-61.7654923166,10.6670644159,-61.4879984198,10.7549502626",
     "geom:latitude":10.711462,
     "geom:longitude":-61.576573,
@@ -34,8 +34,11 @@
     "name:dan_x_preferred":[
         "Diego Martin Regional Corporation"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Diego Martin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03ad\u03b3\u03ba\u03bf \u039c\u03b1\u03c1\u03c4\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Diego Martin"
@@ -46,14 +49,8 @@
     "name:fra_x_preferred":[
         "Diego Martin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "R\u00e9gion de Diego Martin"
-    ],
-    "name:ger_x_preferred":[
-        "Diego Martin"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b9\u03ad\u03b3\u03ba\u03bf \u039c\u03b1\u03c1\u03c4\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0abf\u0a8f\u0a97\u0acb \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8"
@@ -85,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u0921\u093f\u090f\u0917\u094b \u092e\u093e\u0930\u094d\u091f\u093f\u0928 \u092a\u094d\u0930\u093e\u0926\u0947\u0936\u093f\u0915 \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Diego Martin Regional Corporation"
+    ],
+    "name:nld_x_preferred":[
+        "Diego Martin"
     ],
     "name:nob_x_preferred":[
         "Diego Martin"
@@ -251,7 +251,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814828,
+    "wof:lastmodified":1561769700,
     "wof:name":"Diego Martin",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
