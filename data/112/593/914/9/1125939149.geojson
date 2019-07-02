@@ -28,17 +28,20 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ab\u09be\u09b0\u09a8\u09be\u09a8\u09cd\u09a6\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u8cbb\u723e\u5357\u591a"
-    ],
     "name:dan_x_preferred":[
         "San Fernando"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Fernando"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "San Fernando"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0646\u0627\u0646\u062f\u0648"
     ],
     "name:fin_x_preferred":[
         "San Fernando"
@@ -46,17 +49,8 @@
     "name:fra_x_preferred":[
         "San Fernando"
     ],
-    "name:fre_x_preferred":[
-        "San Fernando"
-    ],
-    "name:ger_x_preferred":[
-        "San Fernando"
-    ],
     "name:gle_x_preferred":[
         "San Fernando"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a6\u03b5\u03c1\u03bd\u03ac\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0aab\u0ab0\u0acd\u0aa8\u0abe\u0aa8\u0acd\u0aa1\u0acb"
@@ -94,14 +88,14 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u092b\u0930\u094d\u0928\u093e\u0902\u0921\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "San Fernando"
+    ],
+    "name:nld_x_preferred":[
         "San Fernando"
     ],
     "name:nob_x_preferred":[
         "San Fernando"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u0641\u0631\u0646\u0627\u0646\u062f\u0648"
     ],
     "name:pol_x_preferred":[
         "San Fernando"
@@ -151,6 +145,9 @@
     "name:yor_x_preferred":[
         "San Fernando"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u8cbb\u723e\u5357\u591a"
+    ],
     "qs_pg:aaroncc":"TT",
     "qs_pg:gn_country":"TT",
     "qs_pg:gn_fcode":"PPLA",
@@ -187,7 +184,7 @@
         }
     ],
     "wof:id":1125939149,
-    "wof:lastmodified":1534379469,
+    "wof:lastmodified":1561769705,
     "wof:name":"San Fernando",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

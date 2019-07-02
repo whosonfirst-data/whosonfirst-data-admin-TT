@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Curepe"
     ],
-    "name:baq_x_preferred":[
-        "Curepe"
-    ],
     "name:bar_x_preferred":[
         "Curepe"
     ],
@@ -37,19 +34,19 @@
     "name:cat_x_preferred":[
         "Curepe"
     ],
+    "name:ces_x_preferred":[
+        "Curepe"
+    ],
     "name:cos_x_preferred":[
         "Curepe"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Curepe"
     ],
     "name:dan_x_preferred":[
         "Curepe"
     ],
     "name:deu_x_preferred":[
-        "Curepe"
-    ],
-    "name:dut_x_preferred":[
         "Curepe"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +58,22 @@
     "name:est_x_preferred":[
         "Curepe"
     ],
+    "name:eus_x_preferred":[
+        "Curepe"
+    ],
     "name:fin_x_preferred":[
         "Curepe"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Curepe"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Curepe"
     ],
     "name:frp_x_preferred":[
         "Curepe"
     ],
     "name:fur_x_preferred":[
-        "Curepe"
-    ],
-    "name:ger_x_preferred":[
         "Curepe"
     ],
     "name:gla_x_preferred":[
@@ -139,19 +136,22 @@
     "name:ltz_x_preferred":[
         "Curepe"
     ],
-    "name:may_x_preferred":[
-        "Curepe"
-    ],
     "name:min_x_preferred":[
         "Curepe"
     ],
     "name:mlg_x_preferred":[
         "Curepe"
     ],
+    "name:msa_x_preferred":[
+        "Curepe"
+    ],
     "name:nap_x_preferred":[
         "Curepe"
     ],
     "name:nds_x_preferred":[
+        "Curepe"
+    ],
+    "name:nld_x_preferred":[
         "Curepe"
     ],
     "name:nno_x_preferred":[
@@ -190,7 +190,7 @@
     "name:roh_x_preferred":[
         "Curepe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Curepe"
     ],
     "name:scn_x_preferred":[
@@ -199,7 +199,7 @@
     "name:sco_x_preferred":[
         "Curepe"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Curepe"
     ],
     "name:spa_x_preferred":[
@@ -236,9 +236,6 @@
         "Curepe"
     ],
     "name:vol_x_preferred":[
-        "Curepe"
-    ],
-    "name:wel_x_preferred":[
         "Curepe"
     ],
     "name:wln_x_preferred":[
@@ -295,7 +292,7 @@
         }
     ],
     "wof:id":421201011,
-    "wof:lastmodified":1527716438,
+    "wof:lastmodified":1561769704,
     "wof:name":"Curepe",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

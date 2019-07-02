@@ -16,13 +16,10 @@
     "name:deu_x_preferred":[
         "Valsayn"
     ],
-    "name:dut_x_preferred":[
-        "Valsayn"
-    ],
     "name:eng_x_preferred":[
         "Valsayn"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Valsayn"
     ],
     "qs:gn_country":"TT",
@@ -70,7 +67,7 @@
         }
     ],
     "wof:id":421187359,
-    "wof:lastmodified":1527716248,
+    "wof:lastmodified":1561769704,
     "wof:name":"Valsayn",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

@@ -25,9 +25,6 @@
     "name:bam_x_preferred":[
         "Fyzabad"
     ],
-    "name:baq_x_preferred":[
-        "Fyzabad"
-    ],
     "name:bar_x_preferred":[
         "Fyzabad"
     ],
@@ -37,19 +34,19 @@
     "name:cat_x_preferred":[
         "Fyzabad"
     ],
+    "name:ces_x_preferred":[
+        "Fyzabad"
+    ],
     "name:cos_x_preferred":[
         "Fyzabad"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Fyzabad"
     ],
     "name:dan_x_preferred":[
         "Fyzabad"
     ],
     "name:deu_x_preferred":[
-        "Fyzabad"
-    ],
-    "name:dut_x_preferred":[
         "Fyzabad"
     ],
     "name:eng_x_preferred":[
@@ -61,22 +58,22 @@
     "name:est_x_preferred":[
         "Fyzabad"
     ],
+    "name:eus_x_preferred":[
+        "Fyzabad"
+    ],
     "name:fin_x_preferred":[
         "Fyzabad"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Fyzabad"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Fyzabad"
     ],
     "name:frp_x_preferred":[
         "Fyzabad"
     ],
     "name:fur_x_preferred":[
-        "Fyzabad"
-    ],
-    "name:ger_x_preferred":[
         "Fyzabad"
     ],
     "name:gla_x_preferred":[
@@ -136,19 +133,22 @@
     "name:ltz_x_preferred":[
         "Fyzabad"
     ],
-    "name:may_x_preferred":[
-        "Fyzabad"
-    ],
     "name:min_x_preferred":[
         "Fyzabad"
     ],
     "name:mlg_x_preferred":[
         "Fyzabad"
     ],
+    "name:msa_x_preferred":[
+        "Fyzabad"
+    ],
     "name:nap_x_preferred":[
         "Fyzabad"
     ],
     "name:nds_x_preferred":[
+        "Fyzabad"
+    ],
+    "name:nld_x_preferred":[
         "Fyzabad"
     ],
     "name:nno_x_preferred":[
@@ -187,7 +187,7 @@
     "name:roh_x_preferred":[
         "Fyzabad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Fyzabad"
     ],
     "name:scn_x_preferred":[
@@ -196,7 +196,7 @@
     "name:sco_x_preferred":[
         "Fyzabad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fyzabad"
     ],
     "name:spa_x_preferred":[
@@ -233,9 +233,6 @@
         "Fyzabad"
     ],
     "name:vol_x_preferred":[
-        "Fyzabad"
-    ],
-    "name:wel_x_preferred":[
         "Fyzabad"
     ],
     "name:wln_x_preferred":[
@@ -292,7 +289,7 @@
         }
     ],
     "wof:id":421172877,
-    "wof:lastmodified":1527716306,
+    "wof:lastmodified":1561769704,
     "wof:name":"Fyzabad",
     "wof:parent_id":85679039,
     "wof:placetype":"locality",
