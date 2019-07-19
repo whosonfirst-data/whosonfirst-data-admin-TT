@@ -220,6 +220,9 @@
     "name:urd_x_preferred":[
         "\u0641\u06cc\u0636 \u0622\u0628\u0627\u062f\u060c \u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0641\u06cc\u0636 \u0622\u0628\u0627\u062f"
+    ],
     "name:vec_x_preferred":[
         "Fyzabad"
     ],
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421172877,
-    "wof:lastmodified":1561769704,
+    "wof:lastmodified":1563574322,
     "wof:name":"Fyzabad",
     "wof:parent_id":85679039,
     "wof:placetype":"locality",

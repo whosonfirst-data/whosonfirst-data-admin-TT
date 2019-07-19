@@ -24,6 +24,12 @@
     "name:ben_x_preferred":[
         "\u09aa\u09af\u09bc\u09c7\u09a8\u09cd\u099f \u09ab\u09cb\u09b0\u09cd\u099f\u09bf\u09a8"
     ],
+    "name:cat_x_preferred":[
+        "Point Fortin"
+    ],
+    "name:ceb_x_preferred":[
+        "Point Fortin"
+    ],
     "name:dan_x_preferred":[
         "Point Fortin"
     ],
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":890444827,
-    "wof:lastmodified":1561769704,
+    "wof:lastmodified":1563574326,
     "wof:name":"Point Fortin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

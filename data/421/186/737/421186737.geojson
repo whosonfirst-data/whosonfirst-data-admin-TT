@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Couva"
+    ],
+    "name:ceb_x_preferred":[
+        "Couva"
+    ],
     "name:deu_x_preferred":[
         "Couva"
     ],
@@ -25,6 +31,9 @@
     "name:fra_x_preferred":[
         "Couva"
     ],
+    "name:ita_x_preferred":[
+        "Couva"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30fc\u30f4\u30a1"
     ],
@@ -32,6 +41,9 @@
         "Couva"
     ],
     "name:pol_x_preferred":[
+        "Couva"
+    ],
+    "name:por_x_preferred":[
         "Couva"
     ],
     "name:spa_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":421186737,
-    "wof:lastmodified":1561769704,
+    "wof:lastmodified":1563574322,
     "wof:name":"Couva",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

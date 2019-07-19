@@ -38,6 +38,9 @@
     "name:amh_x_variant":[
         "\u1275\u122a\u1292\u12f3\u12f5 \u12a5\u1293 \u1276\u1263\u130e"
     ],
+    "name:ang_x_preferred":[
+        "\u00derines and Tob\u0101go"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f \u0648\u062a\u0648\u0628\u0627\u063a\u0648"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:ast_x_preferred":[
         "Trinidad y Tobago"
+    ],
+    "name:ast_x_variant":[
+        "Trinid\u00e1 y Tobagu"
     ],
     "name:aym_x_preferred":[
         "Trinidad wan Tubagu"
@@ -77,14 +83,14 @@
     "name:bel_x_preferred":[
         "\u0422\u0440\u044b\u043d\u0456\u0434\u0430\u0434 \u0456 \u0422\u0430\u0431\u0430\u0433\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0422\u0440\u044b\u043d\u0456\u0434\u0430\u0434 \u0456 \u0422\u0430\u0431\u0430\u0433\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cd\u09b0\u09bf\u09a8\u09bf\u09a6\u09be\u09a6 \u0993 \u099f\u09cb\u09ac\u09be\u0997\u09cb"
     ],
     "name:ben_x_variant":[
         "\u09a4\u09cd\u09b0\u09bf\u09a8\u09bf\u09a8\u09be\u09a6 \u0993 \u099f\u09cb\u09ac\u09cd\u09af\u09be\u0997\u09cb"
+    ],
+    "name:bho_x_preferred":[
+        "\u091f\u094d\u0930\u093f\u0928\u093f\u0921\u093e\u0921 \u0906 \u091f\u094b\u092c\u0948\u0917\u094b"
     ],
     "name:bod_x_preferred":[
         "\u0f4f\u0fb2\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f4c\u0f51\u0f0b\u0f51\u0f44\u0f0b\u0f4f\u0fb2\u0f7c\u0f0b\u0f56\u0f7a\u0f0b\u0f42\u0f7c"
@@ -120,6 +126,9 @@
         "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0430, \u0422\u043e\u0431\u0430\u0433\u043e \u0430",
         "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0430"
     ],
+    "name:che_x_variant":[
+        "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0430 \u0422\u043e\u0431\u0430\u0433\u043e"
+    ],
     "name:ckb_x_preferred":[
         "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u06c6\u0628\u0627\u06af\u06c6"
     ],
@@ -152,6 +161,9 @@
     ],
     "name:dsb_x_preferred":[
         "Trinidad a Tobago"
+    ],
+    "name:dty_x_preferred":[
+        "\u0924\u094d\u0930\u093f\u0928\u093f\u0921\u093e\u0921 \u0930 \u091f\u094b\u092c\u093e\u0917\u094b"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03b9\u03bd\u03b9\u03bd\u03c4\u03ac\u03bd\u03c4 \u03ba\u03b1\u03b9 \u03a4\u03bf\u03bc\u03c0\u03ac\u03b3\u03ba\u03bf"
@@ -228,6 +240,9 @@
     "name:ful_x_preferred":[
         "Tirnidaad e Tobaago"
     ],
+    "name:gag_x_preferred":[
+        "Trinidad hem Tobago"
+    ],
     "name:gla_x_preferred":[
         "Trianaid agus Tobago"
     ],
@@ -250,6 +265,9 @@
     "name:gom_x_preferred":[
         "\u0924\u094d\u0930\u093f\u0928\u093f\u0926\u093e\u0926 \u0906\u0923\u093f \u091f\u094b\u092c\u0945\u0917\u094b"
     ],
+    "name:gsw_x_preferred":[
+        "Trinidad und Tobago"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acd\u0ab0\u0abf\u0aa8\u0abf\u0aa6\u0abe\u0aa6 \u0a85\u0aa8\u0ac7 \u0a9f\u0acb\u0aac\u0ac7\u0a97\u0acb"
     ],
@@ -264,6 +282,9 @@
     ],
     "name:hau_x_preferred":[
         "Tirinidad Da Tobago"
+    ],
+    "name:hau_x_variant":[
+        "Trinidad da Tobago"
     ],
     "name:hbs_x_preferred":[
         "Trinidad i Tobago"
@@ -293,14 +314,14 @@
         "Trinidad \u00c9s Tobago",
         "Trinidad \u00e9s Tobago"
     ],
-    "name:hun_x_variant":[
-        "Trinidad \u00e9s Tobago"
-    ],
     "name:hye_x_preferred":[
         "\u054f\u0580\u056b\u0576\u056b\u0564\u0561\u0564 \u0587 \u054f\u0578\u0562\u0561\u0563\u0578"
     ],
     "name:hye_x_variant":[
         "\u054f\u0580\u056b\u0576\u056b\u0564\u0561\u0564-\u054f\u0578\u0562\u0561\u0563\u0578"
+    ],
+    "name:ibo_x_preferred":[
+        "Trinidad and Tobago"
     ],
     "name:ido_x_preferred":[
         "Trinidad e Tobago"
@@ -396,6 +417,9 @@
         "Trinidada un Tobago",
         "Trinid\u0101da un Tobago"
     ],
+    "name:lfn_x_preferred":[
+        "Trinidad e Tobago"
+    ],
     "name:lij_x_preferred":[
         "Trinidad e Tobago"
     ],
@@ -417,11 +441,20 @@
     "name:lrc_x_preferred":[
         "\u062a\u0626\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648"
     ],
+    "name:lrc_x_variant":[
+        "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648"
+    ],
+    "name:ltz_x_preferred":[
+        "Trinidad an Tobago"
+    ],
     "name:lub_x_preferred":[
         "Tinidade ne Tobago"
     ],
     "name:lug_x_preferred":[
         "Turindaadi ne Tobago"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5"
     ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d4d\u0d30\u0d3f\u0d28\u0d3f\u0d21\u0d3e\u0d21\u0d4d \u0d1f\u0d4a\u0d2c\u0d3e\u0d17\u0d4b"
@@ -459,6 +492,15 @@
     "name:mya_x_preferred":[
         "\u1011\u101b\u102e\u1014\u102e\u1012\u1010\u103a\u1014\u103e\u1004\u1037\u103a \u1010\u102d\u102f\u1018\u1000\u103a\u1002\u102d\u102f\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:myv_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0434\u044b \u0422\u043e\u0431\u0430\u0433\u043e"
+    ],
+    "name:nah_x_preferred":[
+        "Trinidad \u012bhu\u0101n Tobago"
+    ],
+    "name:nan_x_preferred":[
+        "Trinidad kap Tobago"
+    ],
     "name:nde_x_preferred":[
         "Trinidad le Tobago"
     ],
@@ -467,6 +509,12 @@
     ],
     "name:nep_x_preferred":[
         "\u0924\u094d\u0930\u093f\u0928\u093f\u0921\u093e\u0921 \u0930 \u0924\u094b\u092c\u093e\u0917\u094b"
+    ],
+    "name:nep_x_variant":[
+        "\u091f\u094d\u0930\u093f\u0928\u093f\u0921\u093e\u0921 \u0930 \u091f\u094b\u092c\u093e\u0917\u094b"
+    ],
+    "name:new_x_preferred":[
+        "\u091f\u0943\u0928\u093f\u0921\u094d\u092f\u093e\u0921 \u0935 \u091f\u094b\u092c\u093e\u0917\u094b"
     ],
     "name:nld_x_preferred":[
         "Trinidad en Tobago"
@@ -486,11 +534,15 @@
     "name:oci_x_preferred":[
         "Trinitat e Tobago"
     ],
+    "name:olo_x_preferred":[
+        "Trinidad da Tobago"
+    ],
     "name:ori_x_preferred":[
         "\u0b24\u0b4d\u0b30\u0b3f\u0b28\u0b3f\u0b26\u0b3e\u0b26 \u0b13 \u0b1f\u0b2c\u0b3e\u0b17\u0b4b"
     ],
     "name:ori_x_variant":[
-        "\u0b24\u0b4d\u0b30\u0b3f\u0b28\u0b3f\u0b26\u0b3e\u0b26\u0b4d \u0b0f\u0b2c\u0b02 \u0b1f\u0b4b\u0b2c\u0b3e\u0b17\u0b4b"
+        "\u0b24\u0b4d\u0b30\u0b3f\u0b28\u0b3f\u0b26\u0b3e\u0b26\u0b4d \u0b0f\u0b2c\u0b02 \u0b1f\u0b4b\u0b2c\u0b3e\u0b17\u0b4b",
+        "\u0b1f\u0b4d\u0b30\u0b3f\u0b28\u0b3f\u0b21\u0b3e\u0b21 \u0b13 \u0b1f\u0b2c\u0b3e\u0b17\u0b4b"
     ],
     "name:orm_x_preferred":[
         "Tirinidaadi fi Tobeegoo"
@@ -503,6 +555,9 @@
     ],
     "name:pap_x_preferred":[
         "Trinidad i Tobago"
+    ],
+    "name:pih_x_preferred":[
+        "Trinidad a' Tobago"
     ],
     "name:pms_x_preferred":[
         "Trinidad e Tobago"
@@ -522,7 +577,6 @@
         "Trindade e Tobago"
     ],
     "name:por_x_variant":[
-        "Trindade e Tobago",
         "Trinidad e Tobago"
     ],
     "name:pus_x_preferred":[
@@ -561,8 +615,14 @@
     "name:sco_x_preferred":[
         "Trinidad an Tobago"
     ],
+    "name:sgs_x_preferred":[
+        "Trinidads \u0117r Tuobags"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dd2\u0da9\u0dd1\u0da9\u0dca \u0dc3\u0dc4 \u0da7\u0ddc\u0db6\u0dd0\u0d9c\u0ddd"
+    ],
+    "name:sin_x_variant":[
+        "\u0da7\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dd2\u0da9\u0dd0\u0da9\u0dba \u0dc3\u0dc4 \u0da7\u0ddd\u0db6\u0dd0\u0d9c\u0ddd\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Trinidad a Tobago"
@@ -593,7 +653,8 @@
     ],
     "name:sqi_x_variant":[
         "Trinidad e Tobago",
-        "Trinidad dhe Tobago"
+        "Trinidad dhe Tobago",
+        "Trinidadi dhe Tobakoja"
     ],
     "name:srd_x_preferred":[
         "Trinidad e Tobago"
@@ -634,6 +695,9 @@
     "name:tet_x_preferred":[
         "Trindade no Tobagu"
     ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0432\u0430 \u0422\u043e\u0431\u0430\u0433\u043e"
+    ],
     "name:tgl_x_preferred":[
         "Trinidad at Tobago"
     ],
@@ -648,6 +712,9 @@
     ],
     "name:ton_x_preferred":[
         "Tilinitati mo Topako"
+    ],
+    "name:tuk_x_preferred":[
+        "Trinidad we Tobago"
     ],
     "name:tur_x_preferred":[
         "Trinidad ve Tobago"
@@ -698,6 +765,9 @@
     "name:vol_x_preferred":[
         "Trinidade\u00e4n e Tobage\u00e4ns"
     ],
+    "name:vro_x_preferred":[
+        "Trinidad ja Tobago"
+    ],
     "name:war_x_preferred":[
         "Trinidad ngan Tobago"
     ],
@@ -721,6 +791,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Tirinida ati Tobaga"
+    ],
+    "name:yue_x_preferred":[
+        "\u5343\u91cc\u9054"
     ],
     "name:zea_x_preferred":[
         "Trinidad en Tobago"
@@ -883,7 +956,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561769701,
+    "wof:lastmodified":1563574244,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

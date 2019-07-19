@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043d\u0430\u043f\u0443\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Tunapuna"
+    ],
     "name:dan_x_preferred":[
         "Tunapuna"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421186727,
-    "wof:lastmodified":1561769704,
+    "wof:lastmodified":1563574323,
     "wof:name":"Tunapuna",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u099c\u09c1\u09af\u09bc\u09be\u09a8-\u09b2\u09be\u09ad\u09c7\u09a8\u09cd\u09a4\u09bf\u09b2\u09c7 \u0986\u099e\u09cd\u099a\u09b2\u09bf\u0995 \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u09b6\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b9\u09c1\u09af\u09bc\u09be\u09a8-\u09b2\u09be\u09ad\u09c7\u09a8\u09cd\u09a4\u09bf\u09b2\u09c7 \u0986\u099e\u09cd\u099a\u09b2\u09bf\u0995 \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u09b6\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "San Juan/Laventille"
+    ],
     "name:dan_x_preferred":[
         "San Juan-Laventille Regional Corporation"
     ],
@@ -42,6 +48,12 @@
     ],
     "name:eng_x_preferred":[
         "San Juan-Laventille"
+    ],
+    "name:eng_x_variant":[
+        "San Juan-Laventille Regional Corporation"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0646 \u062e\u0648\u0622\u0646-\u0644\u0627\u0648\u0646\u062a\u0648\u06cc\u0644"
     ],
     "name:fin_x_preferred":[
         "San Juan-Laventillen hallintoalue"
@@ -251,7 +263,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561769700,
+    "wof:lastmodified":1563574234,
     "wof:name":"San Juan-Laventille",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
