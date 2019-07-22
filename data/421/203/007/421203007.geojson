@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tabaquite"
+    ],
     "name:eng_x_preferred":[
         "Tabaquite"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421203007,
-    "wof:lastmodified":1561769703,
+    "wof:lastmodified":1563574317,
     "wof:name":"Tabaquite",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

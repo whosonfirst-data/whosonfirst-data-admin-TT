@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0430\u0431\u0435\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Marabella"
+    ],
     "name:eng_x_preferred":[
         "Marabella"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890429563,
-    "wof:lastmodified":1561769704,
+    "wof:lastmodified":1563574327,
     "wof:name":"Marabella",
     "wof:parent_id":85679083,
     "wof:placetype":"locality",

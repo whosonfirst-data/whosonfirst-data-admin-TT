@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Blanchisseuse"
     ],
+    "name:pol_x_preferred":[
+        "Blanchisseuse"
+    ],
     "name:spa_x_preferred":[
         "Blanchisseuse"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421173111,
-    "wof:lastmodified":1561769704,
+    "wof:lastmodified":1563574321,
     "wof:name":"Blanchisseuse",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

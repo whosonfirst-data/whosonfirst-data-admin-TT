@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09b0\u09bf\u09ae\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Arima"
+    ],
     "name:dan_x_preferred":[
         "Arima"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":890434915,
-    "wof:lastmodified":1561769705,
+    "wof:lastmodified":1563574329,
     "wof:name":"Arima",
     "wof:parent_id":85679043,
     "wof:placetype":"locality",

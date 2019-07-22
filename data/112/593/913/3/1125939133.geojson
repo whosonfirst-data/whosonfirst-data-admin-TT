@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Sangre Grande"
     ],
+    "name:ceb_x_preferred":[
+        "Sangre Grande"
+    ],
     "name:deu_x_preferred":[
         "Sangre Grande"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125939133,
-    "wof:lastmodified":1561769705,
+    "wof:lastmodified":1563574332,
     "wof:name":"Sangre Grande",
     "wof:parent_id":85679047,
     "wof:placetype":"locality",

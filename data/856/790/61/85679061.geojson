@@ -31,17 +31,29 @@
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u09b8\u09c7\u09b8 \u099f\u09be\u0989\u09a8 \u0986\u099e\u09cd\u099a\u09b2\u09bf\u0995 \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u09b6\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Princes Town"
+    ],
     "name:dan_x_preferred":[
         "Princes Town Regional Corporation"
     ],
     "name:deu_x_preferred":[
         "Princes Town Region"
     ],
+    "name:deu_x_variant":[
+        "Princes Town"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03af\u03bd\u03c3\u03b9\u03c2 \u03a4\u03ac\u03bf\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Princes Town"
+    ],
+    "name:eng_x_variant":[
+        "Princes Town Regional Corporation"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0631\u0646\u0633\u0633 \u062a\u0627\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Princes Townin hallintoalue"
@@ -54,6 +66,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0abf\u0aa8\u0acd\u0ab8\u0ac7\u0ab8 \u0aa8\u0a97\u0ab0"
+    ],
+    "name:guj_x_variant":[
+        "\u0aaa\u0acd\u0ab0\u0abf\u0aa8\u0acd\u0ab8\u0ac7\u0ab8 \u0aa8\u0a97\u0ab0 "
     ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0930\u093f\u0902\u0938 \u091f\u093e\u0909\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0940\u092f \u0928\u093f\u0917\u092e"
@@ -254,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561769700,
+    "wof:lastmodified":1563574234,
     "wof:name":"Princes Town",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
