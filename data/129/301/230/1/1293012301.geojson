@@ -25,7 +25,25 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rio Claro"
+    ],
+    "name:deu_x_preferred":[
+        "Rio Claro"
+    ],
     "name:fra_x_preferred":[
+        "R\u00edo Claro"
+    ],
+    "name:fra_x_variant":[
+        "Rio Claro"
+    ],
+    "name:nld_x_preferred":[
+        "Rio Claro"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo Claro"
+    ],
+    "name:spa_x_preferred":[
         "R\u00edo Claro"
     ],
     "src:geom":"geonames",
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1293012301,
-    "wof:lastmodified":1537708412,
+    "wof:lastmodified":1564169682,
     "wof:name":"Rio Claro",
     "wof:parent_id":85679051,
     "wof:placetype":"locality",

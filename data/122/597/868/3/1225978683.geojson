@@ -29,6 +29,9 @@
         "Piarco Savanna Village",
         "Piarco"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0627\u0631\u06a9\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1225978683,
-    "wof:lastmodified":1537708412,
+    "wof:lastmodified":1564169802,
     "wof:name":"Piarco",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

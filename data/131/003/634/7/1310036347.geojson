@@ -25,6 +25,51 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u0440\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Maturita"
+    ],
+    "name:deu_x_preferred":[
+        "Matura"
+    ],
+    "name:fin_x_preferred":[
+        "Matura"
+    ],
+    "name:fra_x_preferred":[
+        "Maturit\u00e9"
+    ],
+    "name:hrv_x_preferred":[
+        "Dr\u017eavna matura"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9retts\u00e9gi vizsga"
+    ],
+    "name:ind_x_preferred":[
+        "Matura"
+    ],
+    "name:lit_x_preferred":[
+        "Brandos atestatas"
+    ],
+    "name:nor_x_preferred":[
+        "Matura"
+    ],
+    "name:pol_x_preferred":[
+        "Matura"
+    ],
+    "name:slk_x_preferred":[
+        "Maturitn\u00e1 sk\u00fa\u0161ka"
+    ],
+    "name:slv_x_preferred":[
+        "Matura"
+    ],
+    "name:sqi_x_preferred":[
+        "Matura"
+    ],
+    "name:tur_x_preferred":[
+        "Matura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +91,7 @@
         }
     ],
     "wof:id":1310036347,
-    "wof:lastmodified":1537093088,
+    "wof:lastmodified":1564169755,
     "wof:name":"Matura",
     "wof:parent_id":85679047,
     "wof:placetype":"locality",

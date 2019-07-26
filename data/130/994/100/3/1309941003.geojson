@@ -25,6 +25,201 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062f\u0631\u0627\u0648\u0633"
+    ],
+    "name:arc_x_preferred":[
+        "\u0710\u0722\u0715\u072a\u0710\u0718\u0723 \u072b\u0720\u071d\u071a\u0710"
+    ],
+    "name:arg_x_preferred":[
+        "Sant Andreu ap\u00f3stol"
+    ],
+    "name:bar_x_preferred":[
+        "Andreas"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u044d\u0439 \u041f\u0435\u0440\u0448\u0430\u0437\u0432\u0430\u043d\u044b"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0f90\u0fb1\u0f7a\u0f66\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f51\u0f58\u0f0b\u0f54\u0f0b\u0f68\u0f53\u0f0b\u0f51\u0fb2\u0f72\u0f0b\u0f61\u0f71\u0f0d"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u099f\u09cb \u0986\u09a8\u09cd\u09a1\u09b0\u09c7"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0435\u0439 \u041f\u044a\u0440\u0432\u043e\u0437\u0432\u0430\u043d\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Andreu ap\u00f2stol"
+    ],
+    "name:ces_x_preferred":[
+        "Svat\u00fd Ond\u0159ej"
+    ],
+    "name:cym_x_preferred":[
+        "Andreas"
+    ],
+    "name:dan_x_preferred":[
+        "Apostlen Andreas"
+    ],
+    "name:deu_x_preferred":[
+        "Andreas"
+    ],
+    "name:diq_x_preferred":[
+        "Andreas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03cc\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Andreo"
+    ],
+    "name:est_x_preferred":[
+        "Andreas"
+    ],
+    "name:eus_x_preferred":[
+        "Andres"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062f\u0631\u06cc\u0627\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Andreas"
+    ],
+    "name:fra_x_preferred":[
+        "Andr\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "Naomh Aindrias"
+    ],
+    "name:glg_x_preferred":[
+        "Andr\u00e9 Ap\u00f3stolo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d3\u05e8\u05d0\u05e1 \u05d4\u05e7\u05d3\u05d5\u05e9"
+    ],
+    "name:hrv_x_preferred":[
+        "Sveti Andrija"
+    ],
+    "name:hun_x_preferred":[
+        "Andr\u00e1s apostol"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0564\u0580\u0565\u0561\u057d \u0561\u057c\u0561\u0584\u0575\u0561\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Andreas"
+    ],
+    "name:ita_x_preferred":[
+        "Andrea apostolo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c7\u30ec"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d3\u10e0\u10d8\u10d0 \u10db\u10dd\u10ea\u10d8\u10e5\u10e3\u10da\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\ub4dc\ub808\uc544"
+    ],
+    "name:ksh_x_preferred":[
+        "Andreas"
+    ],
+    "name:lat_x_preferred":[
+        "Andreas"
+    ],
+    "name:lav_x_preferred":[
+        "Sv\u0113tais Andrejs"
+    ],
+    "name:lit_x_preferred":[
+        "Apa\u0161talas Andriejus"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d2f\u0d4b\u0d38\u0d4d \u0d36\u0d4d\u0d32\u0d40\u0d39\u0d3e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043f\u043e\u0441\u0442\u043e\u043b \u0410\u043d\u0434\u0440\u0435\u0458\u0430"
+    ],
+    "name:nds_x_preferred":[
+        "Andreas"
+    ],
+    "name:nld_x_preferred":[
+        "Andreas"
+    ],
+    "name:nno_x_preferred":[
+        "Apostelen Andreas"
+    ],
+    "name:nor_x_preferred":[
+        "Apostelen Andreas"
+    ],
+    "name:pms_x_preferred":[
+        "Andrea"
+    ],
+    "name:pol_x_preferred":[
+        "Andrzej Aposto\u0142"
+    ],
+    "name:por_x_preferred":[
+        "Santo Andr\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Sf\u00e2ntul Andrei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0435\u0439 \u041f\u0435\u0440\u0432\u043e\u0437\u0432\u0430\u043d\u043d\u044b\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "Saunt Andra"
+    ],
+    "name:slk_x_preferred":[
+        "Ondrej"
+    ],
+    "name:slv_x_preferred":[
+        "Sveti Andrej"
+    ],
+    "name:spa_x_preferred":[
+        "Andr\u00e9s el Ap\u00f3stol"
+    ],
+    "name:sqi_x_preferred":[
+        "Shna Ndreu"
+    ],
+    "name:srd_x_preferred":[
+        "Andr\u00eca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0438\u0458\u0430 \u041f\u0440\u0432\u043e\u0437\u0432\u0430\u043d\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Mtume Andrea"
+    ],
+    "name:swe_x_preferred":[
+        "Andreas"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc7\u0baf\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "San Andres"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e31\u0e01\u0e1a\u0e38\u0e0d\u0e2d\u0e31\u0e19\u0e14\u0e23\u0e39\u0e27\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Andreas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0456\u0439 \u041f\u0435\u0440\u0432\u043e\u0437\u0432\u0430\u043d\u043d\u0438\u0439"
+    ],
+    "name:vec_x_preferred":[
+        "Andrea Aposto\u0142o"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e1nh Anr\u00ea"
+    ],
+    "name:wol_x_preferred":[
+        "Andare"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5f97\u70c8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +241,7 @@
         }
     ],
     "wof:id":1309941003,
-    "wof:lastmodified":1536736307,
+    "wof:lastmodified":1564169770,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

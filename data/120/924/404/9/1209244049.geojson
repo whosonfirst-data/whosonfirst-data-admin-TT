@@ -25,6 +25,21 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Balmain"
+    ],
+    "name:deu_x_preferred":[
+        "Balmain"
+    ],
+    "name:fra_x_preferred":[
+        "Balmain"
+    ],
+    "name:ind_x_preferred":[
+        "Balmain"
+    ],
+    "name:swe_x_preferred":[
+        "Balmain"
+    ],
     "name:und_x_variant":[
         "Balmain Village",
         "Balmain"
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209244049,
-    "wof:lastmodified":1537708416,
+    "wof:lastmodified":1564169729,
     "wof:name":"Balmain",
     "wof:parent_id":85632271,
     "wof:placetype":"locality",

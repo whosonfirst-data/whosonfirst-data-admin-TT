@@ -25,6 +25,18 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loango"
+    ],
+    "name:fra_x_preferred":[
+        "Loango"
+    ],
+    "name:kon_x_preferred":[
+        "Luangu"
+    ],
+    "name:swe_x_preferred":[
+        "Loango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1344091011,
-    "wof:lastmodified":1536830585,
+    "wof:lastmodified":1564169669,
     "wof:name":"Loango",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

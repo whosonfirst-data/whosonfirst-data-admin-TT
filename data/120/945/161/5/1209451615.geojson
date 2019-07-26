@@ -25,9 +25,69 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09af\u09be\u09b0\u09be\u0995\u09aa\u09c1\u09b0"
+    ],
+    "name:bih_x_preferred":[
+        "\u092c\u0948\u0930\u0915\u092a\u0941\u0930"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09cd\u09af\u09be\u09b0\u09be\u0995\u09aa\u09c1\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Barrackpore"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u0101r\u0101kpur"
+    ],
+    "name:deu_x_preferred":[
+        "Barakpur"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0948\u0930\u0915\u092a\u0941\u0930"
+    ],
+    "name:ita_x_preferred":[
+        "Barrackpur"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub77d\ud478\ub974"
+    ],
+    "name:msa_x_preferred":[
+        "Barrackpur"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0948\u0930\u0915\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u094d\u092f\u093e\u0930\u0947\u0915\u092a\u0941\u0930"
+    ],
+    "name:pam_x_preferred":[
+        "Barrackpore"
+    ],
+    "name:spa_x_preferred":[
+        "Barrackpore"
+    ],
+    "name:swe_x_preferred":[
+        "Barrackpur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb0\u0b95\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u0430\u043a\u043f\u043e\u0440"
+    ],
     "name:und_x_variant":[
         "Barrackpore Settlement",
         "Barrackpore"
+    ],
+    "name:vie_x_preferred":[
+        "Barrackpur"
+    ],
+    "name:war_x_preferred":[
+        "Barrackpur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u514b\u666e\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +106,7 @@
         }
     ],
     "wof:id":1209451615,
-    "wof:lastmodified":1537708416,
+    "wof:lastmodified":1564169741,
     "wof:name":"Barrackpore",
     "wof:parent_id":85632271,
     "wof:placetype":"locality",
