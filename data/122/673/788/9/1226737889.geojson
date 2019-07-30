@@ -25,6 +25,21 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Jadern\u00e1 elektr\u00e1rna Calder Hall"
+    ],
+    "name:deu_x_preferred":[
+        "Kernkraftwerk Calder Hall"
+    ],
+    "name:fin_x_preferred":[
+        "Calder Hall"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fc\u30eb\u30c0\u30fc\u30db\u30fc\u30eb\u539f\u5b50\u529b\u767a\u96fb\u6240"
+    ],
+    "name:pol_x_preferred":[
+        "Elektrownia j\u0105drowa Calder Hall"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1226737889,
-    "wof:lastmodified":1536727246,
+    "wof:lastmodified":1564169799,
     "wof:name":"Calder Hall",
     "wof:parent_id":85679029,
     "wof:placetype":"locality",

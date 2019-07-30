@@ -25,6 +25,9 @@
     "name:ita_x_preferred":[
         "Pierreville"
     ],
+    "name:nds_x_preferred":[
+        "Pierreville"
+    ],
     "name:nld_x_preferred":[
         "Pierreville"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421185241,
-    "wof:lastmodified":1527726509,
+    "wof:lastmodified":1564169774,
     "wof:name":"Pierreville",
     "wof:parent_id":85679051,
     "wof:placetype":"locality",

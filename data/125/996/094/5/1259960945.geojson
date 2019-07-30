@@ -25,6 +25,18 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dsb_x_preferred":[
+        "Speyside"
+    ],
+    "name:lit_x_preferred":[
+        "Speisaidas"
+    ],
+    "name:pol_x_preferred":[
+        "Speyside"
+    ],
+    "name:spa_x_preferred":[
+        "Speyside"
+    ],
     "name:und_x_variant":[
         "Speyside Village",
         "Speyside"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259960945,
-    "wof:lastmodified":1537708411,
+    "wof:lastmodified":1564169789,
     "wof:name":"Speyside",
     "wof:parent_id":85679025,
     "wof:placetype":"locality",

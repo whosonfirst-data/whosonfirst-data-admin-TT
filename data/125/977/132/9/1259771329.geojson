@@ -25,6 +25,15 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Canaan"
+    ],
+    "name:pol_x_preferred":[
+        "Canaan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1259771329,
-    "wof:lastmodified":1537574715,
+    "wof:lastmodified":1564169790,
     "wof:name":"Canaan",
     "wof:parent_id":85679029,
     "wof:placetype":"locality",

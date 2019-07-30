@@ -25,6 +25,9 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guayaguayare"
+    ],
     "name:und_x_variant":[
         "Guayaguayare Village",
         "Guayaguayare"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226755397,
-    "wof:lastmodified":1537708414,
+    "wof:lastmodified":1564169797,
     "wof:name":"Guayaguayare",
     "wof:parent_id":85679051,
     "wof:placetype":"locality",

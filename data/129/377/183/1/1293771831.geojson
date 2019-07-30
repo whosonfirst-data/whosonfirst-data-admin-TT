@@ -25,6 +25,15 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30fc\u30a6\u30c3\u30c9\u30fb\u30db\u30c6\u30eb&\u30ea\u30be\u30fc\u30c8"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e15\u0e32\u0e23\u0e4c\u0e27\u0e39\u0e14\u0e42\u0e2e\u0e40\u0e17\u0e25\u0e2a\u0e4c\u0e41\u0e2d\u0e19\u0e14\u0e4c\u0e23\u0e35\u0e2a\u0e2d\u0e15\u0e2a\u0e4c\u0e40\u0e27\u0e34\u0e25\u0e14\u0e4c\u0e44\u0e27\u0e14\u0e4c"
+    ],
+    "name:zho_x_preferred":[
+        "\u559c\u9054\u5c4b\u9152\u5e97\u53ca\u5ea6\u5047\u9152\u5e97\u570b\u969b\u96c6\u5718"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1293771831,
-    "wof:lastmodified":1536873266,
+    "wof:lastmodified":1564169684,
     "wof:name":"Starwood",
     "wof:parent_id":85679025,
     "wof:placetype":"locality",

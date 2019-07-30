@@ -25,6 +25,24 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rambert"
+    ],
+    "name:fra_x_preferred":[
+        "Rambert"
+    ],
+    "name:ita_x_preferred":[
+        "Rambert"
+    ],
+    "name:nld_x_preferred":[
+        "Rambert"
+    ],
+    "name:pol_x_preferred":[
+        "Rambert"
+    ],
+    "name:spa_x_preferred":[
+        "Rambert"
+    ],
     "name:und_x_variant":[
         "Rambert Village",
         "Rambert"
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1360316829,
-    "wof:lastmodified":1537708412,
+    "wof:lastmodified":1564169758,
     "wof:name":"Rambert",
     "wof:parent_id":85679069,
     "wof:placetype":"locality",

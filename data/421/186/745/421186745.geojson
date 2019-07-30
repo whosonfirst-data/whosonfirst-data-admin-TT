@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Roxborough"
+    ],
     "name:unk_x_variant":[
         "Roxborough Village"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":421186745,
-    "wof:lastmodified":1527716319,
+    "wof:lastmodified":1564169774,
     "wof:name":"Roxborough",
     "wof:parent_id":85679025,
     "wof:placetype":"locality",

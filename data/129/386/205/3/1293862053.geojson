@@ -25,6 +25,9 @@
     "iso:country":"TT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Englishman's Bay"
+    ],
     "name:und_x_variant":[
         "Englishman\u2019s Bay"
     ],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293862053,
-    "wof:lastmodified":1537708415,
+    "wof:lastmodified":1564169693,
     "wof:name":"Englishman's Bay",
     "wof:parent_id":85679029,
     "wof:placetype":"locality",
