@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PS"
+    ],
     "lbl:latitude":10.66158,
     "lbl:longitude":-61.512746,
     "mps:latitude":10.66158,
@@ -484,16 +487,13 @@
         }
     ],
     "wof:id":85679093,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574237,
+    "wof:lastmodified":1565737722,
     "wof:name":"Port of Spain",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

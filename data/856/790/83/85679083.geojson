@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SF"
+    ],
     "lbl:latitude":10.2801,
     "lbl:longitude":-61.449424,
     "mps:latitude":10.2801,
@@ -248,16 +251,13 @@
         }
     ],
     "wof:id":85679083,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564169680,
+    "wof:lastmodified":1565737723,
     "wof:name":"San Fernando",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
         "1-868"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "TT"
+    ],
     "lbl:latitude":10.435364,
     "lbl:longitude":-61.264793,
     "mps:latitude":10.435364,
@@ -956,7 +959,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574244,
+    "wof:lastmodified":1565737723,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

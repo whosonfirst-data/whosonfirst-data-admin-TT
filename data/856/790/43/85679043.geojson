@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "borough"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":10.624409,
     "lbl:longitude":-61.277902,
     "mps:latitude":10.624409,
@@ -258,16 +261,13 @@
         }
     ],
     "wof:id":85679043,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574238,
+    "wof:lastmodified":1565737722,
     "wof:name":"Arima",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

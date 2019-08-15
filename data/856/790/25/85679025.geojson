@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Eastern Tobago Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ET"
+    ],
     "lbl:latitude":11.282283,
     "lbl:longitude":-60.610199,
     "mps:latitude":11.282283,
@@ -121,23 +124,20 @@
         }
     ],
     "wof:id":85679025,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550515,
+    "wof:lastmodified":1565888469,
     "wof:name":"Eastern Tobago",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
     "wof:population":62219,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-tt",
-    "wof:shortcode":"T.",
+    "wof:shortcode":"ET",
     "wof:subdivision":"TT-ETO",
     "wof:superseded_by":[],
     "wof:supersedes":[],

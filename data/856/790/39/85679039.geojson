@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":10.154459,
     "lbl:longitude":-61.564644,
     "mps:latitude":10.154459,
@@ -251,16 +254,13 @@
         }
     ],
     "wof:id":85679039,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574239,
+    "wof:lastmodified":1565737722,
     "wof:name":"Siparia",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

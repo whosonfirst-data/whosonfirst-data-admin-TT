@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "borough"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":10.534698,
     "lbl:longitude":-61.403651,
     "mps:latitude":10.534698,
@@ -302,16 +305,13 @@
         }
     ],
     "wof:id":85679085,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574240,
+    "wof:lastmodified":1565737723,
     "wof:name":"Chaguanas",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

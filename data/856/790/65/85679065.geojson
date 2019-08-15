@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CT"
+    ],
     "lbl:latitude":10.431901,
     "lbl:longitude":-61.311268,
     "mps:latitude":10.431901,
@@ -251,16 +254,13 @@
         }
     ],
     "wof:id":85679065,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574238,
+    "wof:lastmodified":1565737722,
     "wof:name":"Couva-Tabaquite-Talparo",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

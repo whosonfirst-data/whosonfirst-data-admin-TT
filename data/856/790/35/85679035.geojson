@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DM"
+    ],
     "lbl:latitude":10.708041,
     "lbl:longitude":-61.557742,
     "mps:latitude":10.708041,
@@ -254,16 +257,13 @@
         }
     ],
     "wof:id":85679035,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574234,
+    "wof:lastmodified":1565737722,
     "wof:name":"Diego Martin",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

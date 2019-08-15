@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SN"
+    ],
     "lbl:latitude":10.680823,
     "lbl:longitude":-61.123394,
     "mps:latitude":10.680823,
@@ -253,16 +256,13 @@
         }
     ],
     "wof:id":85679047,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574241,
+    "wof:lastmodified":1565737723,
     "wof:name":"Sangre Grande",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

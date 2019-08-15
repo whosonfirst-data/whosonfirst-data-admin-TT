@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PD"
+    ],
     "lbl:latitude":10.151282,
     "lbl:longitude":-61.426096,
     "mps:latitude":10.151282,
@@ -248,16 +251,13 @@
         }
     ],
     "wof:id":85679069,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563574235,
+    "wof:lastmodified":1565737722,
     "wof:name":"Penal-Debe",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
