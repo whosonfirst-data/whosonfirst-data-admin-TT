@@ -10,8 +10,12 @@
     "geom:latitude":10.62877,
     "geom:longitude":-61.33487,
     "iso:country":"TT",
+    "lbl:bbox":"-61.35487,10.60877,-61.31487,10.64877",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Arouca"
@@ -43,7 +47,7 @@
     "name:pol_x_preferred":[
         "Arouca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arouca Village"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3575039,
         "gp:id":379917,
-        "qs:id":149004,
+        "qs_pg:id":149004,
         "wd:id":"Q4795612",
         "wk:page":"Arouca, Trinidad and Tobago"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421179085,
-    "wof:lastmodified":1563574325,
+    "wof:lastmodified":1566588187,
     "wof:name":"Arouca",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

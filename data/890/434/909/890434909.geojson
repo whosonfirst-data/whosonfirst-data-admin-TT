@@ -11,10 +11,14 @@
     "geom:longitude":-61.53333,
     "gn:country":"TT",
     "gn:fcode":"PPL",
-    "gn:pop":4342,
+    "gn:population":4342,
     "iso:country":"TT",
+    "lbl:bbox":"-61.55333,10.64667,-61.51333,10.68667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Mucurapo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":3574069,
         "gp:id":380213,
-        "qs:id":148998
+        "qs_pg:id":148998
     },
     "wof:country":"TT",
     "wof:created":1469052045,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890434909,
-    "wof:lastmodified":1505343544,
+    "wof:lastmodified":1566588189,
     "wof:name":"Mucurapo",
     "wof:parent_id":85679093,
     "wof:placetype":"locality",

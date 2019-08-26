@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.29803,10.3139,-61.25803,10.3539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Unis"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293420961,
-    "wof:lastmodified":1564169691,
+    "wof:lastmodified":1566588163,
     "wof:name":"Unis",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

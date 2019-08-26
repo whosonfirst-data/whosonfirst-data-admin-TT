@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.06373,10.55339,-61.02373,10.59339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632271
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209649511,
-    "wof:lastmodified":1536280625,
+    "wof:lastmodified":1566588169,
     "wof:name":"Lower Fishing Pond",
     "wof:parent_id":85632271,
     "wof:placetype":"locality",

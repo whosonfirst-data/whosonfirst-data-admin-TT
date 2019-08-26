@@ -10,8 +10,12 @@
     "geom:latitude":10.48159,
     "geom:longitude":-61.45134,
     "iso:country":"TT",
+    "lbl:bbox":"-61.47134,10.46159,-61.43134,10.50159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Carapichaima"
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":3574866,
         "gp:id":379964,
-        "qs:id":893997,
+        "qs_pg:id":893997,
         "wd:id":"Q5037715",
         "wk:page":"Carapichaima"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421196237,
-    "wof:lastmodified":1563574324,
+    "wof:lastmodified":1566588187,
     "wof:name":"Carapichaima",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

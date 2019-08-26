@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.43555,10.43822,-61.39555,10.47822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Freeport"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1310139875,
-    "wof:lastmodified":1564169751,
+    "wof:lastmodified":1566588177,
     "wof:name":"Freeport",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

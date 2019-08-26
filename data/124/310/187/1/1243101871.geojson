@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.5334,10.65712,-61.4934,10.69712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243101871,
-    "wof:lastmodified":1536805048,
+    "wof:lastmodified":1566588196,
     "wof:name":"Saint Ann's",
     "wof:parent_id":85679035,
     "wof:placetype":"locality",

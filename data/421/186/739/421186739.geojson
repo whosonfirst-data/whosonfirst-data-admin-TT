@@ -10,8 +10,12 @@
     "geom:latitude":10.643231,
     "geom:longitude":-61.48344,
     "iso:country":"TT",
+    "lbl:bbox":"-61.50344,10.623231,-61.46344,10.663231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041b\u0430\u0432\u0435\u043d\u0442\u0438\u043b\u0435"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":380113,
-        "qs:id":1075800,
+        "qs_pg:id":1075800,
         "wd:id":"Q6502566"
     },
     "wof:country":"TT",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421186739,
-    "wof:lastmodified":1563574322,
+    "wof:lastmodified":1566588186,
     "wof:name":"Laventille",
     "wof:parent_id":85679057,
     "wof:placetype":"locality",

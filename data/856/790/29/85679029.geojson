@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.214609,
     "lbl:longitude":-60.740405,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.214609,
     "mps:longitude":-60.740405,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Western Tobago"
     ],
     "name:fra_x_preferred":[
-        "Tobago"
-    ],
-    "name:unk_x_variant":[
         "Tobago"
     ],
     "ne:abbrev":"",
@@ -107,9 +105,9 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-01-09",
+    "src:population_date":"2011-01-09",
     "statoids:area_km":"303",
     "statoids:area_mi":"117",
     "statoids:as_of_date":"2011-01-09",
@@ -134,7 +132,7 @@
         "gp:id":56189855,
         "hasc:id":"TT.TO",
         "iso:id":"TT-TOB",
-        "qs:id":13256,
+        "qs_pg:id":13256,
         "unlc:id":"TT-WTO"
     },
     "wof:country":"TT",
@@ -153,11 +151,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565737722,
+    "wof:lastmodified":1566588156,
     "wof:name":"Western Tobago",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"ward",
     "wof:population":60874,
     "wof:population_rank":8,

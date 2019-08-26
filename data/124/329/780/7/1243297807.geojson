@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.40076,10.30215,-61.36076,10.34215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eckel Ville",
         "Eckel Village"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243297807,
-    "wof:lastmodified":1537708415,
+    "wof:lastmodified":1566588195,
     "wof:name":"Eckel Village",
     "wof:parent_id":85679061,
     "wof:placetype":"locality",

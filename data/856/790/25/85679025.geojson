@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":11.282283,
     "lbl:longitude":-60.610199,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.282283,
     "mps:longitude":-60.610199,
     "mz:hierarchy_label":1,
@@ -98,7 +99,7 @@
     "qs:type":"Region",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "unlc:subdivision":"TT-ETO",
     "wof:belongsto":[
@@ -111,7 +112,7 @@
         "gn:id":7521940,
         "gp:id":56189856,
         "hasc:id":"TT.",
-        "qs:id":892968,
+        "qs_pg:id":892968,
         "unlc:id":"TT-ETO"
     },
     "wof:country":"TT",
@@ -130,7 +131,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565888469,
+    "wof:lastmodified":1566588157,
     "wof:name":"Eastern Tobago",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
