@@ -10,8 +10,12 @@
     "geom:latitude":10.63333,
     "geom:longitude":-61.4,
     "iso:country":"TT",
+    "lbl:bbox":"-61.42,10.61333,-61.38,10.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Curepe"
@@ -217,7 +221,7 @@
     "name:tur_x_preferred":[
         "Curepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Curepe Village"
     ],
     "name:urd_x_preferred":[
@@ -276,7 +280,7 @@
     "wof:concordances":{
         "gn:id":3574671,
         "gp:id":380010,
-        "qs:id":907594,
+        "qs_pg:id":907594,
         "wd:id":"Q5194706",
         "wk:page":"Curepe"
     },
@@ -292,7 +296,7 @@
         }
     ],
     "wof:id":421201011,
-    "wof:lastmodified":1561769704,
+    "wof:lastmodified":1566588187,
     "wof:name":"Curepe",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

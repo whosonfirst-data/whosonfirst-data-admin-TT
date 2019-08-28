@@ -10,8 +10,12 @@
     "geom:latitude":10.36637,
     "geom:longitude":-61.45985,
     "iso:country":"TT",
+    "lbl:bbox":"-61.47985,10.34637,-61.43985,10.38637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Claxton Bay"
@@ -22,7 +26,7 @@
     "name:nld_x_preferred":[
         "Claxton Bay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Claxton Bay Village"
     ],
     "qs:gn_country":"TT",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3574773,
         "gp:id":379985,
-        "qs:id":1174649,
+        "qs_pg:id":1174649,
         "wd:id":"Q5129797",
         "wk:page":"Claxton Bay"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421192747,
-    "wof:lastmodified":1561769703,
+    "wof:lastmodified":1566588184,
     "wof:name":"Claxton Bay",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

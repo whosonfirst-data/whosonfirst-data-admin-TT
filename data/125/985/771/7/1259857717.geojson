@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-60.74614,11.16636,-60.70614,11.20636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259857717,
-    "wof:lastmodified":1536815561,
+    "wof:lastmodified":1566588197,
     "wof:name":"Morne Quiton",
     "wof:parent_id":85679029,
     "wof:placetype":"locality",

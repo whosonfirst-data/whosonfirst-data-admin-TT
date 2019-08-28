@@ -10,8 +10,12 @@
     "geom:latitude":10.422481,
     "geom:longitude":-61.441383,
     "iso:country":"TT",
+    "lbl:bbox":"-61.461383,10.402481,-61.421383,10.442481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Couva"
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":380000,
-        "qs:id":1075799,
+        "qs_pg:id":1075799,
         "wd:id":"Q2602007"
     },
     "wof:country":"TT",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421186737,
-    "wof:lastmodified":1563574322,
+    "wof:lastmodified":1566588186,
     "wof:name":"Couva",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

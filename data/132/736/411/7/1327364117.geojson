@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.4654,10.05034,-61.4254,10.09034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1327364117,
-    "wof:lastmodified":1536780111,
+    "wof:lastmodified":1566588144,
     "wof:name":"Moque Point",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

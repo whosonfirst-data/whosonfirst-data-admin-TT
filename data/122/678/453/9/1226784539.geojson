@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.46273,10.21654,-61.42273,10.25654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Diamant"
     ],
@@ -353,8 +357,7 @@
         "\u0410\u043b\u043c\u0430\u0437"
     ],
     "name:und_x_variant":[
-        "Diamond Village",
-        "Diamond"
+        "Diamond Village"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u0631\u0627"
@@ -401,7 +404,7 @@
         }
     ],
     "wof:id":1226784539,
-    "wof:lastmodified":1564169806,
+    "wof:lastmodified":1566588203,
     "wof:name":"Diamond",
     "wof:parent_id":85679069,
     "wof:placetype":"locality",

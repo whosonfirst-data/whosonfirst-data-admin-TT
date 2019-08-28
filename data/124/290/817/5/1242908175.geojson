@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.43021,10.47289,-61.39021,10.51289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1242908175,
-    "wof:lastmodified":1537081384,
+    "wof:lastmodified":1566588195,
     "wof:name":"Chandernagore Settlement",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

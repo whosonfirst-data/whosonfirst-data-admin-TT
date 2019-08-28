@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.48336,10.45999,-61.44336,10.49999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0647\u0631\u0645\u0627\u0646"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1242812651,
-    "wof:lastmodified":1564169778,
+    "wof:lastmodified":1566588193,
     "wof:name":"Butler",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

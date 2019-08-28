@@ -10,8 +10,12 @@
     "geom:latitude":10.655884,
     "geom:longitude":-61.333923,
     "iso:country":"TT",
+    "lbl:bbox":"-61.353923,10.635884,-61.313923,10.675884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0422\u0443\u043d\u0430\u043f\u0443\u043d\u0430"
@@ -49,7 +53,7 @@
     "name:pol_x_preferred":[
         "Tunapuna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tunapuna Village"
     ],
     "name:urd_x_preferred":[
@@ -87,9 +91,11 @@
     "wof:concordances":{
         "gn:id":3573576,
         "gp:id":380335,
-        "qs:id":1075810,
         "qs_pg:id":148994,
         "wd:id":"Q2522343"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075810
     },
     "wof:country":"TT",
     "wof:created":1459009489,
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421186727,
-    "wof:lastmodified":1563574323,
+    "wof:lastmodified":1566588186,
     "wof:name":"Tunapuna",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

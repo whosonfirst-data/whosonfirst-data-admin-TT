@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.48,10.23286,-61.44,10.27286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u0443\u043d\u043a\u0430\u043d"
     ],
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":1242711773,
-    "wof:lastmodified":1564169786,
+    "wof:lastmodified":1566588194,
     "wof:name":"Duncan",
     "wof:parent_id":85679069,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.47965,10.36409,-61.43965,10.40409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u0643\u0633 \u0628\u0627\u0631\u0643"
     ],
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1360221325,
-    "wof:lastmodified":1564169757,
+    "wof:lastmodified":1566588180,
     "wof:name":"Phoenix Park",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

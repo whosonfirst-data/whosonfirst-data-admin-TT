@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.33614,10.18257,-61.29614,10.22257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Preau Village",
         "Preau"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293525413,
-    "wof:lastmodified":1537708412,
+    "wof:lastmodified":1566588159,
     "wof:name":"Preau",
     "wof:parent_id":85679061,
     "wof:placetype":"locality",

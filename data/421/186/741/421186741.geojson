@@ -10,8 +10,12 @@
     "geom:latitude":10.651919,
     "geom:longitude":-61.37392,
     "iso:country":"TT",
+    "lbl:bbox":"-61.39392,10.631919,-61.35392,10.671919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Tacarigua"
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":380275,
-        "qs:id":1075802,
+        "qs_pg:id":1075802,
         "wd:id":"Q3069819"
     },
     "wof:country":"TT",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421186741,
-    "wof:lastmodified":1561769704,
+    "wof:lastmodified":1566588186,
     "wof:name":"Tacarigua",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

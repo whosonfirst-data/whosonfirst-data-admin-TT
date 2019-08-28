@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.36519,10.24259,-61.32519,10.28259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sixth Company Village",
         "Sixth Company"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293625147,
-    "wof:lastmodified":1537708411,
+    "wof:lastmodified":1566588158,
     "wof:name":"Sixth Company",
     "wof:parent_id":85679061,
     "wof:placetype":"locality",

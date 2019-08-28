@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.40894,10.26684,-61.36894,10.30684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Iere Village",
         "Iere"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360115247,
-    "wof:lastmodified":1537708414,
+    "wof:lastmodified":1566588181,
     "wof:name":"Iere",
     "wof:parent_id":85679061,
     "wof:placetype":"locality",

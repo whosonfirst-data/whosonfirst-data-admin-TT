@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.59397,10.66159,-61.55397,10.70159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Glencoe"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1293426699,
-    "wof:lastmodified":1564169691,
+    "wof:lastmodified":1566588163,
     "wof:name":"Glencoe",
     "wof:parent_id":85679035,
     "wof:placetype":"locality",

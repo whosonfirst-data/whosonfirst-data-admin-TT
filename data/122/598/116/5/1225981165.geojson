@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port_of_Spain",
     "iso:country":"TT",
+    "lbl:bbox":"-61.4963,10.23335,-61.4563,10.27335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kana\u00e4n"
     ],
@@ -253,7 +257,7 @@
         }
     ],
     "wof:id":1225981165,
-    "wof:lastmodified":1564169803,
+    "wof:lastmodified":1566588202,
     "wof:name":"Canaan",
     "wof:parent_id":85679083,
     "wof:placetype":"locality",
