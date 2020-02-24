@@ -888,6 +888,7 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -940,6 +941,10 @@
     },
     "wof:country":"TT",
     "wof:country_alpha3":"TTO",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"0c25d760c0d00b4f2480d065d7a38a5d",
     "wof:hierarchy":[
         {
@@ -954,7 +959,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566588157,
+    "wof:lastmodified":1582343813,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

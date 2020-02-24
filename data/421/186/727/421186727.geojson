@@ -99,6 +99,9 @@
     },
     "wof:country":"TT",
     "wof:created":1459009489,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17b10438780a12e354a7afd2553fda03",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421186727,
-    "wof:lastmodified":1566588186,
+    "wof:lastmodified":1582343813,
     "wof:name":"Tunapuna",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",
