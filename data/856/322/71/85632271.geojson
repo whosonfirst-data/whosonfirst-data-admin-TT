@@ -888,7 +888,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -959,7 +958,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1582343813,
+    "wof:lastmodified":1583222769,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
