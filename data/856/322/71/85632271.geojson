@@ -918,9 +918,7 @@
         1141909165
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            780
-        ],
+        "digitalenvoy:country_code":780,
         "fifa:id":"TRI",
         "fips:code":"TD",
         "gaul:id":"246",
@@ -961,7 +959,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529233,
+    "wof:lastmodified":1583797442,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
