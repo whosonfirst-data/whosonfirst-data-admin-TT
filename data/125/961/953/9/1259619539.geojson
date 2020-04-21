@@ -33,7 +33,7 @@
         "Barataria"
     ],
     "name:urd_x_preferred":[
-        "\u0628\u0627\u0631\u0627\u0679\u0627\u0631\u06cc\u0627 "
+        "\u0628\u0627\u0631\u0627\u0679\u0627\u0631\u06cc\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":1259619539,
-    "wof:lastmodified":1566588198,
+    "wof:lastmodified":1587163117,
     "wof:name":"Barataria",
     "wof:parent_id":85679057,
     "wof:placetype":"locality",
