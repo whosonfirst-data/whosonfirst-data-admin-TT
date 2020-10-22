@@ -9,7 +9,6 @@
     "geom:bbox":"-60.8475235672,11.1432559276,-60.6469993437,11.3079761682",
     "geom:latitude":11.215395,
     "geom:longitude":-60.741924,
-    "gn:id":"",
     "iso:country":"TT",
     "label:eng_x_preferred_longname":[
         "Western Tobago Ward"
@@ -151,7 +150,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566588156,
+    "wof:lastmodified":1603255997,
     "wof:name":"Western Tobago",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

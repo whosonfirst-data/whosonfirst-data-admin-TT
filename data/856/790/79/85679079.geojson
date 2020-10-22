@@ -9,7 +9,6 @@
     "geom:bbox":"-61.4285446836,10.5655052758,-61.156959195,10.8043887393",
     "geom:latitude":10.686597,
     "geom:longitude":-61.305191,
-    "gn:id":"",
     "iso:country":"TT",
     "label:eng_x_preferred_longname":[
         "Tunapuna/Piarco Region"
@@ -260,7 +259,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566588156,
+    "wof:lastmodified":1603255997,
     "wof:name":"Tunapuna/Piarco",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

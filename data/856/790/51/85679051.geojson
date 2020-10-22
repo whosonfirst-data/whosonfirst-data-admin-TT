@@ -9,7 +9,6 @@
     "geom:bbox":"-61.243569,10.07518,-60.961293,10.469542",
     "geom:latitude":10.28655,
     "geom:longitude":-61.108408,
-    "gn:id":"",
     "iso:country":"TT",
     "label:eng_x_preferred_longname":[
         "Rio Claro-Mayaro Region"
@@ -263,7 +262,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1587163138,
+    "wof:lastmodified":1603255997,
     "wof:name":"Rio Claro-Mayaro",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

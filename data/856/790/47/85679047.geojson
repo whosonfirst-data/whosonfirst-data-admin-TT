@@ -9,7 +9,6 @@
     "geom:bbox":"-61.2395381334,10.4563646513,-60.9072973298,10.8452822941",
     "geom:latitude":10.657935,
     "geom:longitude":-61.098224,
-    "gn:id":"",
     "gn:population":64343,
     "iso:country":"TT",
     "label:eng_x_preferred_longname":[
@@ -263,7 +262,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566588157,
+    "wof:lastmodified":1603255997,
     "wof:name":"Sangre Grande",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
