@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Saint George County"
     ],
+    "name:fra_x_preferred":[
+        "R\u00e9gion de Diego Martin"
+    ],
     "name:und_x_variant":[
         "Diego Martin"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890431849,
-    "wof:lastmodified":1566588187,
+    "wof:lastmodified":1627522846,
     "wof:name":"Ward of Diego Martin",
     "wof:parent_id":85679035,
     "wof:placetype":"county",

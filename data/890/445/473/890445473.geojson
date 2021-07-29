@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Caroni County"
     ],
+    "name:fra_x_preferred":[
+        "Ward of Chaguanas"
+    ],
     "name:und_x_variant":[
         "Chaguanas"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890445473,
-    "wof:lastmodified":1566588188,
+    "wof:lastmodified":1627522846,
     "wof:name":"Ward of Chaguanas",
     "wof:parent_id":85679065,
     "wof:placetype":"county",
