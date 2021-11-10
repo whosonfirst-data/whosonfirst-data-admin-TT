@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Valencia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05e0\u05e1\u05d9\u05d4"
+    ],
     "name:nld_x_preferred":[
         "Valencia"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":421173817,
-    "wof:lastmodified":1566588185,
+    "wof:lastmodified":1636500447,
     "wof:name":"Valencia",
     "wof:parent_id":85679047,
     "wof:placetype":"locality",

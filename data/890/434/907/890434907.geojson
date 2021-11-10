@@ -94,6 +94,9 @@
     "name:swe_x_preferred":[
         "Scarborough"
     ],
+    "name:tur_x_preferred":[
+        "Scarborough"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0430\u0440\u0431\u043e\u0440\u043e"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:urd_x_variant":[
         "\u0633\u06a9\u0627\u0631\u0628\u0648\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Scarborough"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5361\u4f2f\u52d2"
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":890434907,
-    "wof:lastmodified":1566588189,
+    "wof:lastmodified":1636500447,
     "wof:name":"Scarborough",
     "wof:parent_id":85679029,
     "wof:placetype":"locality",

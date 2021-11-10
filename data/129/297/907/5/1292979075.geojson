@@ -53,6 +53,9 @@
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05e4\u05d8\u05d5\u05df"
     ],
+    "name:hun_x_preferred":[
+        "Grafton"
+    ],
     "name:ita_x_preferred":[
         "Grafton"
     ],
@@ -106,7 +109,7 @@
         "gn:id":3574500
     },
     "wof:country":"TT",
-    "wof:geomhash":"9ab114fb1858c10d4de37505a9d15ca2",
+    "wof:geomhash":"f068e7825df251e116e8169863d4f075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1292979075,
-    "wof:lastmodified":1566588163,
+    "wof:lastmodified":1636500444,
     "wof:name":"Grafton",
     "wof:parent_id":85679029,
     "wof:placetype":"locality",
@@ -126,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -60.78333000000001,
+    -60.78333,
     11.18333,
-    -60.78333000000001,
+    -60.78333,
     11.18333
 ],
-  "geometry": {"coordinates":[-60.78333000000001,11.18333],"type":"Point"}
+  "geometry": {"coordinates":[-60.78333,11.18333],"type":"Point"}
 }

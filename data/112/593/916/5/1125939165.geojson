@@ -37,6 +37,12 @@
     "name:fra_x_preferred":[
         "Princes Town"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05e0\u05e1\u05e1 \u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Princes Town"
+    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30bf\u30a6\u30f3"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125939165,
-    "wof:lastmodified":1566588191,
+    "wof:lastmodified":1636500448,
     "wof:name":"Princes Town",
     "wof:parent_id":85679061,
     "wof:placetype":"locality",

@@ -105,6 +105,9 @@
         "Sveti Josip"
     ],
     "name:hun_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:hun_x_variant":[
         "J\u00f3zsef"
     ],
     "name:hye_x_preferred":[
@@ -248,7 +251,7 @@
         "gn:id":3573775
     },
     "wof:country":"TT",
-    "wof:geomhash":"85cc41f904177ca09d07c311f3c5db4e",
+    "wof:geomhash":"33ab95e2b4678ba1e438436342eba3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":1242956945,
-    "wof:lastmodified":1566588193,
+    "wof:lastmodified":1636500448,
     "wof:name":"Saint Joseph",
     "wof:parent_id":85679083,
     "wof:placetype":"locality",
@@ -268,10 +271,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.44696999999999,
+    -61.44697,
     10.28448,
-    -61.44696999999999,
+    -61.44697,
     10.28448
 ],
-  "geometry": {"coordinates":[-61.44696999999999,10.28448],"type":"Point"}
+  "geometry": {"coordinates":[-61.44697,10.28448],"type":"Point"}
 }

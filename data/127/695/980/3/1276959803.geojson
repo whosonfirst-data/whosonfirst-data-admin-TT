@@ -66,6 +66,9 @@
         "\u05d1\u05d9\u05ea \u05d0\u05dc"
     ],
     "name:hun_x_preferred":[
+        "Bethel"
+    ],
+    "name:hun_x_variant":[
         "B\u00e9tel"
     ],
     "name:hye_x_preferred":[
@@ -130,7 +133,7 @@
         "gn:id":3574992
     },
     "wof:country":"TT",
-    "wof:geomhash":"44a695aaa2fc4db13e9c81fd86c77d6d",
+    "wof:geomhash":"47ccef6ef0a060c45395d3b3fbd659d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1276959803,
-    "wof:lastmodified":1566588166,
+    "wof:lastmodified":1636500444,
     "wof:name":"Bethel",
     "wof:parent_id":85679029,
     "wof:placetype":"locality",
@@ -150,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -60.78353000000001,
+    -60.78353,
     11.1827,
-    -60.78353000000001,
+    -60.78353,
     11.1827
 ],
-  "geometry": {"coordinates":[-60.78353000000001,11.1827],"type":"Point"}
+  "geometry": {"coordinates":[-60.78353,11.1827],"type":"Point"}
 }

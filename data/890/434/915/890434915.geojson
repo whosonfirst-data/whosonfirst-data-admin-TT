@@ -55,10 +55,16 @@
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0abf\u0aae\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d9\u05de\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0930\u093f\u092e\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Arima"
+    ],
+    "name:hun_x_preferred":[
         "Arima"
     ],
     "name:ind_x_preferred":[
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":890434915,
-    "wof:lastmodified":1566588189,
+    "wof:lastmodified":1636500447,
     "wof:name":"Arima",
     "wof:parent_id":85679043,
     "wof:placetype":"locality",
