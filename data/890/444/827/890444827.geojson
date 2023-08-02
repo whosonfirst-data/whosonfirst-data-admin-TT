@@ -55,9 +55,6 @@
     "name:fra_x_preferred":[
         "Point Fortin"
     ],
-    "name:fra_x_variant":[
-        "Point Fortin"
-    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0a87\u0aa8\u0acd\u0a9f \u0aab\u0acb\u0ab0\u0acd\u0a9f\u0abf\u0aa8"
     ],
@@ -69,6 +66,9 @@
     ],
     "name:hun_x_preferred":[
         "Point Fortin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u0578\u0575\u0576\u0569 \u0556\u0578\u0580\u0569\u056b\u0576"
     ],
     "name:ind_x_preferred":[
         "Point Fortin"
@@ -120,6 +120,9 @@
     ],
     "name:spa_x_preferred":[
         "Point Fortin"
+    ],
+    "name:spa_x_variant":[
+        "Punta Fort\u00edn"
     ],
     "name:swe_x_preferred":[
         "Point Fortin"
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890444827,
-    "wof:lastmodified":1636500447,
+    "wof:lastmodified":1690875483,
     "wof:name":"Point Fortin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

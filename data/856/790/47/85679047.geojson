@@ -150,6 +150,9 @@
     "name:vie_x_preferred":[
         "Khu li\u00ean k\u1ebft chung Sangre Grande"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u6851\u683c\u96f7\u5730\u533a"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TTO",
     "ne:adm0_label":"6",
@@ -269,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500444,
+    "wof:lastmodified":1690875478,
     "wof:name":"Sangre Grande",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

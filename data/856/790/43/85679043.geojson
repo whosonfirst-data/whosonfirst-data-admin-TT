@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09b0\u09bf\u09ae\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Arima"
+    ],
     "name:ceb_x_preferred":[
         "Arima"
     ],
@@ -131,7 +134,13 @@
     "name:spa_x_preferred":[
         "Arima"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0438\u043c\u0430"
+    ],
     "name:swe_x_preferred":[
+        "Arima"
+    ],
+    "name:szl_x_preferred":[
         "Arima"
     ],
     "name:tam_x_preferred":[
@@ -154,6 +163,9 @@
     ],
     "name:vie_x_preferred":[
         "Arima"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u91cc\u9a6c"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TTO",
@@ -274,7 +286,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500443,
+    "wof:lastmodified":1690875477,
     "wof:name":"Arima",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

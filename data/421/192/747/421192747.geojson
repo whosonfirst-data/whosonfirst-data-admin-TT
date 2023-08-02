@@ -26,8 +26,14 @@
     "name:nld_x_preferred":[
         "Claxton Bay"
     ],
+    "name:spa_x_preferred":[
+        "Claxton Bay"
+    ],
     "name:und_x_variant":[
         "Claxton Bay Village"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u514b\u65af\u987f\u6e7e"
     ],
     "qs:gn_country":"TT",
     "qs:gn_fcode":"PPL",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421192747,
-    "wof:lastmodified":1566588184,
+    "wof:lastmodified":1690875479,
     "wof:name":"Claxton Bay",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

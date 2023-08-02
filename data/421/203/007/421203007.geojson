@@ -35,8 +35,17 @@
     "name:pol_x_preferred":[
         "Tabaquite"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u0430\u043a\u0432\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Tabaquite"
+    ],
     "name:und_x_variant":[
         "Tabaquite Village"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u74e6\u57fa\u7279"
     ],
     "qs:gn_country":"TT",
     "qs:gn_fcode":"PPL",
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":421203007,
-    "wof:lastmodified":1566588184,
+    "wof:lastmodified":1690875480,
     "wof:name":"Tabaquite",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

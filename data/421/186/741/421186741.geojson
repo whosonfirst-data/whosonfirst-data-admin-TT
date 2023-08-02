@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Tacarigua"
     ],
+    "name:zho_x_preferred":[
+        "\u5854\u5361\u91cc\u74dc"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421186741,
-    "wof:lastmodified":1566588186,
+    "wof:lastmodified":1690875482,
     "wof:name":"Tacarigua",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

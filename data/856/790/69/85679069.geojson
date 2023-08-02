@@ -146,6 +146,9 @@
     "name:zho_x_preferred":[
         "\u76ae\u7d0d\u723e-\u5fb7\u8c9d\u90e1"
     ],
+    "name:zho_x_variant":[
+        "\u76ae\u7eb3\u5c14-\u5fb7\u8d1d\u5730\u533a"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TTO",
     "ne:adm0_label":"6",
@@ -264,7 +267,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500442,
+    "wof:lastmodified":1690875476,
     "wof:name":"Penal-Debe",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

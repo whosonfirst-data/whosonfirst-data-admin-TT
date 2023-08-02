@@ -41,6 +41,9 @@
     "name:und_x_variant":[
         "Blanchisseuse Village"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u862d\u5947\u65af\u5c24\u65af"
+    ],
     "qs:gn_country":"TT",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3574972,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421173111,
-    "wof:lastmodified":1566588185,
+    "wof:lastmodified":1690875481,
     "wof:name":"Blanchisseuse",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

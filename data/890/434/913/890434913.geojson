@@ -19,7 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Couva"
+    ],
     "name:bre_x_preferred":[
+        "Couva"
+    ],
+    "name:cat_x_preferred":[
         "Couva"
     ],
     "name:ceb_x_preferred":[
@@ -52,8 +58,17 @@
     "name:por_x_preferred":[
         "Couva"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0432\u0430"
+    ],
     "name:spa_x_preferred":[
         "Couva"
+    ],
+    "name:spa_x_variant":[
+        "Couva Central"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0432\u0430"
     ],
     "name:und_x_variant":[
         "Couva Savannah Village"
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":890434913,
-    "wof:lastmodified":1566588189,
+    "wof:lastmodified":1690875485,
     "wof:name":"Couva",
     "wof:parent_id":85679065,
     "wof:placetype":"locality",

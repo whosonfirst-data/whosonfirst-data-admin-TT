@@ -65,6 +65,9 @@
     "name:eus_x_preferred":[
         "Fyzabad"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0636\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Fyzabad"
     ],
@@ -115,6 +118,9 @@
     ],
     "name:jam_x_preferred":[
         "Fyzabad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30b6\u30d0\u30fc\u30c9"
     ],
     "name:kab_x_preferred":[
         "Fyzabad"
@@ -193,6 +199,9 @@
     ],
     "name:ron_x_preferred":[
         "Fyzabad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0437\u0430\u0431\u0430\u0434"
     ],
     "name:scn_x_preferred":[
         "Fyzabad"
@@ -296,7 +305,7 @@
         }
     ],
     "wof:id":421172877,
-    "wof:lastmodified":1566588185,
+    "wof:lastmodified":1690875481,
     "wof:name":"Fyzabad",
     "wof:parent_id":85679039,
     "wof:placetype":"locality",
