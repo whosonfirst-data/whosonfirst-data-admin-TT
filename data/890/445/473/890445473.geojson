@@ -18,11 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:cat_x_preferred":[
+        "Caron\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Caroni County"
     ],
     "name:fra_x_preferred":[
         "Ward of Chaguanas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u043d\u0438"
     ],
     "name:und_x_variant":[
         "Chaguanas"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":890445473,
-    "wof:lastmodified":1627522846,
+    "wof:lastmodified":1690875484,
     "wof:name":"Ward of Chaguanas",
     "wof:parent_id":85679065,
     "wof:placetype":"county",

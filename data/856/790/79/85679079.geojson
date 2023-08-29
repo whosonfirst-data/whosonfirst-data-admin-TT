@@ -149,6 +149,9 @@
     "name:zho_x_preferred":[
         "\u9ea5\u9ad8\u8036"
     ],
+    "name:zho_x_variant":[
+        "\u56fe\u7eb3\u666e\u7eb3-\u76ae\u4e9a\u5c14\u79d1\u533a"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TTO",
     "ne:adm0_label":"6",
@@ -266,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1642551820,
+    "wof:lastmodified":1690875478,
     "wof:name":"Tunapuna/Piarco",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

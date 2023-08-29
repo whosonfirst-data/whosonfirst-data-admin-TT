@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0641\u064a\u0646\u062a\u064a\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0641\u064a\u0646\u062a\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Laventille"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0432\u0435\u043d\u0442\u0438\u043b\u0435"
     ],
@@ -32,11 +41,23 @@
     "name:fas_x_preferred":[
         "\u0644\u0627\u0648\u0646\u062a\u0648\u06cc\u0644"
     ],
+    "name:fra_x_preferred":[
+        "Laventille"
+    ],
+    "name:gle_x_preferred":[
+        "Laventille"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30f4\u30a7\u30f3\u30c6\u30a3\u30eb"
     ],
     "name:nld_x_preferred":[
         "Laventille"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0432\u0435\u043d\u0442\u0438\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6587\u8482\u5c14"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -81,7 +102,7 @@
         }
     ],
     "wof:id":421186739,
-    "wof:lastmodified":1566588186,
+    "wof:lastmodified":1690875481,
     "wof:name":"Laventille",
     "wof:parent_id":85679057,
     "wof:placetype":"locality",

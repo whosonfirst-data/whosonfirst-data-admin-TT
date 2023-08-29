@@ -68,6 +68,9 @@
     "name:guj_x_preferred":[
         "\u0aa1\u0abf\u0a8f\u0a97\u0acb \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8"
     ],
+    "name:guj_x_variant":[
+        "\u0aa1\u0abf\u0a8f\u0a97\u0acb \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8 "
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05d9\u05d2\u05d5 \u05de\u05e8\u05d8\u05d9\u05df"
     ],
@@ -125,6 +128,9 @@
     "name:spa_x_preferred":[
         "Diego Martin"
     ],
+    "name:spa_x_variant":[
+        "Diego Mart\u00edn"
+    ],
     "name:swe_x_preferred":[
         "Diego Martin"
     ],
@@ -148,6 +154,12 @@
     ],
     "name:vie_x_preferred":[
         "Khu li\u00ean k\u1ebft chung Diego Martin"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fed\u6208\u9a6c\u4e01\u5730\u533a"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fed\u6208\u9a6c\u4e01\u5730\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TTO",
@@ -267,7 +279,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500442,
+    "wof:lastmodified":1690875476,
     "wof:name":"Diego Martin",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

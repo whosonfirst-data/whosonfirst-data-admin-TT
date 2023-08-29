@@ -20,6 +20,9 @@
     "name:bar_x_preferred":[
         "La Brea"
     ],
+    "name:cat_x_preferred":[
+        "La Brea"
+    ],
     "name:deu_x_preferred":[
         "La Brea"
     ],
@@ -27,6 +30,9 @@
         "La Brea"
     ],
     "name:est_x_preferred":[
+        "La Brea"
+    ],
+    "name:eus_x_preferred":[
         "La Brea"
     ],
     "name:fra_x_preferred":[
@@ -52,6 +58,9 @@
     ],
     "name:urd_x_variant":[
         "\u0644\u0627 \u0628\u0631\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e03\u96f7\u963f"
     ],
     "qs:gn_country":"TT",
     "qs:gn_fcode":"PPL",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421202927,
-    "wof:lastmodified":1566588184,
+    "wof:lastmodified":1690875480,
     "wof:name":"La Brea",
     "wof:parent_id":85679039,
     "wof:placetype":"locality",

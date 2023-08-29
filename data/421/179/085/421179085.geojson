@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Arouca"
+    ],
     "name:ceb_x_preferred":[
         "Arouca"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421179085,
-    "wof:lastmodified":1566588187,
+    "wof:lastmodified":1690875483,
     "wof:name":"Arouca",
     "wof:parent_id":85679079,
     "wof:placetype":"locality",

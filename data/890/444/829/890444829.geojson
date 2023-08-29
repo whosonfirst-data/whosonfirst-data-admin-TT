@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Penal"
+    ],
     "name:ceb_x_preferred":[
         "Pe\u00f1al"
     ],
@@ -28,11 +31,17 @@
     "name:jpn_x_preferred":[
         "\u30da\u30ca\u30eb"
     ],
+    "name:ltz_x_preferred":[
+        "Penal"
+    ],
     "name:nld_x_preferred":[
         "Penal"
     ],
     "name:pol_x_preferred":[
         "Penal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u0430\u043b"
     ],
     "name:und_x_variant":[
         "Pe\u00f1al Village"
@@ -42,6 +51,12 @@
     ],
     "name:urd_x_variant":[
         "\u067e\u06cc\u0646\u0644"
+    ],
+    "name:wuu_x_preferred":[
+        "\u76ae\u7eb3\u5c14"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u7eb3\u5c14"
     ],
     "qs:name":"Pe\u00f1al",
     "qs:photos_9r":0,
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":890444829,
-    "wof:lastmodified":1566588188,
+    "wof:lastmodified":1690875483,
     "wof:name":"Pe\u00f1al",
     "wof:parent_id":85679069,
     "wof:placetype":"locality",

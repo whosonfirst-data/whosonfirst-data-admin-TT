@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Princes Town"
+    ],
     "name:ceb_x_preferred":[
         "Princes Town"
     ],
@@ -52,6 +55,9 @@
     "name:pol_x_preferred":[
         "Princes Town"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043d\u0441\u0435\u0441-\u0422\u0430\u0443\u043d"
+    ],
     "name:spa_x_preferred":[
         "Princes Town"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u0646\u0633\u0632 \u0679\u0627\u0624\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u738b\u5b50\u9547"
     ],
     "qs_pg:aaroncc":"TT",
     "qs_pg:gn_country":"TT",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125939165,
-    "wof:lastmodified":1636500448,
+    "wof:lastmodified":1690875486,
     "wof:name":"Princes Town",
     "wof:parent_id":85679061,
     "wof:placetype":"locality",

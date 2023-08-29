@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "Valencia Village"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4f26\u897f\u4e9a"
+    ],
     "qs:gn_country":"TT",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3573560,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421173817,
-    "wof:lastmodified":1636500447,
+    "wof:lastmodified":1690875480,
     "wof:name":"Valencia",
     "wof:parent_id":85679047,
     "wof:placetype":"locality",
