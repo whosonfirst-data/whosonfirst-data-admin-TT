@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.427787,
-    "geom:area_square_m":5201498234.897195,
+    "geom:area_square_m":5201498234.89777,
     "geom:bbox":"-61.933723,10.041139,-60.49461,11.363472",
     "geom:latitude":10.472075,
     "geom:longitude":-61.261992,
@@ -15,6 +15,9 @@
         "1-868"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "TT"
     ],
@@ -1073,7 +1076,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"1-868",
     "statoids:ds":"TT",
     "statoids:fifa":"TRI",
@@ -1128,7 +1132,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"8a7849174c31b4022a09c04fa8eb6668",
+    "wof:geomhash":"822256c04dab2b7518ae43d99b1a2c10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1142,12 +1146,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875479,
+    "wof:lastmodified":1694492072,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":1341151,
-    "wof:population_rank":12,
+    "wof:population":1394973,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tt",
     "wof:shortcode":"TT",
     "wof:superseded_by":[],
