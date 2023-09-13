@@ -1077,7 +1077,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"1-868",
     "statoids:ds":"TT",
     "statoids:fifa":"TRI",
@@ -1146,7 +1146,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694492072,
+    "wof:lastmodified":1694639525,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
