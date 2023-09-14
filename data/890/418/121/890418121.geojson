@@ -13,11 +13,20 @@
     "gn:fcode":"ADM2",
     "gn:population":79760,
     "iso:country":"TT",
+    "label:eng_x_preferred_longname":[
+        "Ward of Siparia"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ward"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Siparia"
+    ],
     "name:fra_x_preferred":[
         "Ward of Siparia"
     ],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TT",
     "wof:created":1469051235,
-    "wof:geomhash":"f3cae2e90dc1c3e95630526a1a8393da",
+    "wof:geomhash":"5d5f2ab2d624ce4cf813ae982576a22d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":890418121,
-    "wof:lastmodified":1627522846,
+    "wof:lastmodified":1694497770,
     "wof:name":"Ward of Siparia",
     "wof:parent_id":85679069,
     "wof:placetype":"county",
