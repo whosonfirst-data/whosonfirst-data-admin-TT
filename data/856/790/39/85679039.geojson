@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042667,
-    "geom:area_square_m":519347209.920205,
+    "geom:area_square_m":519348771.087562,
     "geom:bbox":"-61.9287,10.04206,-61.468801,10.247504",
     "geom:latitude":10.135912,
     "geom:longitude":-61.63781,
@@ -254,14 +254,16 @@
         "gn:id":7521945,
         "gp:id":56189835,
         "hasc:id":"TT.SI",
+        "iso:code":"TT-SIP",
         "iso:id":"TT-SIP",
         "qs_pg:id":892966,
         "unlc:id":"TT-SIP",
         "wd:id":"Q2679119",
         "wk:page":"Siparia Regional Corporation"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"d552db778740059c4c493d09616c2399",
+    "wof:geomhash":"a7452127f75650e0fccd3c25bd124116",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -276,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875478,
+    "wof:lastmodified":1695884866,
     "wof:name":"Siparia",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

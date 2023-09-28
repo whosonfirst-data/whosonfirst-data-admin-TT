@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011175,
-    "geom:area_square_m":135771166.403081,
+    "geom:area_square_m":135771166.403085,
     "geom:bbox":"-61.765492,10.667064,-61.487998,10.75495",
     "geom:latitude":10.711462,
     "geom:longitude":-61.576573,
@@ -257,14 +257,16 @@
         "gn:id":7521939,
         "gp:id":56189828,
         "hasc:id":"TT.DM",
+        "iso:code":"TT-DMN",
         "iso:id":"TT-DMN",
         "qs_pg:id":224050,
         "unlc:id":"TT-DMN",
         "wd:id":"Q2679107",
         "wk:page":"Diego Martin Regional Corporation"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"1c34470999e858560d5f4210c0759ca5",
+    "wof:geomhash":"74531c4644a92da5fb47ba5ad0fb233f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -279,7 +281,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875476,
+    "wof:lastmodified":1695884866,
     "wof:name":"Diego Martin",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

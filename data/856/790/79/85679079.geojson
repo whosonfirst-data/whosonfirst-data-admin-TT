@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042979,
-    "geom:area_square_m":522230661.509349,
+    "geom:area_square_m":522230270.552624,
     "geom:bbox":"-61.428545,10.565505,-61.156959,10.804389",
     "geom:latitude":10.686597,
     "geom:longitude":-61.305191,
@@ -248,13 +248,15 @@
         "gn:id":7521947,
         "gp:id":56189836,
         "hasc:id":"TT.TP",
+        "iso:code":"TT-TUP",
         "iso:id":"TT-TUP",
         "qs_pg:id":13255,
         "unlc:id":"TT-TUP",
         "wd:id":"Q1899163"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"cf2e8fcdbb2d8effdbf58d57392a6320",
+    "wof:geomhash":"87e5e1db6ed6a22c440be1deeac8e509",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -269,7 +271,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875478,
+    "wof:lastmodified":1695885134,
     "wof:name":"Tunapuna/Piarco",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

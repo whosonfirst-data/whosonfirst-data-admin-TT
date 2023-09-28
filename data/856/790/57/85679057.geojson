@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017721,
-    "geom:area_square_m":215327077.49019,
+    "geom:area_square_m":215327661.876145,
     "geom:bbox":"-61.511408,10.538117,-61.333744,10.804104",
     "geom:latitude":10.685596,
     "geom:longitude":-61.43774,
@@ -255,14 +255,16 @@
         "gn:id":7521946,
         "gp:id":56189834,
         "hasc:id":"TT.SL",
+        "iso:code":"TT-SJL",
         "iso:id":"TT-SJL",
         "qs_pg:id":1131123,
         "unlc:id":"TT-SJL",
         "wd:id":"Q979608",
         "wk:page":"San Juan-Laventille Regional Corporation"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"ff0278515c9a221e8fcba0cb8e55ba14",
+    "wof:geomhash":"86cd7d2ddc14c7d63140896cd7d59f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -277,7 +279,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875476,
+    "wof:lastmodified":1695884866,
     "wof:name":"San Juan-Laventille",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

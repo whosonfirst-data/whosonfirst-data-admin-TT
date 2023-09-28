@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00482,
-    "geom:area_square_m":58593996.660151,
+    "geom:area_square_m":58594014.199169,
     "geom:bbox":"-61.462295,10.503132,-61.364492,10.56628",
     "geom:latitude":10.537104,
     "geom:longitude":-61.409476,
@@ -311,14 +311,16 @@
         "gn:id":7521937,
         "gp:id":56189826,
         "hasc:id":"TT.CH",
+        "iso:code":"TT-CHA",
         "iso:id":"TT-CHA",
         "qs_pg:id":224048,
         "unlc:id":"TT-CHA",
         "wd:id":"Q1444575",
         "wk:page":"Pijawnia"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"e176a45679bfff24b93e99f6a7035f9e",
+    "wof:geomhash":"fcbfc8904be36eaedd7f0c3280e2063f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875478,
+    "wof:lastmodified":1695884324,
     "wof:name":"Chaguanas",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

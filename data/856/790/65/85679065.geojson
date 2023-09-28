@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059349,
-    "geom:area_square_m":721712374.873844,
+    "geom:area_square_m":721712374.87388,
     "geom:bbox":"-61.487945,10.307123,-61.197138,10.591447",
     "geom:latitude":10.439186,
     "geom:longitude":-61.337579,
@@ -251,14 +251,16 @@
         "gn:id":7521938,
         "gp:id":56189827,
         "hasc:id":"TT.CT",
+        "iso:code":"TT-CTT",
         "iso:id":"TT-CTT",
         "qs_pg:id":224049,
         "unlc:id":"TT-CTT",
         "wd:id":"Q2679127",
         "wk:page":"Couva-Tabaquite-Talparo Regional Corporation"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"ac25e5d3c131b706e7dc0b28d3133595",
+    "wof:geomhash":"9006fa4108df9d12cf9a28e911339a25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -273,7 +275,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875477,
+    "wof:lastmodified":1695884866,
     "wof:name":"Couva-Tabaquite-Talparo",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

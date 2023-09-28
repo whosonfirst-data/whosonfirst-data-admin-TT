@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0017,
-    "geom:area_square_m":20680468.406395,
+    "geom:area_square_m":20680506.070526,
     "geom:bbox":"-61.489913,10.248005,-61.427847,10.310017",
     "geom:latitude":10.279739,
     "geom:longitude":-61.45248,
@@ -250,12 +250,14 @@
         "gn:id":3573739,
         "gp:id":20069924,
         "hasc:id":"TT.SF",
+        "iso:code":"TT-SFO",
         "iso:id":"TT-SFO",
         "qs_pg:id":418820,
         "unlc:id":"TT-SFO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"215ddb033ef8925b0d6d64565e52df0c",
+    "wof:geomhash":"bec4a14194bdf39563476839654785fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -270,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500443,
+    "wof:lastmodified":1695884866,
     "wof:name":"San Fernando",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

@@ -121,9 +121,11 @@
         "gn:id":7521940,
         "gp:id":56189856,
         "hasc:id":"TT.",
+        "iso:code":"TT-ETO",
         "qs_pg:id":892968,
         "unlc:id":"TT-ETO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
     "wof:geomhash":"05029fba9181d407637b459b487ff08b",
     "wof:hierarchy":[
@@ -140,7 +142,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694493126,
+    "wof:lastmodified":1695884282,
     "wof:name":"Eastern Tobago",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

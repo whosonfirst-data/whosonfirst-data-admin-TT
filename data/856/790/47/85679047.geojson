@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074274,
-    "geom:area_square_m":902570545.902439,
+    "geom:area_square_m":902569837.770142,
     "geom:bbox":"-61.239538,10.456365,-60.907297,10.845282",
     "geom:latitude":10.657935,
     "geom:longitude":-61.098224,
@@ -250,14 +250,16 @@
         "gn:id":7521944,
         "gp:id":56189833,
         "hasc:id":"TT.SN",
+        "iso:code":"TT-SGE",
         "iso:id":"TT-SGE",
         "qs_pg:id":689669,
         "unlc:id":"TT-SGE",
         "wd:id":"Q290292",
         "wk:page":"Sangre Grande Regional Corporation"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"5bdeeee32680970a6b27d67156586a8c",
+    "wof:geomhash":"8136d2e6100661520e057bed91ca268c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -272,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875478,
+    "wof:lastmodified":1695884866,
     "wof:name":"Sangre Grande",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
