@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048384,
-    "geom:area_square_m":588819187.614377,
+    "geom:area_square_m":588819187.614411,
     "geom:bbox":"-61.44149,10.069322,-61.177659,10.333065",
     "geom:latitude":10.20065,
     "geom:longitude":-61.297792,
@@ -257,14 +257,16 @@
         "gn:id":7521942,
         "gp:id":56189831,
         "hasc:id":"TT.PT",
+        "iso:code":"TT-PRT",
         "iso:id":"TT-PRT",
         "qs_pg:id":1100541,
         "unlc:id":"TT-PRT",
         "wd:id":"Q2228167",
         "wk:page":"Princes Town Regional Corporation"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"92d02dedcc76c26772bdaf84f3ce035a",
+    "wof:geomhash":"2077357b2e9952b1741e57b63b164751",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -279,7 +281,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875475,
+    "wof:lastmodified":1695884866,
     "wof:name":"Princes Town",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

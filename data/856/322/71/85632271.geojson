@@ -1113,6 +1113,7 @@
         "hasc:id":"TT",
         "icao:code":"9Y",
         "ioc:id":"TTO",
+        "iso:code":"TT",
         "itu:id":"TRD",
         "loc:id":"n81008555",
         "m49:code":"780",
@@ -1126,6 +1127,7 @@
         "wk:page":"Trinidad and Tobago",
         "wmo:id":"TD"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
     "wof:country_alpha3":"TTO",
     "wof:geom_alt":[
@@ -1146,7 +1148,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639525,
+    "wof:lastmodified":1695881181,
     "wof:name":"Trinidad and Tobago",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

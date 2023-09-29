@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011595,
-    "geom:area_square_m":140638723.233207,
+    "geom:area_square_m":140639060.377797,
     "geom:bbox":"-60.847524,11.143256,-60.646999,11.307976",
     "geom:latitude":11.215395,
     "geom:longitude":-60.741924,
@@ -137,12 +137,14 @@
         "gn:id":3573606,
         "gp:id":56189855,
         "hasc:id":"TT.TO",
+        "iso:code":"TT-TOB",
         "iso:id":"TT-TOB",
         "qs_pg:id":13256,
         "unlc:id":"TT-WTO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"9f03b9053fab6c11aa5f3e2641927de7",
+    "wof:geomhash":"3807efe07f771a7bd40296535890c2f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +159,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614896191,
+    "wof:lastmodified":1695884537,
     "wof:name":"Western Tobago",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

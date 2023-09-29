@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000829,
-    "geom:area_square_m":10075782.684942,
+    "geom:area_square_m":10075823.5641,
     "geom:bbox":"-61.295555,10.607363,-61.265221,10.653975",
     "geom:latitude":10.62533,
     "geom:longitude":-61.279166,
@@ -264,14 +264,16 @@
         "gn:id":3575052,
         "gp:id":2347116,
         "hasc:id":"TT.AR",
+        "iso:code":"TT-ARI",
         "iso:id":"TT-ARI",
         "qs_pg:id":219620,
         "unlc:id":"TT-ARI",
         "wd:id":"Q661405",
         "wk:page":"Arima"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"dec1fc8d7a634812588657e8b0bc7bd6",
+    "wof:geomhash":"79687d7559bcb343191ff5770d389889",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -286,7 +288,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875477,
+    "wof:lastmodified":1695884866,
     "wof:name":"Arima",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

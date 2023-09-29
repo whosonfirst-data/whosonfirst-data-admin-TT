@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0012,
-    "geom:area_square_m":14582598.728665,
+    "geom:area_square_m":14582499.68231,
     "geom:bbox":"-61.549072,10.635641,-61.491616,10.678005",
     "geom:latitude":10.661193,
     "geom:longitude":-61.5147,
@@ -534,13 +534,15 @@
         "gn:id":3573891,
         "gp:id":2347120,
         "hasc:id":"TT.PS",
+        "iso:code":"TT-POS",
         "iso:id":"TT-POS",
         "qs_pg:id":1135359,
         "unlc:id":"TT-POS",
         "wd:id":"Q39178"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"990a9533647865ade64325000ad817e1",
+    "wof:geomhash":"bebc5203d73187b432be6f7f38c53f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -555,7 +557,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875477,
+    "wof:lastmodified":1695884324,
     "wof:name":"Port of Spain",
     "wof:parent_id":85632271,
     "wof:placetype":"region",

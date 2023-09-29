@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01972,
-    "geom:area_square_m":240017772.413117,
+    "geom:area_square_m":240017989.522866,
     "geom:bbox":"-61.52078,10.069322,-61.372837,10.259064",
     "geom:latitude":10.161144,
     "geom:longitude":-61.4349,
@@ -245,14 +245,16 @@
         "gn:id":7521941,
         "gp:id":56189829,
         "hasc:id":"TT.PD",
+        "iso:code":"TT-PED",
         "iso:id":"TT-PED",
         "qs_pg:id":1100531,
         "unlc:id":"TT-PED",
         "wd:id":"Q2056273",
         "wk:page":"Penal-Debe Regional Corporation"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TT",
-    "wof:geomhash":"1f1adb3375a137a94f1acf6a48a128e4",
+    "wof:geomhash":"8daf03181f09cad20274b0f5297fe257",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -267,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690875476,
+    "wof:lastmodified":1695884866,
     "wof:name":"Penal-Debe",
     "wof:parent_id":85632271,
     "wof:placetype":"region",
